@@ -728,3 +728,483 @@ Parramatta Road intersection which artificially limits throughput.
     </tr>
   </tbody>
 </table>
+
+##### Operational performance - intersections
+
+Table 8.3 provides a summary of the level of service (average intersection
+delays) at key intersections along Parramatta Road corridor for the AM and PM
+peak. The intersections were grouped into nine clusters for assessment purposes
+(as shown in Figure 8.3).
+
+<table id="table-8-4">
+  <caption>Table 8.4 Base year intersection operational performance summary</caption>
+  <thead>
+    <th>Cluster</th>
+    <th>Intersection</th>
+    <th>AM peak hour LoS</th>
+    <th>AM peak hour LoS</th>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="4">1</th>
+      <td>Homebush Bay Drive | M4 eastbound on-ramp</td>
+      <td>A</td>
+      <td>A</td>
+    </tr>
+    <tr>
+      <td>Homebush Bay Drive | M4 eastbound off-ramp</td>
+      <td>D</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Homebush Bay Drive | M4 westbound on-ramp & off-ramp</td>
+      <td>D</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Arthur Street | Centenary Drive</td>
+      <td>E</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <th rowspan="5">2</th>
+      <td>Underwood Road | Pomeroy Street</td>
+      <td>D</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Bridge Road</td>
+      <td>C</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Park Road</td>
+      <td>A</td>
+      <td>A</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Underwood Road</td>
+      <td>B</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Knight Street</td>
+      <td>A</td>
+      <td>A</td>
+    </tr>
+    <tr>
+      <th rowspan="4">3</th>
+      <td>Patterson Road | Concord Road</td>
+      <td>F</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Sydney Street | Concord Road</td>
+      <td>D</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Concord Road</td>
+      <td>E</td>
+      <td>F</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | M4</td>
+      <td>E</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <th rowspan="5">4</th>
+      <td>Parramatta Road | Wentworth Road</td>
+      <td>F</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Broughton Street</td>
+      <td>D</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Burwood Road</td>
+      <td>F</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Gipps Street | Burwood Road</td>
+      <td>F</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Shaftesbury Road</td>
+      <td>E</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <th rowspan="5">5</th>
+      <td>Harris Street | Queens Road</td>
+      <td>D</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Great North Road | Queens Road</td>
+      <td>D</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Great North Road | Ramsay Road</td>
+      <td>D</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <td>Ramsay Road | Fairlight Street</td>
+      <td>F</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <td>Great North Road | Lyons Road</td>
+      <td>F</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <th rowspan="8">6</th>
+      <td>Parramatta Road | Harris Road</td>
+      <td>D</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Croydon Road</td>
+      <td>D</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Great North Road</td>
+      <td>E</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Frederick Street</td>
+      <td>F</td>
+      <td>F</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Bland Street</td>
+      <td>B</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Wattle Street | Ramsay Street</td>
+      <td>F</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <td>Dobroyd Parade | Waratah Street</td>
+      <td>B</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Dobroyd Parade | Timbrell Drive</td>
+      <td>E</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Hume Hightway | Frederick Street</td>
+      <td>F</td>
+      <td>F</td>
+    </tr>
+    <tr>
+      <th rowspan="3">8</th>
+      <td>Parramatta Road | Dalhousie Street</td>
+      <td>C</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Hume Highway</td>
+      <td>F</td>
+      <td>F</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Sloane Street</td>
+      <td>D</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <th rowspan="3">9</th>
+      <td>Parramatta Road | Flood Street</td>
+      <td>D</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Norton Street</td>
+      <td>E</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>Parramatta Road | Crystal Street</td>
+      <td>F</td>
+      <td>D</td>
+    </tr>
+  </tbody>
+</table>
+
+<figure id="fig-8-3">
+  <img src="images/fig-8-3.png" alt="Map showing locations of traffic modelling clusters" />
+  <figcaption>
+    Figure 8.3 Traffic modelling clusters
+  </figcaption>
+</figure>
+
+The Parramatta Road and Wattle Street corridors experience significant
+congestion during the AM and PM peaks. The traffic signals are coordinated to
+provide priority along the corridor to reduce the average delays to the major
+through movements in the peak direction. The results shown in the table indicate
+that a number of the intersections operate at or close to capacity.
+Intersections with a number of conflicting movements experience higher average
+intersection delays.
+##### Traffic crash history
+
+###### Parramatta Road
+
+Between July 2009 and June 2014, 919 crashes were recorded on Parramatta Road
+between Homebush Bay Drive and Balmain Road. Two were fatal crashes, 400
+resulted in injury and 517 were non-casualty crashes. Of these crashes, 621 (68
+per cent) occurred at intersections.
+
+The crash breakdown indicates that about 43 per cent of crashes were rear end
+crashes. This is consistent with roadways that are approaching capacity and
+along which high levels of queuing occur on the approaches to intersections.
+About 15 per cent of crashes were between opposing vehicles, and about 10 per
+cent resulted from lane changes.
+
+###### Corridor analysis
+
+Crash severity indices provide an assessment of road safety based on the type
+and number of crashes occurring. All crash types carry different weightings with
+fatal crashes having the highest weighting. The crash severity index for
+Parramatta Road is 1.22 which is equal to the average for the Sydney
+Metropolitan Area. The M4 has a slightly lower rating of 1.18.
+
+Existing tunnels in Sydney (eg Lane Cove, Eastern Distributor, Cross City Tunnel
+and Sydney Harbour Tunnel) have a crash severity index of 1.16 which is
+reflective of the more controlled conditions, lower speeds and greater drive
+care when travelling in tunnels.
+
+Table 8.5 outlines the average crash rates for Parramatta Road, M4 and existing
+Sydney tunnels. Parramatta Road has a significantly higher crash rate compared
+to the M4 and existing Sydney Tunnels. Crash rates within Sydney’s tunnels are
+substantially lower than on the M4 Motorway (ie three times lower) and
+Parramatta Road (ie about 12 times lower).
+
+<table id="table-8-5">
+  <caption>Table 8.5 Crash rates per 100 million vehicle kilometres travelled</caption>
+  <thead>
+    <tr>
+      <th rowspan="2">Road</th>
+      <th colspan="4">Crash rate per 100MVKT</th>
+    </tr>
+    <tr>
+      <th>Total</th>
+      <th>Fatal</th>
+      <th>Injury</th>
+      <th>Tow-away</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Parramatta Road</th>
+      <td>136.0</td>
+      <td>0.3</td>
+      <td>54.8</td>
+      <td>70.9</td>
+    </tr>
+    <tr>
+      <th>M4 Motorway</th>
+      <td>33.9</td>
+      <td>0.1</td>
+      <td>11.7</td>
+      <td>22.1</td>
+    </tr>
+    <tr>
+      <th>Existing Sydney Tunnels (Lane Cove, Eastern Distributor, Cross City Tunnel and Sydney Harbour Tunnel)</th>
+      <td>11.9</td>
+      <td>0.0</td>
+      <td>4.2</td>
+      <td>7.4</td>
+    </tr>
+  </tbody>
+</table>
+
+Crashes on Parramatta Road between 1 July 2009 and 30 June 2014 cost an
+estimated total of $62,395,968, or $12,479,194 per annum. The analysis indicates
+an average crash cost per 100 million vehicle kilometres travelled of
+$14,670,060 for the four sections analysed.
+
+#### 8.2.4 Public and active transport
+
+##### Bus network
+
+The project falls within the Sydney Metropolitan Bus Region 6, which is operated
+by Sydney Buses. The bus network in the vicinity of the project includes buses
+servicing the Hurstville to Macquarie Park strategic north–south bus corridor
+(route M41) and the Burwood to the CBD strategic east–west bus route (route
+461), which runs along Parramatta Road. There are several bus routes that
+operate within particular sections of the project area via train station hubs,
+such as Strathfield, Burwood and Ashfield.
+
+There are a number of bus services that travel along sections of Parramatta Road
+between Homebush Bay Drive and Wattle Street (routes 525, 526, 461, 415, 490,
+492 and 491). Six Sydney Metropolitan Bus Region 6 routes cross Parramatta Road
+during peak periods between Homebush Bay Drive and Wattle Street.
+
+Sydney’s Bus Future (Transport for NSW 2013) and the Parramatta Road Urban
+Transformation Program (being undertaken by Urban Growth NSW in conjunction with
+the project) will result in changes to the bus network using Parramatta Road and
+the wider project area.
+
+##### Rail network
+
+The project area is serviced by the North Shore, Northern and Western Rail Line
+(T1), and the Airport, Inner West and South Rail Line (T2). To the north of the
+project, North Strathfield Station is serviced by the Main Northern Rail Line
+which provides limited stops services to Sydney Central. To the south, up to 10
+stations are serviced by the T1 and/or T2 Lines with some stations supporting
+limited stop express services. Strathfield and Burwood stations (to the south)
+accommodate the highest volume of passengers due to the large number of AM and
+PM peak services.
+
+##### Pedestrian network
+
+The nature of the pedestrian network in the vicinity of the project varies.
+Residential areas generally provide good local walking connections and
+footpaths, particularly in areas away from major roads. Sydney Markets, Sydney
+Olympic Park, Rhodes and Burwood are close to the study area and within walking
+distance to rail station and bus connections.
+
+There are a limited number of signalised pedestrian crossings on Parramatta
+Road. The distance between signalised pedestrian crossings is up to 800 metres
+in some sections.
+
+##### Cycling network
+
+There are limited segregated cycling facilities along the Parramatta Road
+corridor. Dedicated cycleways or cycle lanes are generally aimed towards leisure
+rather than commuter trips. There are major gaps in north–south connections, due
+to the lack of permeability of Parramatta Road and the M4. In the project area,
+cyclists currently use the shoulders of the existing M4 to travel both eastbound
+and westbound. In the eastbound direction, cyclists are required to leave the M4
+at Sydney Street due to the inadequate shoulder east of Sydney Street. In the
+westbound direction, cyclists access the M4 from the westbound on-ramp at
+Concord Road, due to the inadequate shoulder east of this location.
+
+### 8.3 Assessment of construction impacts
+
+Construction of the project has the potential to result in changes and
+disruptions to the existing road and transport network as a result of:
+
+* The movement of construction vehicles, particularly heavy vehicles
+transporting spoil, to and from the construction footprint, including the 10
+construction ancillary facilities
+
+* Surface works requiring temporary traffic, cyclist and/or pedestrian
+diversions, road occupation, alterations to access, alterations to bus stops,
+temporary road closures, and alterations to speed limits.
+
+A summary of the construction impact assessment is provided in the following
+sections.
+
+#### 8.3.1 Construction traffic volumes and routes
+
+##### Type of traffic generated by construction
+
+Construction would result in the generation of additional movements of both
+heavy and light vehicles on the road network. Construction traffic was divided
+into three categories for assessment purposes:
+
+* Removal of spoil generated by construction activities
+* Heavy vehicle deliveries and other heavy vehicles associated with construction activities
+* Light vehicles travelling to and from ancillary construction facilities.
+
+The impacts of the project during construction were assessed assuming that spoil
+would be hauled in a westerly direction along the M4.
+
+The majority of the ancillary construction facilities proposed for the project
+would have some parking available, however parking would not be provided for the
+whole construction workforce. The management of construction workforce parking
+is discussed further in section 6.6.5 of Chapter 6 (Construction work). An
+upgraded car park on the northern side of Concord Oval would provide about 250
+car parking spaces for employees of the main project office during weekdays
+(before 6.30 pm). During weekends and after 6.30 pm on weekdays, the following
+indicative allocation of car spaces would occur:
+
+
+* 145 public parking spaces on Saturdays (leaving 100 for the construction workforce)
+* 195 public parking spaces on Sundays (leaving 50 for the construction workforce)
+* 145 public parking spaces on weeknights after 6.30 pm (leaving 100 for the construction workforce).
+
+In addition, an existing car park at Railway Lane at North Strathfield
+containing about 50 car parking spaces would be used. This site is within
+walking distance of the Underwood Road civil and tunnel site (C3), Powells Creek
+civil site (C4), and the Concord Road civil and tunnel site (C5).
+
+##### Construction traffic volumes
+
+Table 6.20 in Chapter 6 (Construction work) shows the predicted construction
+traffic volumes for each ancillary construction facility during a typical AM
+peak, PM peak and daily period. The table shows that the highest volumes of
+heavy vehicles are forecast to originate from the Concord Road civil and tunnel
+site (C5) and Northcote Street tunnel site (C7), with the highest volumes of
+light vehicles generated by the Cintra Park tunnel site (C6).
+
+Table 8.6 provides indicative volumes on key roads during the AM and PM peak
+periods for construction heavy vehicles. The volumes shown are based on spoil
+haulage occurring between 7,00 am and 10.00 pm daily. However, 24 hour spoil
+haulage would be required during tunnelling activity.
+
+<table id="table-8.6">
+  <caption>Table 8.6 Indicative peak period distribution of heavy construction vehicles (two-way)</caption>
+  <thead>
+    <tr>
+      <th>Road location</th>
+      <th>Road location AM construction peak hour (7.30 am - 8.30 am)</th>
+      <th>PM construction peak hour (4.15 pm - 5.15 pm)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Wattle Street</th>
+      <td>80</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <th>Concord Road</th>
+      <td>34</td>
+      <td>21</td>
+    </tr>
+    <tr>
+      <th>Parramatta Road</th>
+      <td>172</td>
+      <td>161</td>
+    </tr>
+    <tr>
+      <th>M4 Motorway</th>
+      <td>240</td>
+      <td>203</td>
+    </tr>
+  </tbody>
+</table>
+
+##### Construction traffic routes
+
+Table 6.19 in Chapter 6 (Construction work) outlines the proposed access and
+egress points to and from the construction ancillary facilities. The spoil
+haulage routes from the tunnel sites are shown in Figure 6.22 to Figure 6.24 in
+Chapter 6 (Construction work).
+
+It has been assumed that concrete for tunnel construction would mainly originate
+from batching plants close to the project, although other sources may also be
+required. Other materials required for construction would, where as far as
+practicable, originate from within the Sydney region. Vehicles would generally
+use the arterial road network to access the various construction ancillary
+facilities.
+
+#### 8.3.2 Local road network impacts
