@@ -32,15 +32,15 @@ A planning application was made for the New M5 project in November 2014. A separ
 
 The NSW Government has established WDA to deliver WestConnex. WDA has been established as an independent public subsidiary corporation of Roads and Maritime. Its role and functions are set out in Part 4A of the Transport Administration (General) Regulation 2013 (NSW). WDA is project managing the planning approval process for the project on behalf of Roads and Maritime. However, for the purpose of this planning application for the project, Roads and Maritime is the proponent. 
 
-<figure id="fig-1-1">
-  <img src="images/fig-1.1.png" alt="Map of Sydney Motorways" />
+<figure id="figure-1-1">
+  <img src="images/figure-1-1.png" alt="Map of Sydney Motorways" />
   <figcaption>
     Figure 1.1 Regional context of the project
   </figcaption>
 </figure>
 
-<figure id="fig-1-2">
-  <img src="images/fig-1.2.png" alt="Map of WestConnex route through Sydney" />
+<figure id="figure-1-2">
+  <img src="images/figure-1-2.png" alt="Map of WestConnex route through Sydney" />
   <figcaption>
     Figure 1.2 WestConnex
   </figcaption>
@@ -73,8 +73,8 @@ The project would comprise the construction and operation of the following key f
 * Two new three-lane tunnels (the mainline tunnels), one eastbound and one westbound, extending from west of Pomeroy Street at Homebush to near Alt Street at Haberfield, where they would terminate until the completion of the M4–M5 Link. Each tunnel would be about 5.5 kilometres long and would have a minimum internal clearance (height) to in-tunnel services of 5.3 metres
 * A new westbound on-ramp from Parramatta Road to the M4 at Powells Creek, west of George Street at North Strathfield
 
-<figure id="fig-1-3">
-  <img src="images/fig-1.3.png" alt="Map of WestConnex route between Homebush West and Haberfield" />
+<figure id="figure-1-3">
+  <img src="images/figure-1-3.png" alt="Map of WestConnex route between Homebush West and Haberfield" />
   <figcaption>
     Figure 1.3 Local context of the project
   </figcaption>
@@ -198,8 +198,8 @@ In all cases, direction of travel is described as eastbound (towards the CBD) an
 
 This is shown in Figure 1.4.
 
-<figure id="fig-1-4">
-  <img src="images/fig-1.4.png" alt="Map of WestConnex route with traffic directions between Homebush West and Haberfield" />
+<figure id="figure-1-4">
+  <img src="images/figure-1-4.png" alt="Map of WestConnex route with traffic directions between Homebush West and Haberfield" />
   <figcaption>
     Figure 1.4 Orientation and directional descriptions in this EIS
   </figcaption>

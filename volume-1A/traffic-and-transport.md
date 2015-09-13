@@ -210,8 +210,8 @@ through vehicle movements. The diverse types of business along the Parramatta
 Road transport corridor service both the local and wider community, meaning that
 a number of medium distance, one way trips are generated along the corridor.
 
-<figure id="fig-8-1">
-  <img src="images/fig-8.1.png" alt="Map of Traffic study area" />
+<figure id="figure-8-1">
+  <img src="images/figure-8-1.png" alt="Map of Traffic study area" />
   <figcaption>
     Figure 8.1 Existing road network within the study area
   </figcaption>
@@ -457,8 +457,8 @@ The following volumes are shown in Table 8.2 for the seven survey sites:
   </tbody>
 </table>
 
-<figure id="fig-8-2">
-  <img src="images/fig-8.2.png" alt="Map showing traffic survey locations" />
+<figure id="figure-8-2">
+  <img src="images/figure-8-2.png" alt="Map showing traffic survey locations" />
   <figcaption>
     Figure 8.2 Traffic survey locations
   </figcaption>
@@ -947,8 +947,8 @@ peak. The intersections were grouped into nine clusters for assessment purposes
   </tbody>
 </table>
 
-<figure id="fig-8-3">
-  <img src="images/fig-8-3.png" alt="Map showing locations of traffic modelling clusters" />
+<figure id="figure-8-3">
+  <img src="images/figure-8-3.png" alt="Map showing locations of traffic modelling clusters" />
   <figcaption>
     Figure 8.3 Traffic modelling clusters
   </figcaption>
