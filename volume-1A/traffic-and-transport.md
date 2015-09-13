@@ -10,7 +10,7 @@ This chapter outlines the potential traffic and transport impacts associated wit
 
 The Secretary of the NSW Department of Planning and Environment has issued a set of environmental assessment requirements for the project; these are referred to as Secretary’s Environmental Assessment Requirements (SEARs). Table 8.1 sets out these requirements as they relate to traffic and transport, and identifies where they have been addressed in this environmental impact statement (EIS).
 
-<table>
+<table id="table-8-1">
   <caption>Table 8.1 Secretary’s Environmental Assessment Requirements – traffic and transport</caption>
   <thead>
     <tr>
@@ -274,7 +274,7 @@ The following volumes are shown in Table 8.2 for the seven survey sites:
 * Average weekday traffic (AWT) volume: daily traffic volume – derived from 24 hour traffic counts recorded between Monday and Friday during the survey week
 * Average daily traffic (ADT) volume: daily traffic volume – derived from 24 hour traffic counts recorded between Monday and Sunday during the survey week.
 
-<table>
+<table id="table-8-2">
   <caption>Table 8.2 Summary of traffic volumes</caption>
   <thead>
     <tr>
