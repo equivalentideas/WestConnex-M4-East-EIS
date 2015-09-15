@@ -2283,7 +2283,7 @@ project carrying the most vehicles, east of Concord Road.
 
 <figure>
   <table id="table-8-11">
-    <caption>Table 8.9 2021 ‘do something’ AM peak midblock operational performance</caption>
+    <caption>Table 8.11 2031 ‘do something’ AM peak midblock operational performance</caption>
     <thead>
       <tr>
         <th rowspan="2">Location and direction</th>
@@ -2303,39 +2303,303 @@ project carrying the most vehicles, east of Concord Road.
     </thead>
     <tbody>
       <tr>
-        <th rowspan="2"></th>
-      </tr>
-    </tbody>
-  </table>
-  <footer>
-  <p>Notes: V/C = volume to capacity ratio</p>
-  <p>&ast; Freeway level of service is evaluated in passenger car units</p>
-  </footer>
-</figure>
-
-<figure>
-  <table id="table-8-12">
-    <caption>Table 8.9 2021 ‘do something’ AM peak midblock operational performance</caption>
-    <thead>
-      <tr>
-        <th rowspan="2">Location and direction</th>
-        <th rowspan="2">No. lanes</th>
-        <th colspan="3">Do minimum (veh/hr)</th>
-        <th rowspan="2">No. lanes</th>
-        <th colspan="3">Do something (veh/hr)</th>
+        <th rowspan="2">Parramatta Road west of Bridge Road - Homebush</th>
+        <td>EB</td>
+        <td>3</td>
+        <td>1724</td>
+        <td>0.64</td>
+        <td>D</td>
+        <td>3</td>
+        <td>1781</td>
+        <td>0.66</td>
+        <td>D</td>
       </tr>
       <tr>
-        <th>Flow</th>
-        <th>V/C</th>
-        <th>LoS</th>
-        <th>Flow</th>
-        <th>V/C</th>
-        <th>LoS</th>
+        <td>WB</td>
+        <td>3</td>
+        <td>1833</td>
+        <td>0.68</td>
+        <td>D</td>
+        <td>3</td>
+        <td>2012</td>
+        <td>0.75</td>
+        <td>D</td>
       </tr>
-    </thead>
-    <tbody>
       <tr>
-        <th rowspan="2"></th>
+        <th rowspan="2">Parramatta Road between Knight Street and Concord Road - Strathfield</th>
+        <td>EB</td>
+        <td>2</td>
+        <td>1551</td>
+        <td>0.86</td>
+        <td>E</td>
+        <td>2</td>
+        <td>1948</td>
+        <td>1.08</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>3</td>
+        <td>1908</td>
+        <td>0.71</td>
+        <td>D</td>
+        <td>3</td>
+        <td>2412</td>
+        <td>0.89</td>
+        <td>E</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Parramatta Road between Mosely Street and Burwood Road - Strathfield</th>
+        <td>EB</td>
+        <td>3</td>
+        <td>2624</td>
+        <td>0.97</td>
+        <td>E</td>
+        <td>3</td>
+        <td>1674</td>
+        <td>0.62</td>
+        <td>D</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>3</td>
+        <td>3407</td>
+        <td>1.26</td>
+        <td>F</td>
+        <td>3</td>
+        <td>2425</td>
+        <td>0.90</td>
+        <td>E</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Parramatta Road between Shaftesbury Road and Harris Street - Burwood</th>
+        <td>EB</td>
+        <td>3</td>
+        <td>2101</td>
+        <td>0.78</td>
+        <td>D</td>
+        <td>2</td>
+        <td>1016</td>
+        <td>0.56</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>3</td>
+        <td>2416</td>
+        <td>0.89</td>
+        <td>E</td>
+        <td>2</td>
+        <td>1061</td>
+        <td>0.59</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Parramatta Road between Bland Street and Dalhousie Street - Haberfield</th>
+        <td>EB</td>
+        <td>3</td>
+        <td>2091</td>
+        <td>0.77</td>
+        <td>D</td>
+        <td>3</td>
+        <td>1449</td>
+        <td>0.54</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>3</td>
+        <td>2198</td>
+        <td>0.81</td>
+        <td>E</td>
+        <td>3</td>
+        <td>1084</td>
+        <td>0.40</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Parramatta Road between Sloane Street and West Street - Haberfield</th>
+        <td>EB</td>
+        <td>2</td>
+        <td>2673</td>
+        <td>1.49</td>
+        <td>F</td>
+        <td>2</td>
+        <td>2627</td>
+        <td>1.46</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>3</td>
+        <td>2857</td>
+        <td>1.06</td>
+        <td>F</td>
+        <td>2</td>
+        <td>2702</td>
+        <td>1.50</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Parramatta Road east of Crystal Street - Petersham</th>
+        <td>EB</td>
+        <td>2</td>
+        <td>2012</td>
+        <td>1.12</td>
+        <td>F</td>
+        <td>2</td>
+        <td>1890</td>
+        <td>1.05</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>2</td>
+        <td>2201</td>
+        <td>1.22</td>
+        <td>F</td>
+        <td>2</td>
+        <td>2034</td>
+        <td>1.13</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Dobroyd Parade north of Timbrell Drive - Haberfield</th>
+        <td>NB</td>
+        <td>2</td>
+        <td>1957</td>
+        <td>1.09</td>
+        <td>F</td>
+        <td>2</td>
+        <td>1917</td>
+        <td>1.07</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <td>SB</td>
+        <td>2</td>
+        <td>2100</td>
+        <td>1.17</td>
+        <td>F</td>
+        <td>2</td>
+        <td>1958</td>
+        <td>1.09</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <th rowspan="2">M4 East east of Concord Road - Strathfield</th>
+        <td>EB</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>3</td>
+        <td>4273 &ast;</td>
+        <td>0.63</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>3</td>
+        <td>6668 &ast;</td>
+        <td>0.99</td>
+        <td>E</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Queens Road west of Great North Road - Five Dock</th>
+        <td>EB</td>
+        <td>1</td>
+        <td>953</td>
+        <td>1.06</td>
+        <td>F</td>
+        <td>1</td>
+        <td>919</td>
+        <td>1.02</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>1</td>
+        <td>1181</td>
+        <td>1.31</td>
+        <td>F</td>
+        <td>1</td>
+        <td>1053</td>
+        <td>1.17</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Queens Road west of Harris Street - Five Dock</th>
+        <td>EB</td>
+        <td>1</td>
+        <td>1126</td>
+        <td>1.25</td>
+        <td>F</td>
+        <td>1</td>
+        <td>1057</td>
+        <td>1.17</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>1</td>
+        <td>1246</td>
+        <td>1.38</td>
+        <td>F</td>
+        <td>1</td>
+        <td>1172</td>
+        <td>1.30</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Gipps Street west of Burwood Road - Concord</th>
+        <td>EB</td>
+        <td>1</td>
+        <td>898</td>
+        <td>1.00</td>
+        <td>E</td>
+        <td>1</td>
+        <td>816</td>
+        <td>0.91</td>
+        <td>E</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>1</td>
+        <td>979</td>
+        <td>1.09</td>
+        <td>F</td>
+        <td>1</td>
+        <td>900</td>
+        <td>1.00</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <th rowspan="2">M4 Motorway west of Concord Road off-ramp - Strathfield</th>
+        <td>EB</td>
+        <td>2</td>
+        <td>2879 &ast;</td>
+        <td>0.64</td>
+        <td>C</td>
+        <td>2</td>
+        <td>1133 &ast;</td>
+        <td>0.25</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>2</td>
+        <td>4159 &ast;</td>
+        <td>0.92</td>
+        <td>E</td>
+        <td>2</td>
+        <td>1892 &ast;</td>
+        <td>0.42</td>
+        <td>B</td>
       </tr>
     </tbody>
   </table>
