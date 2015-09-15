@@ -2936,3 +2936,445 @@ project carrying the most vehicles, east of Concord Road.
   <p>&ast; Freeway level of service is evaluated in passenger car units</p>
   </footer>
 </figure>
+
+For the 2031 scenario, the opening of the possible future M4–M5 Link (which is
+subject to planning approval) (M4–M5 Link) provides scope for a limited
+extension of bus lanes east of Dalhousie Street, which is discussed further in
+Appendix G. This is accounted for in the assessment by a reduction in the number
+of westbound general traffic lanes between Sloane Street at Haberfield and West
+Street at Petersham.
+
+In summary, the 2031 levels of service demonstrate the impact of the M4–M5 Link,
+as there is a small reduction in traffic density east of the Parramatta Road
+interchange (whereas there was an increase in 2021). However, the level of
+service would remain at F for all these midblocks. The exception is westbound to
+Sloane Street, where traffic increases substantially due to the provision of a
+bus lane in the 2031 'do something' scenario. There would be limited change on
+Dobroyd Parade east of Timbrell Drive, reflecting no significant fall in volumes
+due to the M4–M5 Link. However increases would be experienced west of Concord
+Road, with eastbound density approaching George Street of particular note. High
+traffic densities would be recorded on the project east of Concord Road,
+particularly westbound during the AM peak where capacity is reached.
+
+##### Motorway performance
+
+The midblock performance of the M4 East and M4 in 2021 and 2031 for the ‘do
+minimum’ and ‘do something’ scenarios are shown in Table 8.13.
+
+In the 2021 AM and PM peaks, a high level of service is provided within the M4
+East. There would also be improvements to the level of service for the M4 west
+of Concord Road as a result of the project.
+
+In 2031, increased traffic densities are recorded within the M4 East tunnels, in
+particular during the westbound AM peak and the eastbound PM peak where capacity
+is reached.
+
+High traffic densities are now recorded in the project's mainline tunnel east of
+Concord Road, particularly westbound during the AM peak and eastbound in the PM
+peak where capacity is reached.
+
+<table id="table-8-13">
+  <caption>Table 8.3 Midblock operational performance of motorways</caption>
+  <thead></thead>
+  <tbody></tbody>
+</table>
+
+##### Intersection performance
+
+Modelling of intersection performance involved grouping the key intersections
+into nine clusters (as shown in Figure 8.3). The intersection performance
+results are summarised in Table 8.14.
+
+In summary, the results of the intersection analysis show significant reductions
+in delay during all operational scenarios as a result of the project. However, a
+number of intersections have been assessed as presenting challenging conditions
+for the 'do something' scenarios. These issues are summarised as follows:
+
+* The intersection of Parramatta Road and George Street experiences significant
+delay in all ‘do minimum’ and ‘do something’ scenarios. Proposed intersection
+amendments, such as reinstating the north approach double right turn, mean that
+the delay only increases in the 2031 AM peak. Delays at this intersection may
+combine with the operation of the Powells Creek on-ramp to increase the risk of
+queuing impacting the performance of other intersections. The modelled delays
+indicate a risk of queued vehicles reaching the Concord Road intersection
+* Concord Road would continue to experience a high level of delays due to a
+significant increase in volumes. By 2031, northbound delays through Patterson
+Street could lead to lengthy delays and the formation of significant queues on
+the northbound off-ramp, and potentially through the congested Parramatta Road
+intersection
+* Substantially higher right turn volumes between Parramatta Road and
+Shaftesbury Road lead to a significant increase in delays in the 2031 PM peak
+* Capacity restrictions at the Dobroyd Parade/Timbrell Drive and Parramatta
+Road/Hume Highway intersections are likely to block through adjacent
+intersections and lead to significant queuing on the project off-ramps in 2021.
+Particular issues result from higher right turn volumes from Timbrell Drive to
+Dobroyd Parade, and from Parramatta Road to Hume Highway
+* The opening of the M4–M5 Link and the provision of ramps on Wattle Street
+significantly reduces congestion east of Bland Street, but re-introduces
+significant delays at the Parramatta Road and Wattle Street intersection. A
+large left turn movement from Parramatta Road is a key issue which could impact
+bus travel times in the kerbside lane.
+
+<table id="table-8-14">
+  <caption>Table 8.14 Summary of intersection performance modelling results</caption>
+  <thead></thead>
+  <tbody></tbody>
+</table>
+
+##### Travel times
+
+Indicative AM peak travel time savings on strategic routes (taken from the WRTM)
+are illustrated in Figure 8.4. The travel time savings discussed below do not
+include any savings resulting from the M4 Widening project. The analysis
+suggests that travel time savings of between six and eight minutes are provided
+by the project in 2021 on most strategic routes assessed. Travel time savings in
+2031 take account of the M4–M5 Link and result in more substantial time savings
+of 10 to 18 minutes.
+
+<figure id="figure-8-4">
+</figure>
+
+PM peak travel time savings are illustrated in Figure 8.5 and demonstrate
+similar time savings in 2021, with an increase in 2031 to savings of 13 to 20 minutes.
+
+<figure id="figure-8-5">
+</figure>
+
+The analysis demonstrates travel time savings on strategic corridors resulting
+from the project, augmented in 2031 by the completion of WestConnex. It is noted
+that the WTRM is a strategic model which may not fully account for intersection
+delays at a detailed level and therefore provides a conservative assessment.
+Analysis from the LinSig intersection models suggests substantial time savings
+at intersections, delivering further benefits to local, regional and strategic
+trips.
+
+##### Safety
+
+The WRTM has been used to estimate the number of crashes in the study area
+(using the M4 and Parramatta Road corridors) with and without the project, using
+the assumption that the number of crashes per vehicle kilometre travelled is
+similar to the existing situation.
+
+This assessment was confined to the existing M4 and Parramatta Road corridors
+where existing data can be used to estimate future behaviour.
+Crashes during the do minimum scenario are predicted to rise slowly over time on
+the M4 and Parramatta Road corridor. This reflects the forecast increases in
+traffic volumes. Annual costs of $14.95 million are anticipated in 2021 with
+these expected to rise to $16.31 million per annum by 2031.
+
+With the construction of the project (do something scenario), there is a clear
+overall road safety benefit on the corridor with a 32 per cent reduction in
+crash costs in 2021 from $14.95 million to $10.2 million annually. This
+reduction in crash costs is less pronounced in 2031 due to the large volume
+increases on the project but nevertheless a reduction of approximately 25 per
+cent is observed with costs falling from $16.31 million to $12.22 million per
+annum.
+
+The project design and construction would incorporate design reviews and road
+safety audits in compliance with Roads and Maritime guidance to follow best
+practice in reducing crash risks.
+
+#### 8.4.2 Public transport
+
+##### Bus network
+
+
+Transport for NSW intends to operate a new high frequency bus route between
+Burwood and the CBD, via Parramatta Road. Bus frequency has yet to be confirmed;
+however, a guide of 15 to 20 buses per hour in 2021, and 20 to 30 buses per hour
+in 2031 has been provided.
+
+The operational modelling has assumed that bus lanes would be provided between
+Burwood Road and east of Bland Street to coincide with the opening of the
+project. Further provision of bus lanes to the east is also assumed to coincide
+with the opening of the M4–M5 Link.
+
+A high level analysis has been undertaken to understand the potential level of
+bus delays at signalised intersections with and without the project. The results
+are provided in Table 8.15 and Table 8.16.
+
+<table id="table-8-15">
+  <caption></caption>
+  <thead></thead>
+  <tbody></tbody>
+</table>
+
+<table id="table-8-16">
+  <caption></caption>
+  <thead></thead>
+  <tbody></tbody>
+</table>
+
+The results indicated that, in 2021, time savings for buses of up to 14 minutes
+in the westbound direction are achievable. Other time savings vary between three
+and six minutes. In 2031, AM time savings increase to five to 15 minutes and the
+PM peak is five to 11 minutes. Bus delays in 2031 'do something' scenarios rise
+only marginally with the exception of eastbound during the PM peak. This is
+mainly a result of delays at the Wattle Street intersection due to a high left
+turn demand to the M4–M5 Link ramps and the absence of a dedicated left turn
+provision.
+
+The project amends the priority for buses serving the Olympic Park via the
+underpass at Homebush Bay Drive. Bus would be required to give way to vehicles
+on the M4 eastbound on-ramp. The operation of this ramp would be subject to
+further discussions between WDA, Roads and Maritime and Sydney Olympic Park
+Authority (SOPA).
+
+_The NSW Long Term Transport Master Plan_ (Transport for NSW 2012a) provides the
+overarching strategy for Sydney’s transport future. The Plan recognises the
+importance of the Parramatta Road corridor as the main connection between the
+Sydney CBD and Western Sydney. Potential improvements for the corridor come from
+the long term Master Plan through the Parramatta Road Urban Transformation
+Program.
+
+A re-design of the Parramatta Road corridor is not being delivered at part of
+the project. However, the project will create the opportunity to investigate how
+existing road space and transport operations could be reconfigured/rebalanced
+(eg improved east-west and north-south movements) to improve public transport
+access/services/patronage along and across the Parramatta Road corridor.
+
+##### Opportunities to improve public transport patronage
+
+As a result of the predicted reductions in traffic volumes provided by the
+project in 2021 peak periods on Parramatta Road, the project presents the
+opportunity to provide bus lanes on Parramatta Road east of Burwood Road (as
+part of a separate project. The assessment also indicates that peak period bus
+intersection delays would reduce by five to 15 minutes in the 2031 operational
+scenario.
+
+Provision of bus lanes, as part of a separate project, could lead to an increase
+in the number of services. Combined with the reduction in bus travel times, this
+would have the potential to improve public transport patronage along the
+corridor.
+
+#### 8.4.3 Pedestrian and cyclist facilities
+
+As the majority of road network changes associated with the project would occur
+underground and at existing intersections, there would be limited change to
+pedestrian facilities on surface roads. Improvements to pedestrian facilities
+may, however, occur as part of potential future changes to the Parramatta Road
+environment to be considered as part of the _New Parramatta Rd: Draft Parramatta
+Road Urban Renewal Strategy_ (UrbanGrowth NSW 2015).
+
+Potential benefits include:
+
+* Realigned pedestrian footpaths at locations such as the Wattle Street and Ramsay Street intersection
+* Additional crossing locations such as the southbound off-ramp location on Concord Road and the Powell's Creek westbound on-ramp
+* Amendments to signal timings due to changes in traffic volume and distribution. As the majority of intersections within the study area would carry fewer vehicles, this would be generally positive and provide scope for additional pedestrian crossing time and/or signal phases.
+
+Cyclists can also expect to benefit from reduced traffic volumes through the
+study area, and the ability to use the bus lanes on Parramatta Road which would
+be facilitated by the project.
+
+The existing eastbound cycleway on the northern side of the M4 would be
+re-routed from east of Homebush Bay Drive to near Pomeroy Street. Part of the
+re-routed cycleway would be off-road, improving cyclist safety and amenity. In
+addition, as a result of the removal of the existing Concord Road northbound
+on-ramp connecting to the existing M4 westbound, a new cycleway ramp would be
+provided near Queen Street at North Strathfield. These changes would not
+significantly adversely affect cyclist travel times and amenity.
+
+#### 8.4.4 Fulfilment of project objectives
+
+The objectives of the project are identified in Chapter 3 (Strategic context and
+project need). The performance of the project measured against the traffic and
+transport-related project objectives is discussed below.
+
+**Support Sydney’s long-term economic growth through improved motorway access
+and connections linking Sydney’s international gateways (Sydney Airport and Port
+Botany), Western Sydney and places of business across the city**
+
+The assessment in this chapter and Appendix G has identified large reductions in
+vehicle delay along the corridor between Homebush Bay Drive in the west, and
+City West Link and Haberfield/Leichardt in the east. This is evident both within
+the new project tunnel which would ultimately provide connectivity to the M4–M5
+Link, and also on the existing Parramatta Road, despite the reduction in
+capacity due to the provision of kerbside bus lanes. As a result, connectivity
+between the major centres identified in this objective would be improved as a
+result of the project.
+
+**Relieve road congestion so as to improve the speed, reliability and safety of
+travel in the M4 corridor, including parallel arterial roads**
+
+
+As discussed above, large reductions in vehicle delay are forecast as a result
+of the project on the overall corridor, and specifically on Parramatta Road. The
+assessment has also identified benefits on the parallel route along Queens Road
+and Gipps Street. The project would also provide additional route options along
+the corridor and therefore increase network resilience in the event of
+incidents.
+
+**Cater for the diverse travel demands along these corridors that are best met by road infrastructure**
+
+The project provides the opportunity for the provision of bus lanes on
+Parramatta Road east of Burwood Road due to the substantial reductions in
+traffic volumes during peak periods. This has been assessed as reducing peak
+period bus intersection delays by five to 15 minutes in the 2031 operational
+scenario. The traffic reductions and bus lanes also provide greater
+opportunities for cyclist use of Parramatta Road and parallel corridors sharing
+in the overall volume reduction. Finally, greater priority for pedestrians at
+signalised crossings would be possible in tandem with the reductions in traffic
+volume.
+
+**Create opportunities for urban revitalisation, improved liveability, and public
+and active transport improvements along and around Parramatta Road**
+
+The reduction in traffic volumes and congestion on Parramatta Road provides
+opportunities for reprioritisation of capacity for public transport and
+pedestrian movements. This would be further explored in the Parramatta Road
+Urban Transformation Program being undertaken in parallel with the WestConnex
+project.
+
+**Enhance the productivity of commercial and freight generating land uses
+strategically located near transport infrastructure**
+
+The improvement in connectivity and journey times across the corridor, together
+with the associated opportunities for regeneration being explored in the
+Parramatta Road Urban Transformation Program, improve the capacity of the
+transport network for the increased productivity of land uses.
+
+**Enhance movements across the Parramatta Road corridor which are currently
+restricted**
+
+Reductions in eastbound and westbound traffic volumes provide opportunities for
+increased cross movements along the corridor. Delays are forecast to
+substantially reduce at the majority of intersections assessed.
+
+**Integrate with the preceding and proposed future stages of WestConnex, without
+creating significant impacts on the surrounding environment or duplicating any
+potential issues across the construction periods**
+
+In its initial stages of construction, the project would overlap with the M4
+Widening and the King Georges Road Interchange Upgrade projects, and
+substantially overlaps with construction of the New M5. Only the M4 Widening
+project uses similar access routes to the construction ancillary facilities, and
+the staggering of construction periods results in completion of a significant
+proportion of the M4 Widening works before construction intensifies on the M4
+East project. Minimal cumulative impacts would therefore be likely, relative to
+the full construction peak of the project itself.
+
+The project provides the connection between the M4 Widening and M4–M5 Link
+projects through the mainline tunnel connection. The design accommodates the
+ultimate construction of the M4–M5 Link through the construction of stub tunnels
+and the interim layout on Wattle Street. No significant impact or overlap has
+therefore been identified relating to the future WestConnex stages.
+
+### 8.5 Assessment of cumulative impacts
+
+#### 8.5.1 Construction
+
+Based on current information, elements of the construction program would occur
+simultaneously with three other WestConnex projects:
+
+* King Georges Road Interchange Upgrade
+* M4 Widening
+* New M5 (subject to planning approval).
+
+The King Georges Road Interchange Upgrade is scheduled for completion by the
+second quarter of 2017. While there is a small time overlap with the beginning
+of project construction, heavy vehicle and other access routes are not expected
+to converge, so there would be minimal potential for cumulative impacts.
+
+M4 Widening construction works are scheduled for completion by the end of
+December 2016. Construction haul routes and vehicle access routes are expected
+to be similar to the project given the location and nature of construction. This
+would result in a small overlap between the commencement of construction of the
+project and the completion of construction on the M4 Widening. The workforce
+demand profile for the project suggests that vehicle movements would increase
+from about 20 per cent of peak construction in the first quarter of 2016, to 80
+per cent in the third quarter. During this period, construction vehicle
+movements related to the M4 Widening would reduce, as the majority of work sites
+would be completed by the end of the second quarter. As a result, the combined
+impact during this period is expected to be less than during the peak
+construction period for the project alone.
+
+Subject to planning approval, the New M5 currently has a projected construction
+timetable extending from the third quarter of 2016 to the third quarter of 2019.
+This is a delay of about six months behind the project. There is therefore a
+large overlap between the construction periods for the two projects. Preliminary
+information indicates that the majority of heavy vehicle and other routes
+associated with the New M5 would use the existing M5 corridor and therefore have
+a limited potential for cumulative impact with the project.
+
+A discussion of the cumulative impacts resulting from other projects is included
+in section 26.5.1 (Cumulative impacts). In summary, there are currently no other
+major projects whose construction would significantly increase traffic volumes
+and patterns along the Parramatta Road corridor (within the project area) during
+the construction period.
+
+Construction volumes associated with minor works are anticipated to have a
+negligible impact similar to that of daily or seasonal variations in traffic
+volumes and patterns.
+
+#### 8.5.2 Operation
+
+The operational traffic modelling for the 2031 ‘do something’ scenario assumes
+the completion of all WestConnex projects. This therefore represents a
+cumulative traffic impact assessment for WestConnex.
+
+### 8.6 Management of impacts
+
+#### 8.6.1 Project design features that manage impacts
+
+Layout changes to the existing road network have been proposed to complement
+and/or mitigate the impacts of the project within the project design. These
+include:
+
+* Provision of a northbound right turn bay on Concord Road approaching the Patterson Street intersection, to reduce northbound queuing downstream of the M4 East northbound off-ramp
+* Removal of the existing Concord Road northbound on-ramp connecting to the existing M4 westbound and provision of the Powells Creek on-ramp to access the M4 westbound, to reduce the volume of westbound Parramatta Road traffic turning right into Concord Road
+* Removal of the left turn to the existing M4 westbound for eastbound Parramatta Road traffic and provision of a new Concord Road southbound on-ramp connecting to the existing M4 westbound. This will reduce the volume of southbound Concord Road traffic turning left into Parramatta Road
+* Lane utilisation changes on the southbound approach of Concord Road to Parramatta Road resulting in the creation of a double right turn bay and a shared through and left lane. This helps accommodate additional right turn demand created by the southbound off-ramp
+* Provision of an additional right turn bay on the westbound approach of Parramatta Road to Concord Road to cater for additional right turn demand to the eastbound on-ramp
+* Westbound lane utilisation changes on Parramatta Road approaching the existing M4 and Concord Road. Two continuing lanes will be provided with a single right turn lane to the existing M4, reflecting a change in the balance of demand for westbound traffic
+* New right turn provision from Wattle Street to Ramsay Street (eastbound) for Wattle Street surface traffic that will not be able to use the existing right turn at Waratah Avenue.
+
+#### 8.6.2 Road network optimisation
+
+Management of road network assets is a key function of Roads and Maritime which
+uses network and corridor planning strategies to best manage and enhance these
+assets to maximise community benefits. Network and corridor planning is a
+process aimed at enhancing the capacity to manage and enhance the road network
+to meet community expectations. Integrated network and corridor planning
+processes are a critical input to working towards the vision of “a safe
+sustainable and efficient road transport system”. The process involves a few key
+elements including:
+
+* Setting network and corridor objectives in line with NSW and Australian Government strategies and community expectations
+* Analysing anticipated performance against appropriate safety, traffic and asset measures
+* Identifying strategic priorities to achieve appropriate safety, traffic and asset performance over the longer term within the context of limited funding.
+
+As a key part of network management, network and/or corridor optimisation is a
+key tool in the management of project impacts. Together with the ongoing
+development of the Roads and Maritime Pinch Point Program targeting peak hour
+traffic hotspots, and other infrastructure measures, it facilitates the
+management of impacts identified in section 8.4 to ensure that travel time
+savings are maintained to the greatest extent possible by minimising
+intersection and midblock delays.
+
+In addition to an optimisation strategy and potential infrastructure provision,
+the maintenance of the existing traffic control system is a key ingredient in
+providing Roads and Maritime with the tools to appropriately manage congestion
+on the network. A review of existing SCATS infrastructure at key intersections
+in the study area, including detectors, will be undertaken and upgrades will be
+implemented where appropriate.
+
+To manage impacts identified in section 8.4, a number of network optimisation
+techniques have been identified, along with upgrades requiring civil works,
+funding and further investigation. These are identified in Table 8.17 (measures
+OpTT2 and OpTT4). These techniques and upgrades do not form part of the project
+but are recommended as measures considered appropriate to mitigate the impacts
+identified in this assessment. Additional changes may be proposed and
+implemented by Roads and Maritime following the operational traffic review
+identified in Table 8.17 (measure OpTT1).
+
+#### 8.6.3 Environmental management measures
+
+Environmental management measures relating to traffic and transport are outlined
+in Table 8.17.
+
+<table id="8-17">
+  <caption></caption>
+  <thead></thead>
+  <tbody></tbody>
+</table>
+
