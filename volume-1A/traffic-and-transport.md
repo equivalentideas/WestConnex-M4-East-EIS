@@ -2973,11 +2973,230 @@ High traffic densities are now recorded in the project's mainline tunnel east of
 Concord Road, particularly westbound during the AM peak and eastbound in the PM
 peak where capacity is reached.
 
+<figure>
 <table id="table-8-13">
   <caption>Table 8.3 Midblock operational performance of motorways</caption>
-  <thead></thead>
-  <tbody></tbody>
+  <thead>
+      <tr>
+        <th rowspan="2" colspan="2">Location and direction</th>
+        <th rowspan="2">No. lanes</th>
+        <th colspan="3">Do minimum (veh/hr)</th>
+        <th rowspan="2">No. lanes</th>
+        <th colspan="3">Do something (veh/hr)</th>
+      </tr>
+      <tr>
+        <th>Flow</th>
+        <th>V/C</th>
+        <th>LoS</th>
+        <th>Flow</th>
+        <th>V/C</th>
+        <th>LoS</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="10">AM peak - 2021</th>
+    </tr>
+    <tr>
+      <th rowspan="2">M4 Motorway East east of Concord Road – Strathfield</th>
+      <td>EB</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>3</td>
+      <td>2443 &ast;</td>
+      <td>0.36</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>WB</th>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>3</td>
+      <td>3315 &ast;</td>
+      <td>0.49</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <th rowspan="2">M4 Motorway west of Concord Road off-ramp – Strathfield</th>
+      <td>EB</td>
+      <td>2</td>
+      <td>2883 &ast;</td>
+      <td>0.64</td>
+      <td>C</td>
+      <td>2</td>
+      <td>1066 &ast;</td>
+      <td>0.24</td>
+      <td>A</td>
+    </tr>
+    <tr>
+      <td>WB</th>
+      <td>2</td>
+      <td>3509 &ast;</td>
+      <td>0.78</td>
+      <td>D</td>
+      <td>2</td>
+      <td>1592 &ast;</td>
+      <td>0.35</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <th colspan="10">PM peak - 2021</th>
+    </tr>
+    <tr>
+      <th rowspan="2">M4 East east of Concord Road – Strathfield</th>
+      <td>EB</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>3</td>
+      <td>2864 &ast;</td>
+      <td>0.42</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>WB</th>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>3</td>
+      <td>2864 &ast;</td>
+      <td>0.42</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <th rowspan="2">M4 Motorway west of Concord Road off-ramp – Strathfield</th>
+      <td>EB</td>
+      <td>2</td>
+      <td>3290 &ast;</td>
+      <td>0.73</td>
+      <td>D</td>
+      <td>2</td>
+      <td>1030 &ast;</td>
+      <td>0.23</td>
+      <td>A</td>
+    </tr>
+    <tr>
+      <td>WB</th>
+      <td>2</td>
+      <td>2201 &ast;</td>
+      <td>0.49</td>
+      <td>C</td>
+      <td>2</td>
+      <td>783 &ast;</td>
+      <td>0.17</td>
+      <td>A</td>
+    </tr>
+    <tr>
+      <th colspan="10">AM peak - 2031</th>
+    </tr>
+    <tr>
+      <th rowspan="2">M4 Motorway East east of Concord Road – Strathfield</th>
+      <td>EB</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>3</td>
+      <td>4274 &ast;</td>
+      <td>0.63</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>WB</th>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>3</td>
+      <td>6668 &ast;</td>
+      <td>0.99</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <th rowspan="2">M4 Motorway west of Concord Road off-ramp – Strathfield</th>
+      <td>EB</td>
+      <td>2</td>
+      <td>2879 &ast;</td>
+      <td>0.64</td>
+      <td>C</td>
+      <td>2</td>
+      <td>1133 &ast;</td>
+      <td>0.25</td>
+      <td>A</td>
+    </tr>
+    <tr>
+      <td>WB</th>
+      <td>2</td>
+      <td>4159 &ast;</td>
+      <td>0.92</td>
+      <td>E</td>
+      <td>2</td>
+      <td>1892 &ast;</td>
+      <td>0.42</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <th colspan="10">PM peak - 2031</th>
+    </tr>
+    <tr>
+      <th rowspan="2">M4 East east of Concord Road – Strathfield</th>
+      <td>EB</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>3</td>
+      <td>6399 &ast;</td>
+      <td>0.95</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <td>WB</th>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>3</td>
+      <td>5749 &ast;</td>
+      <td>0.85</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <th rowspan="2">M4 Motorway west of Concord Road off-ramp – Strathfield</th>
+      <td>EB</td>
+      <td>2</td>
+      <td>3712 &ast;</td>
+      <td>0.82</td>
+      <td>D</td>
+      <td>2</td>
+      <td>1539 &ast;</td>
+      <td>0.34</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>WB</th>
+      <td>2</td>
+      <td>2281 &ast;</td>
+      <td>0.51</td>
+      <td>C</td>
+      <td>2</td>
+      <td>814 &ast;</td>
+      <td>0.18</td>
+      <td>A</td>
+    </tr>
+  </tbody>
 </table>
+<footer>
+  <p>Notes: V/C = volume to capacity ratio</p>
+  <p>&ast; Freeway level of service is evaluated in passenger car units</p>
+</footer>
+</figure>
 
 ##### Intersection performance
 
