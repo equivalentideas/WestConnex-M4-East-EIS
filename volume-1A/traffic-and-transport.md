@@ -1630,7 +1630,7 @@ project carrying the most vehicles, east of Concord Road.
     <caption>Table 8.9 2021 ‘do something’ AM peak midblock operational performance</caption>
     <thead>
       <tr>
-        <th rowspan="2">Location and direction</th>
+        <th rowspan="2" colspan="2">Location and direction</th>
         <th rowspan="2">No. lanes</th>
         <th colspan="3">Do minimum (veh/hr)</th>
         <th rowspan="2">No. lanes</th>
@@ -1958,7 +1958,7 @@ project carrying the most vehicles, east of Concord Road.
     <caption>Table 8.10 2021 ‘do something’ PM peak midblock operational performance</caption>
     <thead>
       <tr>
-        <th rowspan="2">Location and direction</th>
+        <th rowspan="2" colspan="2">Location and direction</th>
         <th rowspan="2">No. lanes</th>
         <th colspan="3">Do minimum (veh/hr)</th>
         <th rowspan="2">No. lanes</th>
@@ -2286,7 +2286,7 @@ project carrying the most vehicles, east of Concord Road.
     <caption>Table 8.11 2031 ‘do something’ AM peak midblock operational performance</caption>
     <thead>
       <tr>
-        <th rowspan="2">Location and direction</th>
+        <th rowspan="2" colspan="2">Location and direction</th>
         <th rowspan="2">No. lanes</th>
         <th colspan="3">Do minimum (veh/hr)</th>
         <th rowspan="2">No. lanes</th>
@@ -2614,7 +2614,7 @@ project carrying the most vehicles, east of Concord Road.
     <caption>Table 8.12 2031 ‘do something’ PM peak midblock operational performance</caption>
     <thead>
       <tr>
-        <th rowspan="2">Location and direction</th>
+        <th rowspan="2" colspan="2">Location and direction</th>
         <th rowspan="2">No. lanes</th>
         <th colspan="3">Do minimum (veh/hr)</th>
         <th rowspan="2">No. lanes</th>
