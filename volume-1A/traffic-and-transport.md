@@ -3382,7 +3382,6 @@ practice in reducing crash risks.
 
 ##### Bus network
 
-
 Transport for NSW intends to operate a new high frequency bus route between
 Burwood and the CBD, via Parramatta Road. Bus frequency has yet to be confirmed;
 however, a guide of 15 to 20 buses per hour in 2021, and 20 to 30 buses per hour
