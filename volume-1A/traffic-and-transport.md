@@ -3326,12 +3326,22 @@ by the project in 2021 on most strategic routes assessed. Travel time savings in
 of 10 to 18 minutes.
 
 <figure id="figure-8-4">
+  <img src="images/figure-8-4.png" alt="Chart showing claimed AM travel times
+savings gained by building to M4 East and M4-M5 Link" />
+  <figcaption>
+    Figure 8.4 Travel time savings – AM peak
+  </figcaption>
 </figure>
 
 PM peak travel time savings are illustrated in Figure 8.5 and demonstrate
 similar time savings in 2021, with an increase in 2031 to savings of 13 to 20 minutes.
 
 <figure id="figure-8-5">
+  <img src="images/figure-8-5.png" alt="Chart showing claimed PM travel times
+savings gained by building to M4 East and M4-M5 Link" />
+  <figcaption>
+    Figure 8.5 Travel time savings – PM peak
+  </figcaption>
 </figure>
 
 The analysis demonstrates travel time savings on strategic corridors resulting
