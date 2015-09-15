@@ -1,6 +1,4 @@
-4
-
-Project development and alternatives
+## 4 Project development and alternatives
 
 This chapter describes the alternatives that were considered as part of the development process for 
 the M4 East project (the project), and explains how and why the project was selected as the preferred 
@@ -44,9 +42,7 @@ Chapter 4 (this chapter)
 Public interest is addressed in Chapter 30
 (Project justification and conclusion).
 
-4.1
-
-History of the M4 East and WestConnex 
+### 4.1 History of the M4 East and WestConnex
 
 It has been acknowledged that no single project provides a complete solution to Sydney’s transport 
 requirements. Variations on the component projects of WestConnex have been under consideration 
@@ -54,7 +50,7 @@ since the early 2000s and would augment and complete missing links in Sydney’s
 
 Figure 4.1 shows the project development process undertaken for theM4 East and WestConnex.
 
-4.1.1 M4 Motorway
+#### 4.1.1 M4 Motorway
 
 The construction of the M4 Motorway (originally the F4 Western Freeway) occurred in several stages 
 between the late 1960s and the mid-1980s. It was first opened to traffic in 1971 and now comprises a 
@@ -175,7 +171,8 @@ WestConnex M4 East
 WestConnex Delivery Authority
 Environmental Impact Statement
 
-4.1.2 M5 East Motorway
+#### 4.1.2 M5 East Motorway
+
 The M5 East Motorway is a 10 kilometre motorway connecting the M5 South West Motorway with 
 General Holmes Drive and the Eastern Distributor. The M5 East opened in 2001 and from this time 
 has operated at or near capacity. The M5 East Motorway has attracted ongoing community concern in 
@@ -185,7 +182,8 @@ A proposal for the M5 East duplication was publicly displayed in 2009. Since tha
 has undergone further development and now forms part of WestConnex – King Georges Road 
 Interchange Upgrade and New M5 (King Georges Road at Beverly Hills to St Peters).
 
-4.1.3 Connection between the M4 and M5 East
+#### 4.1.3 Connection between the M4 and M5 East
+
 The Marrickville Tunnel was a scheme considered in around 2004 to create a direct connection 
 between the then M4 East and Mascot, in order to provide a direct route for traffic between Port 
 Botany, Sydney Airport and South Sydney. One option considered for this scheme was a truck only 
@@ -200,7 +198,8 @@ future M4–M5 Link (M4–M5 Link) which, subject to planning approval, forms pa
 This would complete the orbital road network between western Sydney and the eastern gateways of 
 Port Botany and Sydney Airport, and provide a north–south bypass of the Sydney CBD.
 
-4.1.4 WestConnex and M4 East
+#### 4.1.4 WestConnex and M4 East
+
 WestConnex has evolved from the earlier schemes for the M4, M5 East and the connection between 
 the two. It is aimed at enhancing the capacity and connectivity of the M4 and M5 East motorways.
 The WestConnex scheme was first set out in the State Infrastructure Strategy 2012-2032
@@ -315,9 +314,7 @@ x
 A separate planning application will be made for the M4–M5 Link following further concept 
 development.
 
-4.2
-
-Strategic alternatives
+### 4.2 Strategic alternatives
 
 The merits of the project were considered by WDA and Roads and Maritime in the context of a range 
 of other alternatives. The alternatives considered are consistent with those considered for other 
@@ -361,7 +358,8 @@ Alternative 5 – extension of the M4 as part of WestConnex.
 
 These alternatives are described below.
 
-4.2.1 Alternative 1 – Base case or ‘do nothing/do minimum’
+#### 4.2.1 Alternative 1 – Base case or ‘do nothing/do minimum’
+
 The base case ‘do nothing/do minimum’ option (‘do minimum’) would involve retaining the M4 (with 
 the M4 Widening completed) and Parramatta Road, in essentially its current configuration, as the 
 main eastíwest route between Western Sydney and Haberfield. The M4 between Church Street at 
@@ -406,7 +404,8 @@ NSW government commitments, including key goals in NSW 2021: A Plan to Make NSW 
 One (NSW Department of Premier and Cabinet 2011) (see section 3.1). It would also not meet the 
 project objectives as outlined in section 3.3.
 
-4.2.2 Alternative 2 – Improvements to the existing arterial road network
+#### 4.2.2 Alternative 2 – Improvements to the existing arterial road network
+
 Infrastructure NSW recognises that the wider road network, including major arterials, will also require 
 improvement and that some of the highest value infrastructure investments come from ‘pinch point’
 relief that addresses road congestion ‘hotspots’ (Infrastructure NSW 2012a). Improvements to the 
@@ -510,7 +509,7 @@ major arterial road improvements that will have significant construction impacts
 construction of new infrastructure. Arterial road improvement options would therefore not meet the 
 project objectives as outlined in section 3.3 of Chapter 3 (Strategic context and project need).
 
-4.2.3 Alternative 3 – Investment in public transport and rail freight 
+#### 4.2.3 Alternative 3 – Investment in public transport and rail freight
 
 improvements
 
@@ -731,7 +730,8 @@ as outlined in section 3.3. Public transport and rail freight options are seen a
 services supporting the project and the broader WestConnex scheme, and the NSW Government is 
 currently implementing a number of public transport and rail freight projects.
 
-4.2.4 Alternative 4 – Demand management
+#### 4.2.4 Alternative 4 – Demand management
+
 Demand management can be defined as a policy, planning and operational approach to the 
 movement of goods or people. Demand management encompasses policies intended to reduce 
 individual trips and make various mode options more viable. These policies include:
@@ -777,7 +777,8 @@ Demand management measures are seen as complementary initiatives rather than a v
 alone alternative to the project. To have a major impact on road traffic, demand management would 
 also require major changes in social attitudes, travel behaviour and government policy.
 
-4.2.5 Alternative 5 – Extension of the M4 as part of the WestConnex scheme
+#### 4.2.5 Alternative 5 – Extension of the M4 as part of the WestConnex scheme
+
 This alternative would involve extending the M4 to the east as part of the broader WestConnex 
 scheme. As described in the WestConnex Strategic Environmental Review (Sydney Motorways 
 Project Office 2013b), it would link the existing M4 at Homebush Bay Drive, Homebush to Parramatta 
@@ -807,7 +808,8 @@ The extension of the M4 was identified, along with the M4 Widening project, as f
 stage of the WestConnex scheme. It would complete a missing link in the motorway network between 
 growing population, employment and industrial centres of Sydney’s west and east.
 
-4.2.6 Preferred strategic alternative
+#### 4.2.6 Preferred strategic alternative
+
 Extension of the M4 (Alternative 5) and the project as described in this EIS is the preferred strategic 
 alternative. Investment in public transport and rail freight and demand management (Alternatives 3 
 and 4 respectively) are considered to be viable complementary strategic alternatives. A number of 
@@ -882,11 +884,10 @@ WestConnex M4 East
 WestConnex Delivery Authority
 Environmental Impact Statement
 
-4.3
+### 4.3 Motorway options
 
-Motorway options
+#### 4.3.1 Earlier options development
 
-4.3.1 Earlier options development
 As outlined in section 4.1, there has been ongoing development of the project since 2003. This 
 section discusses the early options considered for the M4 East.
 
@@ -1023,7 +1024,8 @@ WestConnex M4 East
 WestConnex Delivery Authority
 Environmental Impact Statement
 
-4.3.2 Tunnel corridor options
+#### 4.3.2 Tunnel corridor options
+
 Three tunnel corridor options were considered and assessed against the project objectives:
 
 x
@@ -1134,7 +1136,8 @@ The positioning of the tunnels south of Parramatta Road would also preserve the 
 development as part of the Parramatta Road urban renewal strategy. This would allow development 
 along the majority of Parramatta Road to occur without the restriction of a tunnel below.
 
-4.3.3 Number of lanes within tunnels
+#### 4.3.3 Number of lanes within tunnels
+
 Three options were considered for the number of lanes within the tunnels, and assessed against the 
 project objectives:
 
@@ -1228,15 +1231,15 @@ would match the number of lanes on the existing M4 at Concord and on Parramatta 
 Haberfield/Ashfield. It would cater for projected initial and future traffic volumes within the tunnel (refer 
 to Chapter 8 (Traffic and Transport)).
 
-4.3.4 Preferred motorway option
+#### 4.3.4 Preferred motorway option
+
 Having considered the motorway options against the project objectives, the preferred motorway 
 option is for a three-lane tunnel located generally on the southern side of Parramatta Road.
 
-4.4
+### 4.4 Interchange options
 
-Interchange options
+#### 4.4.1 Western tunnel portals
 
-4.4.1 Western tunnel portals
 Options considered
 
 The following options were considered for the western tunnel portals:
@@ -1495,7 +1498,8 @@ x
 
 Utilise land within the existing M4 road reserve.
 
-4.4.2 M4 westbound access options
+#### 4.4.2 M4 westbound access options
+
 Options considered
 
 The following options were considered for access to the M4 westbound:
@@ -1680,7 +1684,8 @@ Location refinement
 As a number of options in different locations were considered for the M4 westbound on-ramp, there 
 was no need to consider location refinements during preferred design development.
 
-4.4.3 Concord interchange
+#### 4.4.3 Concord interchange
+
 Options considered
 
 The following options were considered for an interchange at or near Concord:
@@ -1948,7 +1953,8 @@ from Concord Road southbound to the M4 westbound. These new ramps would reduce t
 traffic using the Concord Road/Leicester Avenue and Parramatta Road intersection, and the existing 
 M4 and Parramatta Road intersection.
 
-4.4.4 Wattle Street (City West Link) interchange
+#### 4.4.4 Wattle Street (City West Link) interchange
+
 Options considered
 
 The following options were considered for an interchange at or near Wattle Street (City West Link):
@@ -2049,7 +2055,8 @@ Design refinement W2b was preferred, as it would involve all infrastructure asso
 :HVW&RQQH[ VFKHPH ERWK 0 (DVW DQG WKH 0í0 /LQN QHDU :DWWOH 6WUHHW DQG 5DPVD\ 6WUHHW
 being constructed at the same time, reducing the impacts of construction in this area.
 
-4.4.5 Parramatta Road interchange
+#### 4.4.5 Parramatta Road interchange
+
 Options considered
 
 The following options were considered for an interchange at Parramatta Road:
@@ -2232,11 +2239,10 @@ WestConnex M4 East
 WestConnex Delivery Authority
 Environmental Impact Statement
 
-4.5
+### 4.5 Design development of ancillary facilities
 
-Design development of ancillary facilities
+#### 4.5.1 Ventilation system design
 
-4.5.1 Ventilation system design
 On an open roadway, vehicle emissions are diluted and dispersed by natural surface flows. A tunnel 
 is defined in NSW as an enclosed roadway that is greater than 120 metres in length and all tunnels in 
 NSW are unidirectional, meaning that traffic travels in one direction only within the tunnel. Usually two 
@@ -2351,7 +2357,8 @@ assessments for both in-tunnel and external air quality.
 
 The preferred ventilation system is longitudinal ventilation with elevated ventilation outlets.
 
-4.5.2 Ventilation facility locations
+#### 4.5.2 Ventilation facility locations
+
 The main considerations in relation to ventilation facilities are; minimising local air quality impacts on 
 nearby receptors and maximising the operational efficiency of the tunnel ventilation system. 
 Minimising local air quality impacts is primarily achieved through the design and operation of the 
@@ -2547,7 +2554,8 @@ preferred option. It was considered to best meet the main considerations of mini
 impacts on nearby receptors and maximising the operational efficiency of the tunnel ventilation 
 system. It would also minimise cumulative impacts of construction on the local community.
 
-4.5.3 Emergency smoke exhaust facility 
+#### 4.5.3 Emergency smoke exhaust facility
+
 A key aspect of safe tunnel operation is the efficient removal of smoke in the event of a fire in the 
 tunnel. One option to achieve this in long tunnels is to provide an emergency smoke exhaust facility.
 
@@ -2556,7 +2564,8 @@ project. An emergency smoke exhaust facility was included in the preliminary con
 Following design development and in consultation with relevant agencies (eg Fire & Rescue NSW),
 such a facility was considered to not be required.
 
-4.5.4 Fresh air supply facility
+#### 4.5.4 Fresh air supply facility
+
 The project includes the construction of a fresh air supply facility in the vicinity of Cintra Park at the 
 mid-point of the tunnels which could potentially reduce the number of jet fans required in the tunnels.
 This facility would allow fresh air to be introduced into the tunnels. Table 4.8 outlines the alternative 
@@ -2698,7 +2707,8 @@ space, commercial and residential properties acquired by the proposal. The exten
 works would not prevent this land would be returned to Canada Bay Council and being used for open 
 space in the future. 
 
-4.5.5 Motorway control centre
+#### 4.5.5 Motorway control centre
+
 Each WestConnex project would require a control centre to monitor and manage the operation of the 
 motorway and, where relevant, tunnels.
 
@@ -2732,11 +2742,10 @@ access to the motorway would be readily available for emergency response and mai
 vehicles and equipment that would be stored at the site in the adjoining maintenance facility and bulky 
 equipment store.
 
-4.6
+### 4.6 Construction methodology development
 
-Construction methodology development
+#### 4.6.1 Tunnel construction methods
 
-4.6.1 Tunnel construction methods
 A number of options for tunnel construction methods were considered. The advantages and 
 disadvantages of the various methods are described below.
 
@@ -2811,7 +2820,8 @@ x
 
 Geological conditions along the alignment are suitable for both methods to be used.
 
-4.6.2 Spoil disposal
+#### 4.6.2 Spoil disposal
+
 Construction of the project would generate around 2.4 million bank cubic metres of spoil. As 
 described in Chapter 6 (Construction work), spoil reuse and disposal would be prioritised in 
 accordance with the following hierarchy:
