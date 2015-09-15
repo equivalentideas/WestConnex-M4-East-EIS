@@ -3236,8 +3236,83 @@ bus travel times in the kerbside lane.
 
 <table id="table-8-14">
   <caption>Table 8.14 Summary of intersection performance modelling results</caption>
-  <thead></thead>
-  <tbody></tbody>
+  <thead>
+  <tr>
+    <th rowspan="2">Cluster</th>
+    <th colspan="2">2021 ‘do something’</th>
+    <th colspan="2">2031 ‘do something’</th>
+  </tr>
+  <tr>
+    <th>AM peak</th>
+    <th>PM peak</th>
+    <th>AM peak</th>
+    <th>PM peak</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Limited impacts with small reductions in delay at Arthur Street/Centenary Drive failing to significantly reduce congestion.</td>
+      <td>Limited impacts at most intersections. Similar to the AM peak, existing congestion at George Street is retained which could combine with the introduction of the Powells Creek ramp to create queuing issues at Knight Street. An increase in delay is also forecast at the congested (level of service F) Underwood Road/Pomeroy Street intersection primarily due to an increase in right turn movements.</td>
+      <td>Limited changes to performance with only the Arthur Street/Centenary Drive intersection experiencing significant delays.</td>
+      <td>Minor performance improvements on Homebush Bay Drive although the Arthur Street and Centenary Drive intersection would continue to experience heavy delays.</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Limited impacts on Parramatta Road west of Concord Road (despite the large increase in volume and introduction of Powells Creek ramp). The introduction of the ramp combined with long existing delays at George Street may however increase the risk of queuing impacting the operation of Knight Street and Underwood Road intersections as eastbound vehicles get held at the stopline west of the ramp.  A very large reduction in delay at the existing Parramatta Road and M4 intersection due to the substantial reduction in demand on the existing M4. This is forecast to provide a high quality level of service A rather than the pre-existing F.</td>
+      <td></td>
+      <td>A significant increase in the existing substantial delays at George Street. Queues from this intersection have the potential to interfere with operations at Concord Road, Knight Street and Underwood Road. The Parramatta Road and Underwood Road intersection also begins to experience higher delays due to a large volume increase.</td>
+      <td>Congested conditions (level of service F) are retained at Underwood Road/Pomeroy Street, and Parramatta Road/George Street. Performance at the latter intersection may lead to queuing extending through other intersections such as the critical Concord Road junction.</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Conditions on Concord Road remain highly congested but proposed intersection improvements at Patterson Street and Parramatta Road provide additional right turn capacity and help to maintain similar levels of delay despite significant increases in traffic volumes.</td>
+      <td>Overall delays are similar with increases at Concord/Parramatta and Concord/Patterson balanced by sizable reductions in delay at Sydney Street/Concord Road and the Parramatta/M4 intersection. Northbound queuing from the Patterson Street intersection may however block through the Sydney Street intersection and lead to queues extending onto the northbound off ramp and back to the highly congested Concord and Parramatta intersection</td>
+      <td>Limited impacts due to increased capacity generally matching the increased volumes attracted by the scheme. While overall delays remain similar, the effect of significant congestion could be to create long queues on the project off ramps creating a risk of extending into the tunnel. The exception is the Parramatta Road/M4 intersection which performs strongly with the scheme in place and experiences significant delays without.</td>
+      <td>Traffic volume increases on Concord Road would lead to significant increases in delay at the already congested Concord/Parramatta and Concord/Patterson intersections. This would result in lengthy queuing and to access and egress issues at the M4 East ramps on Concord Road.</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Conditions on Parramatta Road east of Concord undergo substantial reductions in levels of delay and are forecast to provide a level of service B/C from the pre-existing F despite the reduction of through capacity due to bus lane provision. This is achieved through the transfer of traffic to the project.  A large reduction in delay is also experienced at the Gipps Street intersection with Burwood Road although it would remain relatively congested.</td>
+      <td>Overall conditions on Parramatta Road east of Concord remain similar as the reduction in traffic is balanced by the reduction in capacity due to the provision of bus lanes</td>
+      <td>Conditions east of Concord continue to provide greatly improved performance with the project in place; however, level of service F would continue to be experienced at Parramatta Road/Wentworth Road due to high turning volumes, and also at Gipps Street/Burwood Road</td>
+      <td>Benefits continue to be provided at intersections east of Concord with the exception of Parramatta Road/Shaftesbury Road where large increases in right turn demand combined with reductions in through capacity due to the bus lane provision, lead to additional delay and deterioration in level of service from D to F. Limited changes are observed on Gipps Street due to a modest reduction in volumes.</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Reductions in delay in Five Dock although conditions would remain congested (level of service E/F) due to high background traffic volumes.</td>
+      <td>Impacts in Five Dock would be experienced due to changing traffic conditions resulting in a large increase in delay at the already congested intersection of Great North Road/Lyons Road. Conversely, there is significant relief at the Great North Road/Queens Road due to a reduction in volumes.</td>
+      <td>Lengthy delays and level of service F are experienced at all intersections in the Five Dock area continue to exist in the ‘do something’ scenario.</td>
+      <td>Performance changes are variable within the Five Dock area with extremely lengthy delays experienced with both the 'do minimum' and 'do something' scenarios.</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>
+        <p>There would be substantial reductions in delay at the key intersections of Parramatta Road with Great North Road, Parramatta Road with Wattle Street, and Wattle Street with Ramsay Street. These intersections go from highly congested level of service F conditions to B</p>
+        <p>There is a substantial increase in delay at the Dobroyd Parade and Timbrell Drive intersection (from level of service D to F) due primarily to vehicles using the M4 East tunnel. Queuing at this intersection would extend all the way through Waratah Street and onto the M4 East exit ramp.</p>
+      </td>
+      <td>Changes are similar to the AM peak with substantial improvement in performance at key intersections such as Parramatta Road and Wattle Street, balanced by significant additional delays at Timbrell Drive/Dobroyd Parade.  While queuing at Timbrell Drive/Dobroyd Parade intersection is not as severe as the morning peak, congestion remains likely to impact operations at Waratah Street and lead to delays on the M4 East off-ramp</td>
+      <td>
+        <p>The 2021 pattern of performance improvements continues with the exception of the Parramatta Road and Great North Road intersection where increases in turning movements combine with the loss of through capacity due to the provision of bus lanes to increase delays. While conditions continue to improve at the critical Parramatta Road and Wattle Street intersection, demand for movements to/from the M4-M5 Link ramps maintains a level of congestion (level of service F) although significantly lower than in the ‘do minimum’ scenario.</p>
+        <p>The Dobroyd Parade/Timbrell Drive intersection also continues to experience increased delays and level of service F despite having a lower demand following the introduction of the M4-M5 Link. This is caused by changes in travel patterns such as the increased demand for the right turn from Timbrell Drive, and the reduction in delay elsewhere allowing more of the vehicle demand to actually reach the intersection. Delays are however significantly less than in 2021 before the introduction of the M4-M5 Link.</p>
+      </td>
+      <td>Performance changes are variable with substantial reductions in delay at Arlington Street, Great North Road, Parramatta Road/Wattle Street and Ramsey Street being balanced by a significant increase in delay at Dobroyd Parade/Timbrell Drive. While there is a substantial improvement in performance at Parramatta Road/Wattle Street, it remains level of service F partly due to re-introduction of a high left turn demand to Wattle Street because of the opening of the M4-M5 Link ramps.</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Conditions would remain highly congested at Hume Highway and Frederick Street (level of service F).</td>
+      <td>The Hume Highway/Frederick Street intersection would experience a significant reduction in delay but remain congested at level of service F due to the heavy future demand on this corridor.</td>
+      <td>Delays reduce along with volumes at the Hume Highway and Frederick Street intersection but remain at very high levels and level of service F.</td>
+      <td>There are small reductions in delays at the Hume Highway and Frederick Street intersection; however, the intersection continues to fail at level of service F with very lengthy average delays.</td>
+    </tr>
+    <tr>
+      <th>8 and 9</th>
+      <td>Traffic volume increases east of the Parramatta Road M4 ramps would result in higher levels of delay at all intersections, particularly Sloane Street, Norton Street and Crystal Street which are all level of service F. These delays are likely to result in blocking through upstream intersections and ultimately lead to significant congestion at Dalhousie Street close to the merge. Resultant delays would lead to lengthy eastbound queues impacting the tunnel and potentially upstream intersections on Parramatta Road such as Bland Street.</td>
+      <td>East of the Parramatta Road ramps, there would be a substantial increase in delay at the Hume Highway intersection with Parramatta Road, mainly due to a significant increase in right turn demand. Queuing at this intersection would impede operations at adjacent intersections such as Dalhousie Street and Sloane Street, and is expected to lead to lengthy queuing on the M4 East off ramp and into the tunnel. Notwithstanding impacts from the Hume Highway intersection, other Parramatta Road intersections such as Sloane Street, Norton Street and Crystal Street also experience a significant deterioration in performance</td>
+      <td>The introduction of the M4-M5 Link has a significant beneficial impact on all Parramatta Road intersections east of the M4 East ramps, particularly at Crystal Street and Norton Street which go from level of service F to C/D. While experiencing a significant reduction in average delay of more than 40 seconds, the Hume Highway and Parramatta Road intersection would however remain congested (level of service F) with potential for queuing to reach the merge point and tunnel ramps.</td>
+      <td>The introduction of the M4-M5 Link generates significant benefits at the Parramatta Road intersections east of the M4 East ramps, particularly at the Hume Highway, and Norton Street and Crystal Street intersections which while remaining level of service F reduce in average delay by more than 100 seconds each.</td>
+    </tr>
+  </tbody>
 </table>
 
 ##### Travel times
