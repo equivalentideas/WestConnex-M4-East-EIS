@@ -1208,3 +1208,875 @@ use the arterial road network to access the various construction ancillary
 facilities.
 
 #### 8.3.2 Local road network impacts
+
+Table 8.7 outlines the potential impacts of construction on the local road
+network in the vicinity of each of the construction ancillary facilities.
+
+<table id="table-8-7">
+  <caption>
+    Table 8.7 Summary of local impacts of construction ancillary facilities
+  </caption>
+  <thead>
+    <tr>
+      <th>Ancillary construction facility</th>
+      <th>Potential impacts on local roads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Homebush Bay Drive civil site (C1)</th>
+      <td>Impacts would be minimal as vehicle access would be directly to and from the M4 or from the Homebush Bay Drive on-ramp. Temporary diversions at various stages and potential reduction in speed limit. There would be no reduction in the number of traffic lanes (except during night works) or impact on movements.</td>
+    </tr>
+    <tr>
+      <th>Pomeroy Street civil site (C2)</th>
+      <td>Impacts would be minimal as the majority of construction vehicles would access the site directly to and from the M4 via the Homebush Bay Drive civil site (C1) – this would include all heavy vehicle movements. Some light vehicles would use Pomeroy Street, however, the low daily vehicle numbers would result in only minor impacts. Parking along Pomeroy Street in the vicinity of the work zone would be impacted.</td>
+    </tr>
+    <tr>
+      <th>Underwood Road civil and tunnel site (C3)</th>
+      <td>Impacts would be limited to Underwood Road and Short Street East. Access to the site would be via a new traffic signal on Underwood Road. This new signal would potentially result in minor delays to traffic along Underwood Road. No impacts to Ismay Avenue or Allen Street are predicted, as all movements would be via the Underwood Road access. Parking along Underwood Road and Short Street East in the vicinity of the site would be impacted.</td>
+    </tr>
+    <tr>
+      <th>Powells Creek civil site (C4)</th>
+      <td>Powell Street would be used as a heavy vehicle access route. Construction vehicles would access Powell Street from the signalised intersection of Underwood Road and Parramatta Road. There could be minor delays for northbound vehicles on Underwood Road, and localised parking restrictions may be required to enable turning movements.</td>
+    </tr>
+    <tr>
+      <th>Concord Road civil and tunnel site (C5)</th>
+      <td>Impacts would be limited to Concord Road and Sydney Street. The existing signals at Concord Road and Sydney Street would be modified to allow vehicles to enter and exit the site. This may result in delays to road users on Concord Road. Light vehicle impacts on surrounding streets are expected to be minimal. It is predicted that Ada and Alexandra streets would experience some additional light vehicle traffic. Parking along Ada, Edward and Alexandra streets in the vicinity of the site would be potentially impacted.</td>
+    </tr>
+    <tr>
+      <th>Cintra Park tunnel site (C6)</th>
+      <td>Impacts from heavy vehicles would be minimal, as movements would be directly to and from Parramatta Road. Light vehicle movements would result in impacts along Gipps Street. The impact of these movements on the performance of nearby intersections is considered in section 8.3.3.</td>
+    </tr>
+    <tr>
+      <th>Northcote Street tunnel site (C7)</th>
+      <td>Impacts would be confined to Wattle Street, as movements would be directly to and from Parramatta Road via Wattle Street. A new movement, to permit heavy vehicles to turn around to access Parramatta Road, would be included at the existing signalised intersection at Waratah Street. This new movement would cause additional delays at this intersection (see section 8.3.3).</td>
+    </tr>
+    <tr>
+      <th>Eastern ventilation facility site (C8)</th>
+      <td>Impacts would be confined to Parramatta Road and Wattle Street, as movements would be directly to and from these arterial roads. Walker Avenue would experience some additional light vehicle movements; however, these impacts are expected to be minimal. The eastbound lanes of Walker Avenue would be closed and left-in from Parramatta Road permitted only for construction traffic. The southbound traffic lane would remain open to the public and would permit left turn onto Parramatta Road.</td>
+    </tr>
+    <tr>
+      <th>Wattle Street and Walker Avenue civil site (C9)</th>
+      <td>Impacts would occur at Ramsay Street and Waratah Street due to the provision/modification of traffic signals and additional heavy vehicle movements. The impacts on these intersections are considered in section 8.3.3. Martin and Allum streets would be closed at Wattle Street during construction to allow for the construction of the project along Wattle Street. Martin Street would be reopened following construction (with changes to turning movements), while Allum Street would be closed permanently. Alternate access to Wattle Street would be available at Ramsay Street or Waratah Street.</td>
+    </tr>
+    <tr>
+      <th>Parramatta Road civil site (C10)</th>
+      <td>Impacts would be minimal as vehicles would access the site directly to and from Parramatta Road. Some delays for vehicles on Bland Street would be experienced due to heavy vehicles exiting the site via Bland Street to access Parramatta Road. One eastbound and one westbound lane of Parramatta Road would be closed as a result of the establishment of the civil site. This would result in two lanes in each direction during construction. Chandos Street would be closed at Parramatta Road during construction, and reopened during following construction.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 8.3.3 Road and intersection performance
+
+##### Road performance during construction
+
+Table 8.8 shows the impact of construction on the operation of key roads. The
+table shows that several sections of Parramatta Road are forecast to exceed the
+roadway capacity with the increased background traffic and construction traffic
+in the 2017 AM and PM peak hours. The existing traffic volumes on these road
+sections are congested.
+
+<figure>
+<table id="table-8-8">
+  <caption>
+    Table 8.8 Construction year (2017) midblock operational performance summary
+  </caption>
+  <thead>
+    <tr>
+      <th rowspan="2">Location and direction</th>
+      <th rowspan="2">No. lanes</th>
+      <th colspan="3">AM peak hour (veh/hr)</th>
+      <th colspan="3">PM peak hour (veh/hr)</th>
+    </tr>
+    <tr>
+      <th>Flow</th>
+      <th>V/C</th>
+      <th>LOS</th>
+      <th>Flow</th>
+      <th>V/C</th>
+      <th>LOS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="2">Parramatta Road west of Bridge Road - Homebush</th>
+      <td>EB</td>
+      <td>3</td>
+      <td>1332</td>
+      <td>0.49</td>
+      <td>C</td>
+      <td>1678</td>
+      <td>0.62</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>WB</td>
+      <td>3</td>
+      <td>1804</td>
+      <td>0.67</td>
+      <td>D</td>
+      <td>1694</td>
+      <td>0.63</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <th rowspan="2">Parramatta Road between Knight Street and Concord Road - Strathfield</th>
+      <td>EB</td>
+      <td>2</td>
+      <td>1341</td>
+      <td>0.75</td>
+      <td>D</td>
+      <td>1489</td>
+      <td>0.83</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <td>WB</td>
+      <td>2</td>
+      <td>1636</td>
+      <td>0.91</td>
+      <td>E</td>
+      <td>1565</td>
+      <td>0.87</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <th rowspan="2">Parramatta Road between Mosely Street and Burwood Road - Strathfield</th>
+      <td>EB</td>
+      <td>3</td>
+      <td>2768</td>
+      <td>1.03</td>
+      <td>F</td>
+      <td>2823</td>
+      <td>1.05</td>
+      <td>F</td>
+    </tr>
+    <tr>
+      <td>WB</td>
+      <td>3</td>
+      <td>2830</td>
+      <td>1.05</td>
+      <td>F</td>
+      <td>2490</td>
+      <td>0.92</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <th rowspan="2">Parramatta Road between Shaftesbury Road and Harris Street - Burwood</th>
+      <td>EB</td>
+      <td>3</td>
+      <td>2376</td>
+      <td>0.88</td>
+      <td>E</td>
+      <td>2457</td>
+      <td>0.91</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <td>WB</td>
+      <td>3</td>
+      <td>2078</td>
+      <td>0.77</td>
+      <td>D</td>
+      <td>2358</td>
+      <td>0.87</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <th rowspan="2">Parramatta Road between Bland Street and Dalhousie Street - Haberfield</th>
+      <td>EB</td>
+      <td>3</td>
+      <td>2099</td>
+      <td>0.78</td>
+      <td>D</td>
+      <td>2185</td>
+      <td>0.81</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <td>WB</td>
+      <td>3</td>
+      <td>1840</td>
+      <td>0.68</td>
+      <td>D</td>
+      <td>1668</td>
+      <td>0.62</td>
+      <td>D</td>
+    </tr>
+    <tr>
+      <th rowspan="2">Gipps Street west of Burwood Road - Concord</th>
+      <td>EB</td>
+      <td>1</td>
+      <td>872</td>
+      <td>0.97</td>
+      <td>E</td>
+      <td>994</td>
+      <td>1.10</td>
+      <td>F</td>
+    </tr>
+    <tr>
+      <td>WB</td>
+      <td>1</td>
+      <td>861</td>
+      <td>0.96</td>
+      <td>E</td>
+      <td>1067</td>
+      <td>1.19</td>
+      <td>F</td>
+    </tr>
+    <tr>
+      <th rowspan="2">M4 Motorway west of Concord Road off-ramp - Strathfield</th>
+      <td>EB</td>
+      <td>2</td>
+      <td>3168 &ast;</td>
+      <td>0.70</td>
+      <td>D</td>
+      <td>3135</td>
+      <td>0.70</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>WB</td>
+      <td>2</td>
+      <td>3290 &ast;</td>
+      <td>0.73</td>
+      <td>D</td>
+      <td>2426</td>
+      <td>0.54</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+<footer>
+<p>Notes: V/C = volume to capacity ratio</p>
+<p>&ast; Freeway level of service is evaluated in passenger car units</p>
+</footer>
+</figure>
+
+##### Intersection level of service
+
+The performance of key intersections in the vicinity of the project was modelled
+for the intersections that would be likely to experience the highest traffic
+volumes of construction traffic. The detailed results of modelling are provided
+in section 7.4.3 of the Traffic and Transport Report in Appendix G. A summary of
+these results is provided below.
+
+The results indicate that for the 2017 ‘do minimum’ scenario, a number of key
+intersections on the Parramatta Road corridor would operate at or above capacity
+and experience high levels of delay during the AM and PM peak periods. The
+following intersections would operate at a level of service F for this scenario:
+
+* Patterson Street/Concord Road (AM peak)
+* Parramatta Road/Concord Road (PM peak)
+* Parramatta Road/Wentworth Road (AM peak)
+* Parramatta Road/Burwood Road (AM peak)
+* Parramatta Road/Frederick Street (AM and PM peak)
+* Wattle Street/Ramsay Street (AM peak).
+
+As each of these intersections already operates at capacity without construction
+vehicles, the intersections are susceptible to large increases in average delay
+with only small increases in demand as a result of construction traffic.
+Background traffic growth accounts for part of the deterioration of the road
+network. In addition to those intersections already forecast to operate at or
+beyond capacity (without construction traffic), the modelling results indicate
+that the performance of the following intersections would deteriorate to a LoS F:
+
+* Parramatta Road/George Street (PM peak)
+* Sydney Street/Concord Road (PM peak)
+* Parramatta Road/Concord Road (AM peak)
+* Parramatta Road/M4 Motorway (AM peak)
+* Parramatta Road/Broughton Street (AM peak)
+* Parramatta Road/Croydon Road (AM and PM peak)
+* Parramatta Road/Shaftsbury Road (AM peak).
+
+The above results represent a worst case cumulative effect of construction
+traffic. This would not occur for the entire duration of the construction
+period.
+
+It is noted that at some intersections, stable or minor improvements in
+performance (with the addition of construction traffic) would occur as a result
+of upstream intersections operating over capacity. Once capacity is reached,
+upstream intersections behave as bottlenecks, reducing traffic flow to
+downstream intersections. This explains why some intersections show slight
+improvements to performance with the addition of construction traffic.
+
+#### 8.3.4 Access changes
+
+Table 6.16 in Chapter 6 (Construction work) shows the temporary road closures
+and diversions on the existing road network required to facilitate construction.
+The majority of road and lane closures are anticipated to result in limited
+impacts to road users, as they would mainly affect local roads with low traffic
+volumes and/or streets where land acquisition is taking place. Alternative
+routes could therefore be used with minimal impacts.
+
+Traffic lanes would be maintained on Sydney Street during peak hours. Impacts on
+the Sydney Street/Concord Road intersection as a result of construction traffic
+and changes to signal phasing are considered in section 8.3.3.
+Existing lanes would generally be maintained on Ramsay Street although some
+short term detours, lane closures and temporary diversions may occur where
+approved under a Traffic Management and Safety Plan.
+
+It is predicted that the inclusion of new signals at Parramatta Road and
+Orpington Street would only impact westbound vehicles. Potential impacts would
+be limited as a result of the low construction vehicle volumes, which would mean
+the turning signal would only be used infrequently. Impacts would also reduce if
+the signal phasing is offset with the Dalhousie Street intersection.
+
+Parking restrictions would be put in place on Underwood Road (at the Underwood
+Road civil and tunnel site (C3)), and potentially at the Powell Street
+intersection to accommodate movements to the Powells Creek civil site (C4) via
+Powell Street.
+
+#### 8.3.5 Road safety
+
+Construction traffic volumes are expected to be relatively low compared to
+existing traffic volumes on Parramatta Road and the M4. As a worst-case
+scenario, around 2,000 vehicles per day would be generated by construction, with
+heavy vehicles comprising slightly more than half this total. Compared to
+existing traffic volumes, construction traffic would be the equivalent of around
+two per cent of total daily traffic on Parramatta Road in the study area.
+
+As the volume of traffic generated by construction is expected to be relatively
+low compared to existing traffic volumes, the impacts of this short-term
+increase in traffic on the existing road network is not expected to
+significantly impact road safety in the vicinity of the project. In addition,
+any foreseen impacts to road safety during construction would be mitigated
+through the provision of tailored traffic management plans and other measures.
+
+#### 8.3.6 Public transport
+
+##### Bus network
+
+An increase in heavy vehicles on the existing road network during the
+construction period would be likely to result in increased delays at
+intersections along the project corridor and in surrounding areas. It is likely
+that the volumes of heavy vehicles on Parramatta Road and surrounding major
+roads would increase. Construction would have the potential to result in the
+following impacts to public transport services:
+
+* An increase in bus service travel times due to slower travel speeds and increased intersection delays
+* Longer travel times to and from bus stops by supplementary travel modes (eg car passenger, walking to/from bus stop) due to an increase in traffic volumes, slower travel speeds and increased intersection delays
+* Reduced amenity for bus users waiting at stops
+* At least four bus-stops would need to be relocated to protect community safety during construction
+* Connections between bus services and trains services may be affected.
+
+Table 6.18 in Chapter 6 (Construction work) outlines the indicative changes to
+bus stop locations during construction. These would be subject to consultation
+with Transport for NSW.
+
+##### Rail network
+
+No impacts to rail services in the project corridor and surrounding areas are
+expected as a result of construction. Bus service connections to railway
+stations may be affected due to a potential reduction in the reliability of bus
+services during construction.
+
+#### 8.3.7 Pedestrians and cyclists
+
+Pedestrian and cyclist diversions required during construction are outlined in
+Table 6.17 in Chapter 6 (Construction work).
+
+The increase in heavy vehicle volumes during construction would potentially
+impact walking and cycling as follows:
+
+* Walking:
+    * Increased walking distance as a result of diversions and road closures in some locations
+    * Reduced pedestrian amenity
+    * Potential adverse effect on pedestrian wait times at signalised intersections if adjustments are made to accommodate increased volumes
+* Cycling:
+    * Increased delays at intersections for on road cyclists due to an increase in traffic volumes
+    * Increase in journey time and distance due to closed shoulders and detours
+    * Reduced cyclist amenity.
+
+A staging plan would be implemented to ensure connectivity is maintained for
+cyclists during construction. This would involve the provision of detour routes
+as the section of existing cycle route on the M4, around Homebush Bay Drive,
+would be unavailable during construction. A diversion route, to remove cyclists
+off the M4 has been implemented for the M4 Widening project, and this detour may
+be used during construction of the M4 East project. To avoid Concord Road, a
+further diversion would be provided (refer to section 6.6.2 and Figure 6.19 in
+Chapter 6 (Construction work)). The route would be confirmed following
+appropriate consultation with Roads and Maritime, local councils and cycling
+groups.
+
+### 8.4 Assessment of operation impacts
+
+#### 8.4.1 Road and intersection performance
+
+##### Road performance during operation
+
+The midblock level of service at key locations in the vicinity of the project
+was assessed for both the ‘do minimum’ and 'do something' scenarios. The results
+of modelling the 2021 and 2031 AM peak and PM peak operational performance of
+the project (the ‘do something’ scenarios) are summarised in Table 8.9 to Table
+8.12. The results for the ‘do minimum’ scenarios are provided for comparison.
+
+There will be a reduction in traffic volumes on some sections of Parramatta Road
+as a result of the project which provides an opportunity to improve public
+transport along the corridor (not included as part of this project). The results
+of the 2021 AM peak and PM peak indicate that level of service along Parramatta
+Road improves significantly between the M4 and Dalhousie Street, with small
+deteriorations elsewhere. This reflects the extent of the project, and the fact
+that a larger number of vehicles can access Parramatta Road east of the project
+due to the increased capacity provided. It is noted that some of the higher
+traffic densities are observed downstream of the project on- and off- ramps on
+Parramatta Road and Wattle Street. This provides an indication of the extra
+capacity provided to take vehicles to those locations, and of potential exit and
+merge issues. A high level of service is provided within the section of the
+project carrying the most vehicles, east of Concord Road.
+
+<figure>
+  <table id="table-8-9">
+    <caption>Table 8.9 2021 ‘do something’ AM peak midblock operational performance</caption>
+    <thead>
+      <tr>
+        <th rowspan="2">Location and direction</th>
+        <th rowspan="2">No. lanes</th>
+        <th colspan="3">Do minimum (veh/hr)</th>
+        <th rowspan="2">No. lanes</th>
+        <th colspan="3">Do something (veh/hr)</th>
+      </tr>
+      <tr>
+        <th>Flow</th>
+        <th>V/C</th>
+        <th>LoS</th>
+        <th>Flow</th>
+        <th>V/C</th>
+        <th>LoS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th rowspan="2">Parramatta Road west of Bridge Road - Homebush</th>
+        <td>EB</td>
+        <td>3</td>
+        <td>1458</td>
+        <td>0.54</td>
+        <td>C</td>
+        <td>3</td>
+        <td>1559</td>
+        <td>0.58</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>3</td>
+        <td>1589</td>
+        <td>0.59</td>
+        <td>C</td>
+        <td>3</td>
+        <td>1840</td>
+        <td>0.68</td>
+        <td>D</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Parramatta Road between Knight Street and Concord Road - Strathfield</th>
+        <td>EB</td>
+        <td>2</td>
+        <td>1376</td>
+        <td>0.76</td>
+        <td>D</td>
+        <td>2</td>
+        <td>17869</td>
+        <td>0.98</td>
+        <td>E</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>3</td>
+        <td>1632</td>
+        <td>0.60</td>
+        <td>D</td>
+        <td>3</td>
+        <td>2202</td>
+        <td>0.82</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Parramatta Road between Mosely Street and Burwood Road - Strathfield</th>
+        <td>EB</td>
+        <td>3</td>
+        <td>2640</td>
+        <td>0.98</td>
+        <td>E</td>
+        <td>3</td>
+        <td>1589</td>
+        <td>0.59</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>3</td>
+        <td>2956</td>
+        <td>1.09</td>
+        <td>F</td>
+        <td>3</td>
+        <td>1763</td>
+        <td>0.65</td>
+        <td>D</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Parramatta Road between Shaftesbury Road and Harris Street - Burwood</th>
+        <td>EB</td>
+        <td>3</td>
+        <td>2250</td>
+        <td>0.83</td>
+        <td>E</td>
+        <td>2</td>
+        <td>864</td>
+        <td>0.48</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>3</td>
+        <td>2215</td>
+        <td>0.82</td>
+        <td>E</td>
+        <td>2</td>
+        <td>640</td>
+        <td>0.36</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Parramatta Road between Bland Street and Dalhousie Street - Haberfield</th>
+        <td>EB</td>
+        <td>3</td>
+        <td>2042</td>
+        <td>0.76</td>
+        <td>D</td>
+        <td>3</td>
+        <td>1312</td>
+        <td>0.49</td>
+        <td>C</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>3</td>
+        <td>1925</td>
+        <td>0.71</td>
+        <td>D</td>
+        <td>3</td>
+        <td>832</td>
+        <td>0.31</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Parramatta Road between Sloane Street and West Street - Haberfield</th>
+        <td>EB</td>
+        <td>2</td>
+        <td>2632</td>
+        <td>1.46</td>
+        <td>F</td>
+        <td>2</td>
+        <td>2731</td>
+        <td>1.52</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>3</td>
+        <td>2749</td>
+        <td>1.02</td>
+        <td>F</td>
+        <td>3</td>
+        <td>2898</td>
+        <td>1.07</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Parramatta Road east of Crystal Street - Petersham</th>
+        <td>EB</td>
+        <td>2</td>
+        <td>2005</td>
+        <td>1.11</td>
+        <td>F</td>
+        <td>2</td>
+        <td>2011</td>
+        <td>1.12</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>2</td>
+        <td>2201</td>
+        <td>1.22</td>
+        <td>F</td>
+        <td>2</td>
+        <td>2205</td>
+        <td>1.22</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Dobroyd Parade north of Timbrell Drive - Haberfield</th>
+        <td>NB</td>
+        <td>2</td>
+        <td>1987</td>
+        <td>1.10</td>
+        <td>F</td>
+        <td>2</td>
+        <td>1989</td>
+        <td>1.11</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <td>SB</td>
+        <td>2</td>
+        <td>1882</td>
+        <td>1.05</td>
+        <td>F</td>
+        <td>2</td>
+        <td>1916</td>
+        <td>1.06</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <th rowspan="2">M4 East east of Concord Road - Strathfield</th>
+        <td>EB</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>3</td>
+        <td>2443 &ast;</td>
+        <td>0.36</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>3</td>
+        <td>3045 &ast;</td>
+        <td>0.45</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Queens Road west of Great North Road - Five Dock</th>
+        <td>EB</td>
+        <td>1</td>
+        <td>939</td>
+        <td>1.04</td>
+        <td>F</td>
+        <td>1</td>
+        <td>909</td>
+        <td>1.01</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>1</td>
+        <td>1065</td>
+        <td>1.18</td>
+        <td>F</td>
+        <td>1</td>
+        <td>909</td>
+        <td>1.01</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Queens Road west of Harris Street - Five Dock</th>
+        <td>EB</td>
+        <td>1</td>
+        <td>1059</td>
+        <td>1.18</td>
+        <td>F</td>
+        <td>1</td>
+        <td>1002</td>
+        <td>1.11</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>1</td>
+        <td>1164</td>
+        <td>1.29</td>
+        <td>F</td>
+        <td>1</td>
+        <td>1028</td>
+        <td>1.14</td>
+        <td>F</td>
+      </tr>
+      <tr>
+        <th rowspan="2">Gipps Street west of Burwood Road - Concord</th>
+        <td>EB</td>
+        <td>1</td>
+        <td>859</td>
+        <td>0.95</td>
+        <td>E</td>
+        <td>1</td>
+        <td>814</td>
+        <td>0.90</td>
+        <td>E</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>1</td>
+        <td>869</td>
+        <td>1.00</td>
+        <td>E</td>
+        <td>1</td>
+        <td>799</td>
+        <td>0.89</td>
+        <td>E</td>
+      </tr>
+      <tr>
+        <th rowspan="2">M4 Motorway west of Concord Road off-ramp - Strathfield</th>
+        <td>EB</td>
+        <td>2</td>
+        <td>2883 &ast;</td>
+        <td>0.64</td>
+        <td>C</td>
+        <td>2</td>
+        <td>1066</td>
+        <td>0.24</td>
+        <td>A</td>
+      </tr>
+      <tr>
+        <td>WB</td>
+        <td>2</td>
+        <td>3509</td>
+        <td>0.78</td>
+        <td>D</td>
+        <td>2</td>
+        <td>1592</td>
+        <td>0.35</td>
+        <td>B</td>
+      </tr>
+    </tbody>
+  </table>
+  <footer>
+  <p>Notes: V/C = volume to capacity ratio</p>
+  <p>&ast; Freeway level of service is evaluated in passenger car units</p>
+  </footer>
+</figure>
+
+<figure>
+  <table id="table-8-10">
+    <caption>Table 8.9 2021 ‘do something’ AM peak midblock operational performance</caption>
+    <thead>
+      <tr>
+        <th rowspan="2">Location and direction</th>
+        <th rowspan="2">No. lanes</th>
+        <th colspan="3">Do minimum (veh/hr)</th>
+        <th rowspan="2">No. lanes</th>
+        <th colspan="3">Do something (veh/hr)</th>
+      </tr>
+      <tr>
+        <th>Flow</th>
+        <th>V/C</th>
+        <th>LoS</th>
+        <th>Flow</th>
+        <th>V/C</th>
+        <th>LoS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th rowspan="2"></th>
+      </tr>
+    </tbody>
+  </table>
+  <footer>
+  <p>Notes: V/C = volume to capacity ratio</p>
+  <p>&ast; Freeway level of service is evaluated in passenger car units</p>
+  </footer>
+</figure>
+
+<figure>
+  <table id="table-8-11">
+    <caption>Table 8.9 2021 ‘do something’ AM peak midblock operational performance</caption>
+    <thead>
+      <tr>
+        <th rowspan="2">Location and direction</th>
+        <th rowspan="2">No. lanes</th>
+        <th colspan="3">Do minimum (veh/hr)</th>
+        <th rowspan="2">No. lanes</th>
+        <th colspan="3">Do something (veh/hr)</th>
+      </tr>
+      <tr>
+        <th>Flow</th>
+        <th>V/C</th>
+        <th>LoS</th>
+        <th>Flow</th>
+        <th>V/C</th>
+        <th>LoS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th rowspan="2"></th>
+      </tr>
+    </tbody>
+  </table>
+  <footer>
+  <p>Notes: V/C = volume to capacity ratio</p>
+  <p>&ast; Freeway level of service is evaluated in passenger car units</p>
+  </footer>
+</figure>
+
+<figure>
+  <table id="table-8-12">
+    <caption>Table 8.9 2021 ‘do something’ AM peak midblock operational performance</caption>
+    <thead>
+      <tr>
+        <th rowspan="2">Location and direction</th>
+        <th rowspan="2">No. lanes</th>
+        <th colspan="3">Do minimum (veh/hr)</th>
+        <th rowspan="2">No. lanes</th>
+        <th colspan="3">Do something (veh/hr)</th>
+      </tr>
+      <tr>
+        <th>Flow</th>
+        <th>V/C</th>
+        <th>LoS</th>
+        <th>Flow</th>
+        <th>V/C</th>
+        <th>LoS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th rowspan="2"></th>
+      </tr>
+    </tbody>
+  </table>
+  <footer>
+  <p>Notes: V/C = volume to capacity ratio</p>
+  <p>&ast; Freeway level of service is evaluated in passenger car units</p>
+  </footer>
+</figure>
+
+<figure>
+  <table id="table-8-9">
+    <caption>Table 8.9 2021 ‘do something’ AM peak midblock operational performance</caption>
+    <thead>
+      <tr>
+        <th rowspan="2">Location and direction</th>
+        <th rowspan="2">No. lanes</th>
+        <th colspan="3">Do minimum (veh/hr)</th>
+        <th rowspan="2">No. lanes</th>
+        <th colspan="3">Do something (veh/hr)</th>
+      </tr>
+      <tr>
+        <th>Flow</th>
+        <th>V/C</th>
+        <th>LoS</th>
+        <th>Flow</th>
+        <th>V/C</th>
+        <th>LoS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th rowspan="2"></th>
+      </tr>
+    </tbody>
+  </table>
+  <footer>
+  <p>Notes: V/C = volume to capacity ratio</p>
+  <p>&ast; Freeway level of service is evaluated in passenger car units</p>
+  </footer>
+</figure>
