@@ -3397,15 +3397,83 @@ bus delays at signalised intersections with and without the project. The results
 are provided in Table 8.15 and Table 8.16.
 
 <table id="table-8-15">
-  <caption></caption>
-  <thead></thead>
-  <tbody></tbody>
+  <caption> Table 8.15 2021 Bus delays at signalised intersections between Burwood Road and Bland Street</caption>
+  <thead>
+    <tr>
+      <th rowspan="2">Direction</th>
+      <th colspan="2">Do minimum (min:sec)</th>
+      <th colspan="2">Do something (min:sec)</th>
+      <th colspan="2">Time saving (min:sec)</th>
+    </tr>
+    <tr>
+      <th>AM peak</th>
+      <th>PM peak</th>
+      <th>AM peak</th>
+      <th>PM peak</th>
+      <th>AM peak</th>
+      <th>PM peak</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Eastbound</th>
+      <td>4:40</td>
+      <td>7:59</td>
+      <td>1:50</td>
+      <td>1:54</td>
+      <td>2:50</td>
+      <td>6:05</td>
+    </tr>
+    <tr>
+      <th>Westbound</th>
+      <td>15:52</td>
+      <td>6:39</td>
+      <td>1:55</td>
+      <td>1:50</td>
+      <td>13:57</td>
+      <td>4:49</td>
+    </tr>
+  </tbody>
 </table>
 
 <table id="table-8-16">
-  <caption></caption>
-  <thead></thead>
-  <tbody></tbody>
+  <caption> Table 8.16 2031 Bus delays at signalised intersections between Burwood Road and Bland Street</caption>
+  <thead>
+    <tr>
+      <th rowspan="2">Direction</th>
+      <th colspan="2">Do minimum (min:sec)</th>
+      <th colspan="2">Do something (min:sec)</th>
+      <th colspan="2">Time saving (min:sec)</th>
+    </tr>
+    <tr>
+      <th>AM peak</th>
+      <th>PM peak</th>
+      <th>AM peak</th>
+      <th>PM peak</th>
+      <th>AM peak</th>
+      <th>PM peak</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Eastbound</th>
+      <td>7:54</td>
+      <td>16:08</td>
+      <td>2:29</td>
+      <td>3:39</td>
+      <td>5:03</td>
+      <td>10:53</td>
+    </tr>
+    <tr>
+      <th>Westbound</th>
+      <td>18:02</td>
+      <td>8:04</td>
+      <td>2:00</td>
+      <td>2:40</td>
+      <td>15:50</td>
+      <td>5:37</td>
+    </tr>
+  </tbody>
 </table>
 
 The results indicated that, in 2021, time savings for buses of up to 14 minutes
@@ -3676,8 +3744,194 @@ Environmental management measures relating to traffic and transport are outlined
 in Table 8.17.
 
 <table id="8-17">
-  <caption></caption>
-  <thead></thead>
-  <tbody></tbody>
+  <caption>Table 8.17 Environmental management measures – traffic and transport</caption>
+  <thead>
+    <tr>
+      <th>Impact</th>
+      <th>No.</th>
+      <th>Environmental management measure</th>
+      <th>Responsibility</th>
+      <th>Timing</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="5">
+        Construction
+      </th>
+    </tr>
+    <tr>
+      <th rowspan="2">General</th>
+      <td>TT1</td>
+      <td>A Traffic Management and Safety Plan (TMSP) will be prepared as part of the construction environmental management plan (CEMP), in consultation with the relevant road authority, local councils, emergency services, road user groups and pedestrian and bicycle groups. The TMSP will include the guidelines, general requirements and principles of traffic management to be implemented during construction. It will be prepared in accordance with Austroads Guide to Road Design (with appropriate Roads and Maritime supplements), the RTA Traffic Control at Work Sites manual and AS1742.3: Manual of uniform traffic control devices – Part 3:Traffic control for works on roads, and any other relevant standard, guide or manual. It will seek to minimise delays and disruptions, and identify and respond to any changes in road safety as a result of highway construction works.</td>
+      <td>Construction Contractor</td>
+      <td>Pre-construction</td>
+    </tr>
+    <tr>
+      <td>TT2</td>
+      <td>
+        The TMSP will include:
+        <ul>
+        <li>A traffic route and haulage management plan</li>
+        <li>Site traffic and access management plans</li>
+        <li>An incident response plan</li>
+        <li>A detailed travel management plan for construction staff at the various worksites, in consultation with local councils and stakeholders associated with the sporting facilities adjacent to the project site. This will include the promotion of public transport and car-pooling to reduce work site-related vehicle movements, and also investigate feasible options for the provision of off-site car parking to reduce parking on local roads.</li>
+        </ul>
+      </td>
+      <td>Construction Contractor</td>
+      <td>Construction</td>
+    </tr>
+    <tr>
+      <th rowspan="5">Impacts to road network performance (delays) and safety</th>
+      <td>TT3</td>
+      <td>Construction and temporary works will be staged to avoid conflicts with the existing road network and maximise spatial separation between work areas and travel lanes.</td>
+      <td>Construction Contractor</td>
+      <td>Construction</td>
+    </tr>
+    <tr>
+      <td>TT4</td>
+      <td>Analyse traffic volume data to identify capacity requirements, assess the potential impact of lane occupancies on traffic flows, plan lane occupancies to minimise the work area, and identify the best time to minimise inconvenience to road users. Restrictions and obstructions will be limited, road capacities maximised and peak traffic periods avoided where possible.</td>
+      <td>Construction Contractor</td>
+      <td>Construction</td>
+    </tr>
+    <tr>
+      <td>TT5</td>
+      <td>Temporary closed-circuit television (CCTV) and variable message signs (VMS) will be provided to link with the existing TMC network to facilitate monitoring and management of impacts</td>
+      <td>Construction Contractor</td>
+      <td>Construction</td>
+    </tr>
+    <tr>
+      <td>TT6</td>
+      <td>Throughout construction, consultation with the Transport Management Centre will be undertaken to ensure impacts to traffic flows are minimised.</td>
+      <td>Construction Contractor / Roads and Maritime</td>
+      <td>Construction</td>
+    </tr>
+    <tr>
+      <td>TT7</td>
+      <td>Road occupancy licences will be obtained for work that impacts traffic on existing roads in accordance with the requirements of council or Roads and Maritime.</td>
+      <td>Construction Contractor</td>
+      <td>Construction</td>
+    </tr>
+    <tr>
+      <th>Impacts on pedestrians and cyclists</th>
+      <td>TT8</td>
+      <td>Pedestrian and cyclist access will be maintained where possible throughout construction. Where not feasible, alternate routes will be provided and communicated to the community.</td>
+      <td>Construction Contractor</td>
+      <td>Prior to construction commencing</td>
+    </tr>
+    <tr>
+      <th>Impacts on public transport</th>
+      <td>TT9</td>
+      <td>Changes in bus stops will be undertaken in consultation with Transport for NSW and bus operators, with the community informed of any potential changes in advance.</td>
+      <td>Construction Contractor</td>
+      <td>Construction</td>
+    </tr>
+    <tr>
+      <th>Impacts to access</th>
+      <td>TT10</td>
+      <td>Local road closures will be managed and adequate property access will be maintained. Where road closures are required, reasonable and practical alternate traffic routes will be provided and communicated to the community.  This will be undertaken in consultation with Roads and Maritime, local councils and property owners likely to be affected.</td>
+      <td>Construction Contractor</td>
+      <td>Construction</td>
+    </tr>
+    <tr>
+      <th>Impacts on existing road surfaces</th>
+      <td>TT11</td>
+      <td>A Road Dilapidation Report will be prepared and will include identification of the existing conditions of local roads and mechanisms to repair any damage caused by the project.</td>
+      <td>Construction Contractor</td>
+      <td>Pre-construction and post-construction</td>
+    </tr>
+    <tr>
+      <th rowspan="2">Impacts to emergency services</th>
+      <td>TT12</td>
+      <td>The TMSP will be developed in consultation with local emergency services and procedures will be implemented to maintain priority access and a safe environment will be maintained for emergency vehicles to travel through construction areas.</td>
+      <td>Construction Contractor</td>
+      <td>Construction</td>
+    </tr>
+    <tr>
+      <td>TT13</td>
+      <td>Local emergency services will be frequently updated on the staging and progress of construction works.</td>
+      <td>Construction Contractor</td>
+      <td>Construction</td>
+    </tr>
+    <tr>
+      <th colspan="5">Operation</th>
+    </tr>
+    <tr>
+      <th>Confirmation of assessed impacts</th>
+      <td>OpTT1</td>
+      <td>An operational traffic review will be undertaken 12 months after the opening of the project to confirm the operational impacts of the project on surrounding arterial roads and major intersections. This review will be undertaken by a suitably qualified traffic consultant that is independent of the design and studies undertaken as part of the EIS.</td>
+      <td>Roads and maritime</td>
+      <td>12 months from start of operation</td>
+    </tr>
+    <tr>
+      <th>Network and corridor optimisation</th>
+      <td>OpTT2</td>
+      <td>
+        A network and corridor optimisation approach will be adopted to manage delay and queuing impacts with optimisation works occurring at the following locations:
+
+        <ul>
+          <li>Parramatta Road/George Street intersection in Homebush/North Strathfield</li>
+          <li>Concord Road corridor between Patterson Street and Parramatta Road in Concord</li>
+          <li>Parramatta Road/Shaftesbury Road intersection in Burwood/Concord (post M4-M5 Link opening)</li>
+          <li>Dobroyd Parade/Timbrell Drive intersection in Haberfield</li>
+          <li>Parramatta Road/Great NorthRoad intersection in Croydon/Five Dock (post M4–M5 Link opening)</li>
+          <li>Parramatta Road/Wattle Street intersection in Ashfield/Haberfield (post M4–M5 Link opening)</li>
+          <li>Parramatta Road(east of Bland Street)</li>
+          <li>Parramatta Road/Crystal Street/Balmain Road in Leichhardt/Petersham</li>
+          <li>Sydney Olympic Park access. Further detail of the proposed optimisation is outlined in Section 10.2.3 of the Traffic and Transport Assessment in Appendix G.</li>
+        </ul>
+      </td>
+      <td>Roads and maritime</td>
+      <td>Operation</td>
+    </tr>
+    <tr>
+      <th>Maintenance of existing network</th>
+      <td>OpTT3</td>
+      <td>A review of existing SCATS infrastructure at key intersections in the study area, including detectors, will be undertaken and upgrades will be implemented where appropriate to improve any impacts resulting from the project.</td>
+      <td>Roads and maritime</td>
+      <td>Operation</td>
+    </tr>
+    <tr>
+      <th rowspan="2">Network upgrades</th>
+      <td>OpTT4</td>
+      <td>
+        The following network upgrades will be investigated in consultation with relevant local councils, Roads and Maritime and affected communities:
+
+        <ul>
+          <li>Conversion of Mortley Avenue to entry only (except buses) at the Timbrell Drive / Dobroyd Parade intersection, with an additional entry lane to facilitate amended lane utilisation on the Timbrell Drive approach. Layout amendments could be required on Mortley Avenue which will need to consider impacts on existing parking provision, the location of the bus stop and some existing mature trees</li>
+          <li>Extension of left turn bay from Dobroyd Parade to Timbrell Avenue providing additional capacity for traffic reassigned from Mortley Avenue via Waratah Avenue and Dobroyd Parade</li>
+          <li>Provision of additional short lane on the Timbrell Drive approach to Dobroyd Parade potentially facilitated by using the old footpath area which is currently being replaced by the construction of a footbridge (subject to bridge assessment). The additional capacity will allow a greater share of green time for Dobroyd Parade movements</li>
+          <li>Provision of a new signalised left turn slip lane from Parramatta Road to Wattle Street to accommodate the high number of movements to the M4- M5 tunnel in the PM peak</li>
+          <li>Increase in parking restrictions on the southbound side of Great North Road to provide increased capacity.</li>
+        </ul>
+
+        Further detail of the identified network upgrades is outlined in Section 10.2.3 of the Traffic and Transport Assessment in Appendix G.
+      </td>
+      <td>Roads and maritime</td>
+      <td>Operation</td>
+    </tr>
+    <tr>
+      <td>OpTT5</td>
+      <td>
+        The following network upgrades will be investigated in consultation with relevant local councils, Roads and Maritime and affected communities, and implemented as and when required based on traffic growth and changing traffic patterns:
+
+        <ul>
+          <li>Enablingrightturnmovementsfrom the kerbside lane from George Street southbound to Parramatta Road</li>
+          <li>Extensionofparkingrestrictionson the southern (westbound) side of Ramsay Street between Wattle Street and Walker Avenue</li>
+          <li>Reassignmentofthesecondrightturn lane on the Wattle Street westbound approach to Parramatta Road post opening of the M4–M5 Link, to provide an additional right turn bay for traffic exiting the M4–M5 Link and leaving a single right turn lane from Wattle Street</li>
+          <li>Creationofadoublerightturnonthe Wattle Street westbound approach to Ramsay Street post opening of the M4–M5 Link. This could be achieved by reallocating the right hand through lane, leaving a single through/left lane.</li>
+        </ul>
+      </td>
+      <td>Roads and maritime</td>
+      <td>Operation</td>
+    </tr>
+    <tr>
+      <th>Smart motorways</th>
+      <td>OpTT6</td>
+      <td>Smart motorway management will be considered for implementation within the project tunnel and associated ramps and approaches.</td>
+      <td>Roads and maritime / Motorway operator</td>
+      <td>Operation</td>
+    </tr>
+  </tbody>
 </table>
 
