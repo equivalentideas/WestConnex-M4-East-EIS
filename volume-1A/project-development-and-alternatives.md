@@ -1398,80 +1398,126 @@ The general location of these interchange options is shown on Figure 4.6.
 
 The advantages and disadvantages of these options are outlined in Table 4.6.
 
-Table 4.6
 
-Advantages and disadvantages of Concord interchange options
+<table id="table-4-6">
+  <caption>Table 4.6 Advantages and disadvantages of Concord interchange options</caption>
+  <thead>
+    <tr>
+      <th>Option</th>
+      <th>Advantages</th>
+      <th>Disadvantages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>C1</td>
+      <td>
+        <ul>
+          <li>
+            There would be cost savings as a result
+            of not having an interchange at Concord
+            as well as the western portals.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would restrict access from the
+            key centres of Strathfield and Rhodes to
+            the M4 East tunnels, and would therefore
+            not provide adequate transport
+            connectivity to these centres.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        C2
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would involve only minimal
+            impact on residential properties.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would require very long on-
+            and off-ramps due to topography
+          </li>
+          <li>
+            This would have substantial impacts on
+            commercial and industrial properties
+            along Parramatta Road.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        C3
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option could utilise a construction
+            access tunnel excavated to access the
+            mainline tunnels at Cintra Park for the on-
+            and off-ramps, which would reduce
+            property impacts and provide cost
+            savings
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            The proximity of the on-ramp connections
+            to Wattle Street and Parramatta Road
+            would have presented problems for the
+            safe movement of vehicles entering or
+            exiting at this location. The end of the on-
+            ramp at this location would have been too
+            close to the Wattle Street and Parramatta
+            Road off-ramp, requiring vehicles to
+            perform unsafe weave movements.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        C4
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would provide access from
+            the key centres of Strathfield and Rhodes
+            to the M4 East tunnels, and would
+            therefore provide adequate transport
+            connectivity to these centres
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            There would be impact on residential
+            properties.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Option
-
-Advantages
-
-Disadvantages
-
-C1
-
-x There would be cost savings as a result
-
-of not having an interchange at Concord
-as well as the western portals.
-
-x This option would restrict access from the
-
-key centres of Strathfield and Rhodes to
-the M4 East tunnels, and would therefore
-not provide adequate transport
-connectivity to these centres.
-
-C2
-
-x This option would involve only minimal
-
-impact on residential properties.
-
-x This option would require very long on-
-
-and off-ramps due to topography
-
-x This would have substantial impacts on
-
-commercial and industrial properties
-along Parramatta Road.
-
-C3
-
-x This option could utilise a construction
-
-access tunnel excavated to access the
-mainline tunnels at Cintra Park for the on-
-and off-ramps, which would reduce
-property impacts and provide cost
-savings
-
-x The proximity of the on-ramp connections
-
-to Wattle Street and Parramatta Road
-would have presented problems for the
-safe movement of vehicles entering or
-exiting at this location. The end of the on-
-ramp at this location would have been too
-close to the Wattle Street and Parramatta
-Road off-ramp, requiring vehicles to
-perform unsafe weave movements.
-
-C4
-
-x This option would provide access from
-
-the key centres of Strathfield and Rhodes
-to the M4 East tunnels, and would
-therefore provide adequate transport
-connectivity to these centres
-
-x There would be impact on residential
-
-properties.
-
-Preferred option
+##### Preferred option
 
 Option C4, involving an interchange at Concord Road, was considered the preferred option as it
 would:
@@ -1611,7 +1657,7 @@ M4 and Parramatta Road intersection.
 
 #### 4.4.4 Wattle Street (City West Link) interchange
 
-Options considered
+##### Options considered
 
 The following options were considered for an interchange at or near Wattle Street (City West Link):
 
@@ -1686,7 +1732,7 @@ This change in alignment of the M4–M5 Link meant that a connection to Wattle S
 was required. Therefore Option W1 was not considered further, and Option W2 was the preferred
 option.
 
-Location refinement
+##### Location refinement
 
 Once Option W2 was selected as the preferred interchange option at Wattle Street, a number of
 refinements were considered for the design of the interchange. The location of the on- and off-ramp
