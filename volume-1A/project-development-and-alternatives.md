@@ -737,7 +737,6 @@ design that was publicly displayed between 2013 and February 2014
 
 The advantages and disadvantages of these options are outlined in Table 4.2.
 
-
 <table id="table-4-2">
   <caption>Table 4.2 Advantages and disadvantages of tunnel corridor options</caption>
   <thead>
@@ -862,17 +861,6 @@ project objectives:
 
 * Two lanes
 
-background image
-
-
-
-WestConnex M4 East
-
-4-16
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
 * Three lanes. This option was included in the concept design that was publicly displayed between
 2013 and February 2014
 
@@ -880,64 +868,94 @@ Environmental Impact Statement
 
 The advantages and disadvantages of these options are outlined in Table 4.3.
 
-Table 4.3
 
-Advantages and disadvantages of tunnel lane number options
-
-Option
-
-Advantages
-
-Disadvantages
-
-Two lanes
-
-x Reduced tunnel width would be cheaper
-
-to build.
-
-x Not considered adequate to carry the
-
-expected traffic volumes
-
-x Costly and disruptive upgrading to three
-
-lanes would likely be required not long
-after the project opened.
-
-Three
-lanes
-
-x Would match the number of lanes on the
-
-existing M4 at Concord and Parramatta
-Road at Haberfield/Ashfield
-
-x Would cater for projected initial and
-
-future traffic volumes within the tunnel.
-
-x Wider tunnel, which would be more
-
-expensive to build (but not as expensive
-as a four lane tunnel).
-
-Four
-lanes
-
-x Would allow for considerable capacity in
-
-the event of increases in traffic volume
-
-x Wider tunnel, which would be more
-
-expensive to build
-
-x Would result in bottlenecks at the
-
-eastern tunnel portals, as above ground
-infrastructure is unlikely to be greater
-than three lanes in each direction.
+<table id="table-4-3">
+  <caption>Table 4.3 Advantages and disadvantages of tunnel lane number options</caption>
+  <thead>
+    <tr>
+      <th>Option</th>
+      <th>Advantages</th>
+      <th>Disadvantages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Two lanes</td>
+      <td>
+        <ul>
+          <li>
+            Reduced tunnel width would be cheaper
+            to build.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Not considered adequate to carry the expected traffic volumes</li>
+          <li>
+            Costly and disruptive upgrading to three
+            lanes would likely be required not long
+            after the project opened.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Three lanes
+      </td>
+      <td>
+        <ul>
+          <li>
+            Would match the number of lanes on the
+            existing M4 at Concord and Parramatta
+            Road at Haberfield/Ashfield
+          </li>
+          <li>
+            Would cater for projected initial and
+            future traffic volumes within the tunnel.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Wider tunnel, which would be more
+            expensive to build (but not as expensive
+            as a four lane tunnel).
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Four lanes
+      </td>
+      <td>
+        <ul>
+          <li>
+            Would allow for considerable capacity in
+            the event of increases in traffic volume
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Wider tunnel, which would be more
+            expensive to build
+          </li>
+          <li>
+            Would result in bottlenecks at the
+            eastern tunnel portals, as above ground
+            infrastructure is unlikely to be greater
+            than three lanes in each direction.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 The construction of three lanes in each direction within the tunnels was the preferred option, as it
 would match the number of lanes on the existing M4 at Concord and on Parramatta Road at
@@ -953,7 +971,7 @@ option is for a three-lane tunnel located generally on the southern side of Parr
 
 #### 4.4.1 Western tunnel portals
 
-Options considered
+##### Options considered
 
 The following options were considered for the western tunnel portals:
 
@@ -972,79 +990,14 @@ design that was publicly displayed between 2013 and February 2014.
 
 The general location of these portal options is shown on Figure 4.5.
 
+<figure id="figure-4-5">
+  <img src="images/figure-4-5.png" alt="Aerial photo graph showing locations of different tunnel portal options" />
+  <figcaption>
+    Figure 4.5 Western tunnel portal options
+  </figcaption>
+</figure>
 
-
-background image
-
-Figure 4.5 Western tunnel portal options
-
-Parramatta Road
-
-Concord Road
-
-Arthur Street
-
-Parramatta Road
-
-Saleyards Creek
-
-Powells Creek
-
-M4 Motorway
-
-
-
-Ho
-
-m
-
-eb
-
-ush
-
- B
-
-ay
-
-Driv
-
-e
-
-4-1
-
-
-Roa
-
-d
-
-Ro
-
-Roaa
-
-H2
-
-H3a
-
-H3b
-
-H3c
-
-H1
-
-N
-
-background image
-
-
-
-WestConnex M4 East
-
-4-18
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
-Assessment of options
+##### Assessment of options
 
 The advantages and disadvantages of these options are outlined in Table 4.4.
 
