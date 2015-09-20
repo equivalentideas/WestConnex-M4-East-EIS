@@ -1934,7 +1934,7 @@ ventilation outlet and is relatively insensitive to the location of the outlet f
 surrounding development. The location of road tunnel ventilation outlets is very important for the
 efficiency of the tunnel ventilation system.
 
-Background and design considerations that affect location
+##### Background and design considerations that affect location
 
 As described in section 4.5.1, vehicles travelling through tunnels create a piston effect, whereby the
 movement of vehicles draws air into the tunnel system through the entrance portals, with emission
@@ -1955,7 +1955,7 @@ performance of the tunnels, reduces operational power consumption and thus reduc
 associated with operation. This also has environmental benefits, by reducing greenhouse gas
 emissions associated with energy generation.
 
-Western ventilation facility
+##### Western ventilation facility
 
 The western ventilation facility would be located above the cut-and-cover section of the westbound
 mainline tunnel west of Underwood Road, avoiding the need for additional property acquisition. The
@@ -1976,17 +1976,6 @@ Potential alternative locations for the western ventilation facility were consid
 portal, it would conflict with the realigned surface M4 in this location. As described above, it is not
 possible to locate the exhaust point at the end of the tunnel exit portal
 
-background image
-
-
-
-WestConnex M4 East
-
-4-30
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
 * Above the westbound tunnel further to the east – this would increase the distance from the
 tunnel exit portal, and would require additional reverse flow jet fans to draw the air back to the
 ventilation outlet
@@ -2004,9 +1993,9 @@ and-cover section of the westbound mainline tunnel west of Underwood Road. This 
 considered to best meet the main considerations of minimising local air quality impacts on nearby
 receptors and maximising the operational efficiency of the tunnel ventilation system.
 
-Eastern ventilation facility
+##### Eastern ventilation facility
 
-Number of ventilation outlets
+###### Number of ventilation outlets
 
 The design of the eastbound tunnel and ventilation facility has been determined by the requirement
 for:
@@ -2042,7 +2031,7 @@ involving additional property acquisition and two separate periods of constructi
 within a few years. This was considered to have an unacceptable impact on residents in this area,
 and two separate periods of construction would be needed within a few years.
 
-Location
+###### Location
 
 The location of the eastern ventilation facility, on the north-eastern corner of the Wattle Street and
 Parramatta Road intersection, provides optimal ventilation performance for both the project (including
@@ -2050,17 +2039,6 @@ the mainline tunnels and the Wattle Street and Parramatta Road off-ramps) and th
 (including the mainline tunnels and the Wattle Street off-ramp). The air quality assessment (see
 Chapter 9) shows that the ventilation outlet at the proposed location has minimal impact on nearby
 community receptors such as Haberfield Public School.
-
-background image
-
-
-
-WestConnex M4 East
-
-4-31
-
-WestConnex Delivery Authority
-Environmental Impact Statement
 
 Other locations considered for the eastern ventilation facility, and the reasons they were discarded,
 were:
@@ -2117,135 +2095,182 @@ mid-point of the tunnels which could potentially reduce the number of jet fans r
 This facility would allow fresh air to be introduced into the tunnels. Table 4.8 outlines the alternative
 locations that were considered for the location of the fresh air supply facility.
 
-background image
-
-
-
-WestConnex M4 East
-
-4-32
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
-Table 4.8
-
-Fresh air supply facility location options
-
-Location
-
-Advantages
-
-Disadvantages
-
-Cintra Park
-
-x Land would be acquired for the
-
-construction of the project
-
-x Would not require acquisition of
-
-additional residential or commercial
-properties
-
-x The existing hockey field would be
-
-relocated prior to the start of
-construction.
-
-x Affects the Cintra Park hockey field,
-
-however, this would be relocated to St
-Lukes Park in any case to enable the
-site to be used as a construction
-ancillary facility (mid-point tunnel site).
-
-Concord Oval
-
-x Located close the mainline tunnels
-x Would not require the acquisition of
-
-additional residential or commercial
-properties.
-
-x This site would not be required for
-
-construction
-
-x Concord Oval is a major sporting
-
-facility which is important to the region
-and is used by many sporting clubs.
-
-St Lukes Park
-and Cintra
-Park north of
-Gipps Street
-
-x Would not require the acquisition of
-
-additional residential or commercial
-properties.
-
-x These sites would not be required for
-
-construction
-
-x This option would affect additional
-
-open space and sporting facilities,
-potentially further reducing the amount
-of open space in the locality
-
-x These sites are located a greater
-
-distance from the mainline tunnels,
-making it less efficient to operate.
-
-Burwood Bus
-Depot
-
-x Located close to the mainline tunnels,
-
-making the system more efficient to
-operate
-
-x Land is owned by the NSW
-
-Government.
-
-x This site would not be required for
-
-construction
-
-x This is a major bus depot within inner
-
-western Sydney and is very important
-for buses which travel along
-Parramatta Road
-
-x Relocating the depot would be difficult
-
-due to land use conflicts associated
-with such a land use and the
-additional property acquisition that
-would be required.
-
-Residential
-and/or
-commercial
-properties
-
-x Location can be selected to be directly
-
-above the mainline tunnels, making
-the system more efficient operate.
-
-x Would require acquisition of additional
-
-residential and/or commercial
-properties.
+<table id="table-4-8">
+  <caption>Table 4.8 Fresh air supply facility location options</caption>
+  <thead>
+    <tr>
+      <th>Location</th>
+      <th>Advantages</th>
+      <th>Disadvantages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cintra Park</td>
+      <td>
+        <ul>
+          <li>
+            Land would be acquired for the
+            construction of the project
+          </li>
+          <li>
+            Would not require acquisition of
+            additional residential or commercial
+            properties
+          </li>
+          <li>
+            The existing hockey field would be
+            relocated prior to the start of
+            construction.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Affects the Cintra Park hockey field,
+            however, this would be relocated to St
+            Lukes Park in any case to enable the
+            site to be used as a construction
+            ancillary facility (mid-point tunnel site).
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Concord Oval
+      </td>
+      <td>
+        <ul>
+          <li>
+            Located close the mainline tunnels
+          </li>
+          <li>
+            Would not require the acquisition of
+            additional residential or commercial
+            properties.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            This site would not be required for
+            construction
+          </li>
+          <li>
+            Concord Oval is a major sporting
+            facility which is important to the region
+            and is used by many sporting clubs.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        St Lukes Park
+        and Cintra
+        Park north of
+        Gipps Street
+      </td>
+      <td>
+        <ul>
+          <li>
+            Would not require the acquisition of
+            additional residential or commercial
+            properties.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            These sites would not be required for
+            construction
+          </li>
+          <li>
+            This option would affect additional
+            open space and sporting facilities,
+            potentially further reducing the amount
+            of open space in the locality
+          </li>
+          <li>
+            These sites are located a greater
+            distance from the mainline tunnels,
+            making it less efficient to operate.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Burwood Bus
+        Depot
+      </td>
+      <td>
+        <ul>
+          <li>
+            Located close to the mainline tunnels,
+            making the system more efficient to
+            operate
+          </li>
+          <li>
+            Land is owned by the NSW
+            Government.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            This site would not be required for
+            construction
+          </li>
+          <li>
+            This is a major bus depot within inner
+            western Sydney and is very important
+            for buses which travel along
+            Parramatta Road
+          </li>
+          <li>
+            Relocating the depot would be difficult
+            due to land use conflicts associated
+            with such a land use and the
+            additional property acquisition that
+            would be required.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Residential
+        and/or
+        commercial
+        properties
+      </td>
+      <td>
+        <ul>
+          <li>
+            Location can be selected to be directly
+            above the mainline tunnels, making
+            the system more efficient operate.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Would require acquisition of additional
+            residential and/or commercial
+            properties.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Cintra Park was considered to be the preferred location for the fresh air supply facility as it would use
 land that would be acquired for construction of the project. This would minimise the amount of open
@@ -2264,17 +2289,6 @@ different operators, a stand-alone control centre for each stage would be prefer
 WestConnex be operated by a single operator, a combined motorway control centre could be
 constructed. In this case, the motorway control centre constructed for the M4 East project would be
 used as a backup facility.
-
-background image
-
-
-
-WestConnex M4 East
-
-4-33
-
-WestConnex Delivery Authority
-Environmental Impact Statement
 
 The proposed motorway control centre of the project would be located on the northern side of the
 existing M4 to the east of Homebush Bay Drive and south of the Ausgrid Mason Park substation.
@@ -2295,7 +2309,7 @@ equipment store.
 A number of options for tunnel construction methods were considered. The advantages and
 disadvantages of the various methods are described below.
 
-Tunnel boring machine
+##### Tunnel boring machine
 
 A tunnel boring machine (TBM) is a specialist machine which excavates a circular bore of fixed
 diameter by rotary action. The machine comprises of a rotating head fitted with disc cutters, drag bits
@@ -2306,7 +2320,7 @@ normally custom made to suit the particular requirement of the individual projec
 considerable time to deliver and mobilise for full operation. They also require a large open area on
 site to assemble and align in position for driving.
 
-Drill and blast
+##### Drill and blast
 
 The drill and blast excavation method involves a sequence of the dril ing of holes, charging the holes
 with explosive, blasting, mucking out and instal ing the roof and wall ground support. The method is
@@ -2315,7 +2329,7 @@ method assisting in achieving an overall shorter project delivery. This method o
 shortest exposure to noise and vibration for residents and businesses above the tunnels compared to
 other methods of tunnel excavation.
 
-Road header excavation
+##### Road header excavation
 
 A road header is a commonly used machine for excavation in sandstone and has been successfully
 used in recent tunnel projects in Sydney. It is a specialist tunnelling plant, which excavates with picks
@@ -2328,7 +2342,7 @@ excavation advances, ground support would be installed behind the excavation fac
 could be permanent or temporary and would normally include rock bolts, steel mesh and sprayed
 concrete.
 
-Preferred tunnel construction method
+##### Preferred tunnel construction method
 
 A combination of road header excavation and dril  and blast was chosen. A heading about six metres
 high would be excavated with a road header and then a bench of about 1.8 metres deep would be
@@ -2339,17 +2353,6 @@ following reasons:
 
 * The combination of methods speeds up excavation compared to work being undertaken solely
 with the use of road headers
-
-background image
-
-
-
-WestConnex M4 East
-
-4-34
-
-WestConnex Delivery Authority
-Environmental Impact Statement
 
 * It is more economic due to reduced time taken for excavation
 
@@ -2377,79 +2380,113 @@ to the various modes available to transport this spoil to the reuse or disposal 
 rail, barge and truck. Table 4.9 outlines the advantages and disadvantages of each of these transport
 mode options.
 
-Table 4.9
 
-Spoil disposal transport options
-
-Disposal
-method
-
-Advantages
-
-Disadvantages
-
-Rail
-
-x Ability to move large volumes of spoil
-
-x Reduces the number of heavy vehicles
-
-on the wider road network.
-
-x Availability of train paths on the Sydney
-
-rail network is limited
-
-x Trucks would stil  be required to
-
-transport material to a train loading
-facility and potentially to its final
-destination
-
-x Infrastructure upgrades at rail yards
-
-would be required to allow the loading of
-material to trains.
-
-Barge
-
-x Ability to move large volumes of spoil
-
-x Reduces the number of heavy vehicles
-
-on the wider road network.
-
-x Trucks would stil  be required to
-
-transport material to a barge loading
-facility and potentially to its final
-destination
-
-x Infrastructure upgrades would potentially
-
-be required to allow the loading of
-material to a barge
-
-x Barges would not be able to travel all the
-
-way to the currently proposed spoil re-
-use and disposal locations.
-
-Truck
-
-x Avoids double handling of material, with
-
-trucks taking material directly from the
-project site to its destination.
-
-x Limited to small volumes of spoil in each
-
-truck, and therefore there a large number
-of truck movements would be required.
+<table id="table-4-9">
+  <caption>Table 4.9 Spoil disposal transport options</caption>
+  <thead>
+    <tr>
+      <th>Disposal Method</th>
+      <th>Advantages</th>
+      <th>Disadvantages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rail</td>
+      <td>
+        <ul>
+          <li>
+            Ability to move large volumes of spoil
+          </li>
+          <li>
+            Reduces the number of heavy vehicles
+            on the wider road network.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Availability of train paths on the Sydney
+            rail network is limited
+          </li>
+          <li>
+            Trucks would still be required to
+            transport material to a train loading
+            facility and potentially to its final
+            destination
+          </li>
+          <li>
+            Infrastructure upgrades at rail yards
+            would be required to allow the loading of
+            material to trains.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Barge
+      </td>
+      <td>
+        <ul>
+          <li>
+            Ability to move large volumes of spoil
+          </li>
+          <li>
+           Reduces the number of heavy vehicles
+           on the wider road network.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Trucks would still be required to
+            transport material to a barge loading
+            facility and potentially to its final
+            destination
+          </li>
+          <li>
+            Infrastructure upgrades would potentially
+            be required to allow the loading of
+            material to a barge
+          </li>
+          <li>
+            Barges would not be able to travel all the
+            way to the currently proposed spoil re-
+            use and disposal locations.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Truck</td>
+      <td>
+        <ul>
+          <li>
+            Avoids double handling of material, with
+            trucks taking material directly from the
+            project site to its destination.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Limited to small volumes of spoil in each
+            truck, and therefore there a large number
+            of truck movements would be required.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Spoil removal and disposal using trucks was considered to be the preferred option as it would involve
 transporting material from the construction site directly to the final disposal location. This option would
 streamline the handling of spoil (removes double and potentially triple handling spoil), but would result
 in a higher number of trucks on the road. This increase in truck numbers is not considered to be any
-more significant than the alternatives, since other transport options (rail and barging) would stil
+more significant than the alternatives, since other transport options (rail and barging) would still
 require trucks to initially move material to the loading facility and, potentially, to the final destination.
