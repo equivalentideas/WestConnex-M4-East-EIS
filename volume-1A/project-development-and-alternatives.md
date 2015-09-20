@@ -1185,135 +1185,166 @@ westbound on-ramp to the M4 from Concord Road northbound and the left turn from 
 Road eastbound to the M4 westbound, and providing a new westbound on-ramp to the west of
 Powells Creek.
 
-Assessment of options
+##### Assessment of options
 
 The advantages and disadvantages of these options are outlined in Table 4.5.
 
-Table 4.5
+<table id="table-4-5">
+  <caption>Table 4.5 Advantages and disadvantages of M4 westbound on-ramp options</caption>
+  <thead>
+    <tr>
+      <th>Option</th>
+      <th>Advantages</th>
+      <th>Disadvantages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>OR1</td>
+      <td>
+        <ul>
+          <li>
+            This option requires no changes to the
+            existing arrangement and is cost neutral.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            The performance of the intersection of
+            Parramatta Road, Concord Road and
+            Leicester Avenue at North Strathfield
+            would decline further, resulting in
+            increased significant delays.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        OR2
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would provide relief to the
+            intersection of Parramatta Road, Concord
+            Road and Leicester Avenue at North
+            Strathfield, by reducing through
+            movements from Leicester Avenue to
+            Concord Road and right turn movements
+            from Parramatta Road to Concord Road
+          </li>
+          <li>
+            It would be cheaper than options that
+            involve building a new on-ramp.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Vehicles coming from Leicester Avenue
+            and other areas south of Parramatta
+            Road at North Strathfield and wishing to
+            access the M4 westbound would be
+            required to either:
+          </li>
+          <ul>
+            <li>
+              Travel east via local roads to enter
+              Parramatta Road and turn right at the
+              Parramatta Road and M4 intersection
+            </li>
+            <li>
+              Travel further west along Parramatta
+              Road and use the Marlborough Road
+              loop road to access the Homebush
+              Bay drive interchange.
+            </li>
+          </ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        OR3
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would provide relief to the
+            intersection of Parramatta Road, Concord
+            Road and Leicester Avenue at North
+            Strathfield, by reducing through
+            movements from Leicester Avenue to
+            Concord Road and right turn movements
+            from Parramatta Road to Concord Road
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would involve acquisition of
+            privately-owned land, which has recently
+            had development consent granted for a
+            new residential flat building
+          </li>
+          <li>
+            This option would be more expensive
+            than options that involve not building a
+            new on-ramp.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        OR4
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would provide relief to the
+            intersection of Parramatta Road, Concord
+            Road and Leicester Avenue at North
+            Strathfield, by reducing through
+            movements from Leicester Avenue to
+            Concord Road and right turn movements
+            from Parramatta Road to Concord Road
+          </li>
+          <li>
+            This option would not involve acquisition
+            of privately-owned land.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would involve acquisition from
+            Strathfield Council of a small part of the
+            proposed future Arnotts Reserve
+          </li>
+          <li>
+            It would involve constructing an on-ramp
+            over Powells Creek, which is a concrete
+            channel at this location
+          </li>
+          <li>
+            This option would be more expensive
+            than options that involve not building a
+            new on-ramp.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Advantages and disadvantages of M4 westbound on-ramp options
-
-Option
-
-Advantages
-
-Disadvantages
-
-OR1
-
-x This option requires no changes to the
-
-existing arrangement and is cost neutral.
-
-x The performance of the intersection of
-
-Parramatta Road, Concord Road and
-Leicester Avenue at North Strathfield
-would decline further, resulting in
-increased significant delays.
-
-background image
-
-
-
-WestConnex M4 East
-
-4-20
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
-Option
-
-Advantages
-
-Disadvantages
-
-OR2
-
-x This option would provide relief to the
-
-intersection of Parramatta Road, Concord
-Road and Leicester Avenue at North
-Strathfield, by reducing through
-movements from Leicester Avenue to
-Concord Road and right turn movements
-from Parramatta Road to Concord Road
-
-x It would be cheaper than options that
-
-involve building a new on-ramp.
-
-x Vehicles coming from Leicester Avenue
-
-and other areas south of Parramatta
-Road at North Strathfield and wishing to
-access the M4 westbound would be
-required to either:
- Travel east via local roads to enter
-
-Parramatta Road and turn right at the
-Parramatta Road and M4 intersection
-
- Travel further west along Parramatta
-
-Road and use the Marlborough Road
-loop road to access the Homebush
-Bay drive interchange.
-
-OR3
-
-x This option would provide relief to the
-
-intersection of Parramatta Road, Concord
-Road and Leicester Avenue at North
-Strathfield, by reducing through
-movements from Leicester Avenue to
-Concord Road and right turn movements
-from Parramatta Road to Concord Road
-
-x This option would involve acquisition of
-
-privately-owned land, which has recently
-had development consent granted for a
-new residential flat building
-
-x This option would be more expensive
-
-than options that involve not building a
-new on-ramp.
-
-OR4
-
-x This option would provide relief to the
-
-intersection of Parramatta Road, Concord
-Road and Leicester Avenue at North
-Strathfield, by reducing through
-movements from Leicester Avenue to
-Concord Road and right turn movements
-from Parramatta Road to Concord Road
-
-x This option would not involve acquisition
-
-of privately-owned land.
-
-x This option would involve acquisition from
-
-Strathfield Council of a small part of the
-proposed future Arnotts Reserve
-
-x It would involve constructing an on-ramp
-
-over Powells Creek, which is a concrete
-channel at this location
-
-x This option would be more expensive
-
-than options that involve not building a
-new on-ramp.
-
-Preferred option
+##### Preferred option
 
 Option OR4, involving an on-ramp adjacent to Powells Creek, was considered the preferred option as
 it would:
@@ -1326,14 +1357,14 @@ so as to not significantly increase travel time and affect network performance i
 
 * Not involve acquisition of privately-owned land.
 
-Location refinement
+##### Location refinement
 
 As a number of options in different locations were considered for the M4 westbound on-ramp, there
 was no need to consider location refinements during preferred design development.
 
 #### 4.4.3 Concord interchange
 
-Options considered
+##### Options considered
 
 The following options were considered for an interchange at or near Concord:
 
@@ -1344,17 +1375,6 @@ western portals and Wattle Street/Parramatta Road
 providing an interchange on Parramatta Road near Wentworth Road at Strathfield and
 Shaftesbury Road at Burwood. This option would have provided an eastbound on-ramp and a
 westbound off-ramp
-
-background image
-
-
-
-WestConnex M4 East
-
-4-21
-
-WestConnex Delivery Authority
-Environmental Impact Statement
 
 * Option C3 – interchange on Parramatta Road near Shaftesbury Road: This option would involve
 providing an interchange on Parramatta Road near Shaftesbury Road at Burwood. This option
@@ -1367,7 +1387,14 @@ publicly displayed between 2013 and February 2014.
 
 The general location of these interchange options is shown on Figure 4.6.
 
-Assessment of options
+<figure id="figure-4-6">
+  <img src="images/figure-4-6.png" alt="Aerial photo graph showing locations of different interchange options" />
+  <figcaption>
+    Figure 4.6 Concord interchange options
+  </figcaption>
+</figure>
+
+##### Assessment of options
 
 The advantages and disadvantages of these options are outlined in Table 4.6.
 
@@ -1473,7 +1500,7 @@ C4
 
 C1
 
-Figure 4.6 Concord interchange options
+
 
 Parramatta Road
 
