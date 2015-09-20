@@ -654,7 +654,12 @@ similar to the Eastern Distributor at Moore Park. The alignment would generally 
 Parramatta Road and be positioned to the south. This option would run between the end of the
 existing M4 and Parramatta Road at Haberfield.
 
-These options are shown in Figure 4.3.
+<figure id="figure-4-3">
+  <img src="images/figure-4-3.png" alt="Map showing locations and distances of different M4 East options" />
+  <figcaption>
+    Figure 4.3 2003 M4 East options
+  </figcaption>
+</figure>
 
 The short tunnel option was preferred for a number of reasons. When compared to the long tunnel
 option, the short tunnel was considered to have lower costs both during construction and operation (ie
@@ -668,7 +673,7 @@ option would be longer, due to the need to acquire a substantial number of prope
 the community and traffic on Parramatta Road during construction were also considered to make the
 slot option less attractive.
 
-2012 original WestConnex slot scheme
+##### 2012 original WestConnex slot scheme
 
 The original WestConnex scheme set out in the State Infrastructure Strategy and WestConnex –
 Sydney’s next motorway priority (Infrastructure NSW 2012b) comprised a connection between the
@@ -678,41 +683,15 @@ A key feature of the conceptual scheme was a slotted motorway running parallel t
 to optimise opportunities for urban renewal. Figure 4.4 provides a conceptual il ustration of the
 proposed slot arrangement as shown in the State Infrastructure Strategy.
 
-background image
+<figure id="figure-4-4">
+  <img src="images/figure-4-4.png" alt="Illustration of a section of road and surrounding streetscape" />
+  <figcaption>
+    Figure 4.4 Conceptual illustration of slot option.
+  </figcaption>
+  Source: Infrastructure NSW 2012a
+</figure>
 
-
-
-WestConnex M4 East
-
-4-13
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
-Figure 4.3
-
-2003 M4 East options
-
-
-
-background image
-
-
-
-WestConnex M4 East
-
-4-14
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
-Figure 4.4
-
-Conceptual illustration of slot option
-
-Source: Infrastructure NSW 2012a
-
-2013 industry partner development
+##### 2013 industry partner development
 
 Following the advice of Infrastructure NSW for “greater private sector involvement at the design
 phase” (Infrastructure NSW 2012a), four Australian and international construction industry consortia
@@ -737,24 +716,13 @@ construction
 
 * Difficulties in managing surface water around and over the open slot.
 
-2013 WestConnex Business Case
+##### 2013 WestConnex Business Case
 
 In September 2013, the Sydney Motorways Project Office (then part of Roads and Maritime and the
 precursor agency to the WestConnex Delivery Authority) released the WestConnex Business Case
 Executive Summary. The M4 East component of WestConnex was proposed to continue the M4 from
 Homebush Bay Drive to Parramatta Road and City West Link at Haberfield, by providing a tunnel with
 three lanes in each direction, general y following the alignment of Parramatta Road.
-
-background image
-
-
-
-WestConnex M4 East
-
-4-15
-
-WestConnex Delivery Authority
-Environmental Impact Statement
 
 #### 4.3.2 Tunnel corridor options
 
