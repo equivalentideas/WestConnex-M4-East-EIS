@@ -1536,43 +1536,22 @@ these is shown on Figure 4.6.
 
 Two main designs for the interchange and locations of the on- and off-ramp portals were considered:
 
-* C4a – mostly on the western side of Concord Road, including:
-
-
-
-New northbound and southbound on-ramps connecting Concord Road to the eastbound
-tunnel
-
-
-
-New northbound and southbound off-ramps connecting the westbound tunnel to Concord
-Road
-
-
-
-Widening of Concord Road at the on- and off-ramps
-
-
-
-Realignment of the existing M4 between Sydney Street and Parramatta Road
-
-* C4b – mostly on the eastern side of Concord Road, including:
-
-
-
-New eastbound on-ramp and westbound off-ramp connecting the new tunnels to Concord
-Road (via Sydney Street)
-
-
-
-New westbound exit to Parramatta Road via the existing M4, including modification of the
+<ul><li>C4a – mostly on the western side of Concord Road, including:</li>
+<ul><li> New northbound and southbound on-ramps connecting Concord Road to the eastbound
+tunnel</li>
+<li>New northbound and southbound off-ramps connecting the westbound tunnel to Concord
+Road</li>
+<li>Widening of Concord Road at the on- and off-ramps</li>
+<li>Realignment of the existing M4 between Sydney Street and Parramatta Road</li></ul>
+<li>C4b – mostly on the eastern side of Concord Road, including:</li>
+<ul><li>New eastbound on-ramp and westbound off-ramp connecting the new tunnels to Concord
+Road (via Sydney Street)</li>
+<li>New westbound exit to Parramatta Road via the existing M4, including modification of the
 M4 between the Concord Road overbridge and Parramatta Road intersection, and lane
-changes on Parramatta Road
-
-
-
-Widening of Concord Road to provide extra turning lanes into Sydney Street for the new
-eastbound on-ramp.
+changes on Parramatta Road</li>
+<li>Widening of Concord Road to provide extra turning lanes into Sydney Street for the new
+eastbound on-ramp.</li></ul>
+</ul>
 
 Location C4b would result in acquisition of a large number of properties to the east of the existing M4
 associated with cut and cover works for connections to the driven tunnels. This location and design
