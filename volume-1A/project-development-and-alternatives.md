@@ -1671,55 +1671,14 @@ included in the concept design that was publicly displayed between 2013 and Febr
 
 The general location of these interchange options is shown on shown on Figure 4.7.
 
+<figure id="figure-4-7">
+  <img src="images/figure-4-7.png" alt="Aerial photo graph showing locations of different interchange options" />
+  <figcaption>
+    Figure 4.7 Wattle Street and Parramatta Road interchange options
+  </figcaption>
+</figure>
 
-
-background image
-
-N
-
-Figure 4.7 Wattle Street and Parramatta Road interchange options
-
-Ramsay Road
-
-Hawthorne Canal
-
-Parramatta Road
-
-Dobroyd
-
-Canal (Iron Cove Cr
-
-ee
-
-k)
-
-P1+P2
-
-P4
-
-P5
-
-W2
-
-P3
-
-W1 Option W1 involves no interchange on Wattle Street (City West Link)
-
-4-2
-
-
-background image
-
-
-
-WestConnex M4 East
-
-4-25
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
-Assessment of options and preferred option
+##### Assessment of options and preferred option
 
 The State Infrastructure Strategy proposed a Western Harbour Tunnel that would connect Rozelle
 with the Warringah Freeway on the lower north shore. It would relieve pressure on the Harbour
