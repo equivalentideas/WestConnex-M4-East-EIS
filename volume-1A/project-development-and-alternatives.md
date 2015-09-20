@@ -1534,63 +1534,6 @@ Once Option C4 was selected as the preferred interchange option at Concord, a nu
 refinements were considered for the location and design of the interchange. The general location of
 these is shown on Figure 4.6.
 
-
-
-background image
-
-C3
-
-C2
-
-C4
-
-C1
-
-
-
-Parramatta Road
-
-M4 Motorway
-
-Concord Road
-
-Parramatta Road
-
-Queens Road
-
-St Lukes Park Canal
-
-Gipps Street
-
-Shaftesbury Road
-
-Burwood Road
-
-W
-
-e
-
-ntworth Road
-
-Option C1 involves no interchange between the western tunnel portals and Wattle Street
-
-4-
-
-2
-
-2
-
-background image
-
-
-
-WestConnex M4 East
-
-4-23
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
 Two main designs for the interchange and locations of the on- and off-ramp portals were considered:
 
 * C4a – mostly on the western side of Concord Road, including:
