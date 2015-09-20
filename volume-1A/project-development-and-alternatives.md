@@ -1664,122 +1664,155 @@ the M4–M5 Link would not be provided under this option.
 
 The general location of these interchange options is shown on Figure 4.7.
 
-background image
-
-
-
-WestConnex M4 East
-
-4-26
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
-Assessment of options
+##### Assessment of options
 
 The advantages and disadvantages of these options are outlined in Table 4.7.
 
-Table 4.7
+<table id="table-4-7">
+  <caption>Table 4.7 Advantages and disadvantages of Parramatta Road interchange options</caption>
+  <thead>
+    <tr>
+      <th>Option</th>
+      <th>Advantages</th>
+      <th>Disadvantages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>P1 and P2</td>
+      <td>
+        <ul>
+          <li>
+            The topography at this location is
+            favourable and would mean that on- and
+            off-ramps would require relatively low
+            grades.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would affect Ashfield Park
+            (locally listed heritage item) and the
+            Yasmar Estate (State listed heritage item)
+          </li>
+          <li>
+            A number of local roads would be closed
+            where they currently connect to
+            Parramatta Road, reducing local
+            connectivity
+          </li>
+          <li>
+            A number of commercial and industrial
+            properties on the northern side of
+            Parramatta Road would be affected.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        P3
+      </td>
+      <td>
+        <ul>
+          <li>
+            Locating the interchange further east at
+            Taverners Hill would remove the need for
+            an interchange on Parramatta Road near
+            Wattle Street, and provide cost savings.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would have lengthened the
+            tunnel by about one kilometre
+          </li>
+          <li>
+            It would involve an indirect connection
+            from Taverners Hill to the proposed
+            Western Harbour Tunnel, which would
+            have further lengthened the tunnel
+          </li>
+          <li>
+            A viaduct would have significant visual
+            impacts,
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        P4
+      </td>
+      <td>
+        <ul>
+          <li>
+            The tunnels would be slightly shorter,
+            representing represented a minor cost
+            saving for the M4 East component of
+            WestConnex.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would have resulted in
+            significant and unacceptable traffic
+            impacts at the Wattle Street/Parramatta
+            Road/Frederick Street intersection,
+            particularly during the morning and
+            afternoon peaks
+          </li>
+          <li>
+            There would be issues with vehicles
+            queuing back into the tunnel during the
+            morning peak.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        P5
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would not affect Ashfield Park
+            (locally listed heritage item) or the
+            Yasmar Estate (State listed heritage item)
+          </li>
+          <li>
+            No local roads would be permanently
+            closed at Parramatta Road, maintaining
+            local connectivity.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            A number of commercial and industrial
+            properties on the southern side of
+            Parramatta Road would be affected
+          </li>
+          <li>
+            There would be issues with vehicles
+            queuing back into the tunnel during the
+            morning peak.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Advantages and disadvantages of Parramatta Road interchange options
-
-Option
-
-Advantages
-
-Disadvantages
-
-P1 and
-P2
-
-x The topography at this location is
-
-favourable and would mean that on- and
-off-ramps would require relatively low
-grades.
-
-x This option would affect Ashfield Park
-
-(locally listed heritage item) and the
-Yasmar Estate (State listed heritage item)
-
-x A number of local roads would be closed
-
-where they currently connect to
-Parramatta Road, reducing local
-connectivity
-
-x A number of commercial and industrial
-
-properties on the northern side of
-Parramatta Road would be affected.
-
-P3
-
-x Locating the interchange further east at
-
-Taverners Hill would remove the need for
-an interchange on Parramatta Road near
-Wattle Street, and provide cost savings.
-
-x This option would have lengthened the
-
-tunnel by about one kilometre
-
-x It would involve an indirect connection
-
-from Taverners Hill to the proposed
-Western Harbour Tunnel, which would
-have further lengthened the tunnel
-
-x A viaduct would have significant visual
-
-impacts,
-
-P4
-
-x The tunnels would be slightly shorter,
-
-representing represented a minor cost
-saving for the M4 East component of
-WestConnex.
-
-x This option would have resulted in
-
-significant and unacceptable traffic
-impacts at the Wattle Street/Parramatta
-Road/Frederick Street intersection,
-particularly during the morning and
-afternoon peaks
-
-x There would be issues with vehicles
-
-queuing back into the tunnel during the
-morning peak.
-
-P5
-
-x This option would not affect Ashfield Park
-
-(locally listed heritage item) or the
-Yasmar Estate (State listed heritage item)
-
-x No local roads would be permanently
-
-closed at Parramatta Road, maintaining
-local connectivity.
-
-x A number of commercial and industrial
-
-properties on the southern side of
-Parramatta Road would be affected
-
-x There would be issues with vehicles
-
-queuing back into the tunnel during the
-morning peak.
-
-Preferred option
+##### Preferred option
 
 Option P5, involving an interchange near Bland Street, was considered the preferred option. It would
 not involve impacts on Ashfield Park and Yasmar, and would not create unacceptable traffic impacts
@@ -1787,22 +1820,11 @@ on the Wattle Street/Parramatta Road/Frederick Street intersection. The change i
 M4–M5 Link to connect with the proposed Western Harbour Tunnel removed the need to provide an
 eastbound on-ramp or westbound off-ramp at this location.
 
-Location refinement
+##### Location refinement
 
 As a number of options in different locations were considered for the Parramatta Road interchange,
 there was no need to consider location refinements for the preferred Parramatta Road interchange
 option during concept design development.
-
-background image
-
-
-
-WestConnex M4 East
-
-4-27
-
-WestConnex Delivery Authority
-Environmental Impact Statement
 
 ### 4.5 Design development of ancillary facilities
 
@@ -1834,7 +1856,7 @@ A number of options for design of the ventilation system were considered. The ad
 disadvantages of the various systems are described below, and shown in Figure 4.8. Further
 discussion on the ventilation system can be found in Chapter 9 (Air quality).
 
-Longitudinal ventilation
+##### Longitudinal ventilation
 
 The simplest form of ventilation is longitudinal ventilation in which fresh air is drawn in at the entry
 portal and passes out through the exit portal with the flow of traffic. For longer tunnels, the air flow is
@@ -1844,7 +1866,7 @@ through an elevated ventilation outlet to maximise dispersion into the outside a
 in Australia in the last 20 years have been designed and operated with longitudinal ventilation
 systems.
 
-Transverse ventilation
+##### Transverse ventilation
 
 Another way to ensure adequate dilution of emissions is to provide fresh air inlets along the length of
 the tunnel along the side and to balance the amount of air coming in, outlets on the opposite of the
@@ -1855,28 +1877,20 @@ ventilation system is more expensive to construct because of the additional duct
 excavated for each tunnel. This type of system is less effective than a longitudinal system at
 controlling smoke in the tunnel in case of a fire.
 
-Semi transverse ventilation
+##### Semi transverse ventilation
 
 Semi-transverse ventilation combines both longitudinal and transverse ventilation. Fresh air can be
 supplied through the portals and be continuously exhausted through a duct along the length of the
 tunnel. Alternatively fresh air can be supplied through a duct and exhausted through the portals.
 
-background image
+<figure id="figure-4-8">
+  <img src="images/figure-4-8.png" alt="Diagram showing how different ventilation system design options work" />
+  <figcaption>
+    Figure 4.8 Ventilation system design options
+  </figcaption>
+</figure>
 
-
-
-WestConnex M4 East
-
-4-28
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
-Figure 4.8
-
-Ventilation system design options
-
-Ventilation outlets
+##### Ventilation outlets
 
 Currently a key operating requirement for the longer tunnels opened in Sydney since 2000, is to
 minimise emissions through the portals, or tunnel entrances. Essentially this means that the
@@ -1890,7 +1904,7 @@ ventilation outlet and can significantly increase the diameter of the outlet req
 emissions also means that the ventilation system needs to be operating all the time regardless of
 whether in-tunnel or ambient air quality warrants this operation.
 
-Summary
+##### Summary
 
 The development of cleaner vehicles in response to cleaner fuel and emissions standards means that
 a significant reduction in vehicle emissions has occurred over the past 20 years. Longitudinal
@@ -1898,17 +1912,6 @@ ventilation was once not suitable for long tunnels due to the need to supply lar
 to dilute vehicle emissions. A well-designed longitudinal ventilation system can now easily maintain
 acceptable air quality in long tunnels and is considered the most efficient and effective tunnel
 ventilation system (Roads and Maritime 2014c).
-
-background image
-
-
-
-WestConnex M4 East
-
-4-29
-
-WestConnex Delivery Authority
-Environmental Impact Statement
 
 Although all three ventilations systems could be designed to ensure that in-tunnel air quality criteria
 would be met, a longitudinal system has been selected for the project. Longitudinal ventilation is less
