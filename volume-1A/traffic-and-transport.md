@@ -211,7 +211,7 @@ Road transport corridor service both the local and wider community, meaning that
 a number of medium distance, one way trips are generated along the corridor.
 
 <figure id="figure-8-1">
-  <img src="images/figure-8-1.png" alt="Map of Traffic study area" />
+  <img src="images/figure-8-1.jpg" alt="Map of Traffic study area" />
   <figcaption>
     Figure 8.1 Existing road network within the study area
   </figcaption>
@@ -458,7 +458,7 @@ The following volumes are shown in Table 8.2 for the seven survey sites:
 </table>
 
 <figure id="figure-8-2">
-  <img src="images/figure-8-2.png" alt="Map showing traffic survey locations" />
+  <img src="images/figure-8-2.jpg" alt="Map showing traffic survey locations" />
   <figcaption>
     Figure 8.2 Traffic survey locations
   </figcaption>
@@ -948,7 +948,7 @@ peak. The intersections were grouped into nine clusters for assessment purposes
 </table>
 
 <figure id="figure-8-3">
-  <img src="images/figure-8-3.png" alt="Map showing locations of traffic modelling clusters" />
+  <img src="images/figure-8-3.jpg" alt="Map showing locations of traffic modelling clusters" />
   <figcaption>
     Figure 8.3 Traffic modelling clusters
   </figcaption>
@@ -3326,7 +3326,7 @@ by the project in 2021 on most strategic routes assessed. Travel time savings in
 of 10 to 18 minutes.
 
 <figure id="figure-8-4">
-  <img src="images/figure-8-4.png" alt="Chart showing claimed AM travel times
+  <img src="images/figure-8-4.jpg" alt="Chart showing claimed AM travel times
 savings gained by building to M4 East and M4-M5 Link" />
   <figcaption>
     Figure 8.4 Travel time savings – AM peak
@@ -3337,7 +3337,7 @@ PM peak travel time savings are illustrated in Figure 8.5 and demonstrate
 similar time savings in 2021, with an increase in 2031 to savings of 13 to 20 minutes.
 
 <figure id="figure-8-5">
-  <img src="images/figure-8-5.png" alt="Chart showing claimed PM travel times
+  <img src="images/figure-8-5.jpg" alt="Chart showing claimed PM travel times
 savings gained by building to M4 East and M4-M5 Link" />
   <figcaption>
     Figure 8.5 Travel time savings – PM peak

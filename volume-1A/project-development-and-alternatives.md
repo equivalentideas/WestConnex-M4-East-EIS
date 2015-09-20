@@ -81,7 +81,7 @@ between Pitt Street at Parramatta and Homebush Bay Drive at Homebush. As discuss
 March 2015.
 
 <figure id="figure-4-1">
-  <img src="images/figure-4-1.png" alt="Diagram of project development process" />
+  <img src="images/figure-4-1.jpg" alt="Diagram of project development process" />
   <figcaption>
     Figure 4.1 Project development process
   </figcaption>
@@ -474,7 +474,7 @@ activity precincts are concentrated in a few key locations in the vicinity of th
 Sydney, and this land use pattern is also set to continue into the future.
 
 <figure id="figure-4-2">
-  <img src="images/figure-4-2.png" alt="Bar chart comparing types of truck and light commercial activity on NSW roads" />
+  <img src="images/figure-4-2.jpg" alt="Bar chart comparing types of truck and light commercial activity on NSW roads" />
   <figcaption>
     Figure 4.2 Comparison of truck and light commercial activity in NSW with trips on an average weekday (Transport for NSW 2013b)
   </figcaption>
@@ -655,7 +655,7 @@ Parramatta Road and be positioned to the south. This option would run between th
 existing M4 and Parramatta Road at Haberfield.
 
 <figure id="figure-4-3">
-  <img src="images/figure-4-3.png" alt="Map showing locations and distances of different M4 East options" />
+  <img src="images/figure-4-3.jpg" alt="Map showing locations and distances of different M4 East options" />
   <figcaption>
     Figure 4.3 2003 M4 East options
   </figcaption>
@@ -684,7 +684,7 @@ to optimise opportunities for urban renewal. Figure 4.4 provides a conceptual il
 proposed slot arrangement as shown in the State Infrastructure Strategy.
 
 <figure id="figure-4-4">
-  <img src="images/figure-4-4.png" alt="Illustration of a section of road and surrounding streetscape" />
+  <img src="images/figure-4-4.jpg" alt="Illustration of a section of road and surrounding streetscape" />
   <figcaption>
     Figure 4.4 Conceptual illustration of slot option.
   </figcaption>
@@ -991,7 +991,7 @@ design that was publicly displayed between 2013 and February 2014.
 The general location of these portal options is shown on Figure 4.5.
 
 <figure id="figure-4-5">
-  <img src="images/figure-4-5.png" alt="Aerial photo graph showing locations of different tunnel portal options" />
+  <img src="images/figure-4-5.jpg" alt="Aerial photo graph showing locations of different tunnel portal options" />
   <figcaption>
     Figure 4.5 Western tunnel portal options
   </figcaption>
@@ -1388,7 +1388,7 @@ publicly displayed between 2013 and February 2014.
 The general location of these interchange options is shown on Figure 4.6.
 
 <figure id="figure-4-6">
-  <img src="images/figure-4-6.png" alt="Aerial photo graph showing locations of different interchange options" />
+  <img src="images/figure-4-6.jpg" alt="Aerial photo graph showing locations of different interchange options" />
   <figcaption>
     Figure 4.6 Concord interchange options
   </figcaption>
@@ -1594,7 +1594,7 @@ included in the concept design that was publicly displayed between 2013 and Febr
 The general location of these interchange options is shown on shown on Figure 4.7.
 
 <figure id="figure-4-7">
-  <img src="images/figure-4-7.png" alt="Aerial photo graph showing locations of different interchange options" />
+  <img src="images/figure-4-7.jpg" alt="Aerial photo graph showing locations of different interchange options" />
   <figcaption>
     Figure 4.7 Wattle Street and Parramatta Road interchange options
   </figcaption>
@@ -1884,7 +1884,7 @@ supplied through the portals and be continuously exhausted through a duct along 
 tunnel. Alternatively fresh air can be supplied through a duct and exhausted through the portals.
 
 <figure id="figure-4-8">
-  <img src="images/figure-4-8.png" alt="Diagram showing how different ventilation system design options work" />
+  <img src="images/figure-4-8.jpg" alt="Diagram showing how different ventilation system design options work" />
   <figcaption>
     Figure 4.8 Ventilation system design options
   </figcaption>
