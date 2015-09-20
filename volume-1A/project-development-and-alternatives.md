@@ -1001,93 +1001,127 @@ The general location of these portal options is shown on Figure 4.5.
 
 The advantages and disadvantages of these options are outlined in Table 4.4.
 
-Table 4.4
+<table id="table-4-4">
+  <caption>Table 4.4 Advantages and disadvantages of western tunnel portal options</caption>
+  <thead>
+    <tr>
+      <th>Option</th>
+      <th>Advantages</th>
+      <th>Disadvantages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>H1</td>
+      <td>
+        <ul>
+          <li>
+            There would be cost savings as a result
+            of integrating the western tunnel portals
+            with the Concord interchange.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Grades into the tunnel would have been
+            greater than six per cent, which is
+            considered too steep, and would have
+            required substantial cut and cover tunnel
+            sections, with associated significant
+            impacts on residential properties on the
+            eastern side of Concord Road
+          </li>
+          <li>
+            Duplicating the existing M4 viaduct would
+            limit future development potential of land
+            at Railway Lane and George Street
+            (Bakehouse Quarter)
+          </li>
+          <li>
+            Construction staging in the vicinity of
+            Concord Road while maintaining existing
+            high traffic volumes would have been
+            complex and would have had significant
+            traffic impacts
+          </li>
+          <li>
+            Concord Road would likely need to be
+            widened, with associated impacts on
+            residential properties.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        H2
+      </td>
+      <td>
+        <ul>
+          <li>
+            Surrounding development comprises
+            Sydney Olympic Park and industrial
+            development, and construction and
+            operation impacts of the portals would
+            avoid residential areas.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            This option would not allow traffic from
+            the key centres of Sydney Olympic Park
+            and Rhodes to access the M4 East
+            tunnels
+          </li>
+          <li>
+            It would have lengthened the tunnel,
+            increasing cost.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        H3
+      </td>
+      <td>
+        <ul>
+          <li>
+            Grade and impacts on residential
+            properties east of Concord Road would
+            be minimised
+          </li>
+          <li>
+            Future development potential of land at
+            Railway Lane and George Street would
+            not be restricted
+          </li>
+          <li>
+            Traffic would be able to connect to the
+            key centres of Sydney Olympic Park and
+            Rhodes.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Assuming a Concord interchange is also
+            provided (see section 4.4.2), there would
+            be two interchanges within less than two
+            kilometres.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Advantages and disadvantages of western tunnel portal options
-
-Option
-
-Advantages
-
-Disadvantages
-
-H1
-
-x There would be cost savings as a result
-
-of integrating the western tunnel portals
-with the Concord interchange.
-
-x Grades into the tunnel would have been
-
-greater than six per cent, which is
-considered too steep, and would have
-required substantial cut and cover tunnel
-sections, with associated significant
-impacts on residential properties on the
-eastern side of Concord Road
-
-x Duplicating the existing M4 viaduct would
-
-limit future development potential of land
-at Railway Lane and George Street
-(Bakehouse Quarter)
-
-x Construction staging in the vicinity of
-
-Concord Road while maintaining existing
-high traffic volumes would have been
-complex and would have had significant
-traffic impacts
-
-x Concord Road would likely need to be
-
-widened, with associated impacts on
-residential properties.
-
-H2
-
-x Surrounding development comprises
-
-Sydney Olympic Park and industrial
-development, and construction and
-operation impacts of the portals would
-avoid residential areas.
-
-x This option would not allow traffic from
-
-the key centres of Sydney Olympic Park
-and Rhodes to access the M4 East
-tunnels
-
-x It would have lengthened the tunnel,
-
-increasing cost.
-
-H3
-
-x Grade and impacts on residential
-
-properties east of Concord Road would
-be minimised
-
-x Future development potential of land at
-
-Railway Lane and George Street would
-not be restricted
-
-x Traffic would be able to connect to the
-
-key centres of Sydney Olympic Park and
-Rhodes.
-
-x Assuming a Concord interchange is also
-
-provided (see section 4.4.2), there would
-be two interchanges within less than two
-kilometres.
-
-Preferred option
+##### Preferred option
 
 Option H3, locating the western portals east of Homebush Bay Drive, was selected as the preferred
 option, as it would:
@@ -1098,24 +1132,13 @@ option, as it would:
 
 * Connect to the key centres of Sydney Olympic Park and Rhodes.
 
-Location refinement
+##### Location refinement
 
 Once Option H3, between Homebush Bay Drive and Powells Creek, was selected as the preferred
 western portal option, a number of design refinements were considered for the location of the portals,
 including:
 
 * H3a – near Saleyards Creek
-
-background image
-
-
-
-WestConnex M4 East
-
-4-19
-
-WestConnex Delivery Authority
-Environmental Impact Statement
 
 * H3b – near Bill Boyce Reserve at Wentworth Avenue and Pomeroy Street
 
@@ -1138,7 +1161,7 @@ within the Bakehouse Quarter due to potential basements or building footings
 
 #### 4.4.2 M4 westbound access options
 
-Options considered
+##### Options considered
 
 The following options were considered for access to the M4 westbound:
 
