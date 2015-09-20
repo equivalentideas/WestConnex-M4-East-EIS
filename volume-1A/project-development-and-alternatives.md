@@ -10,37 +10,48 @@ Assessment Requirements (SEARs). Table 4.1 sets out the Secretary’s Environmen
 Requirements that relate to project development and alternatives, and identifies where these have
 been addressed in this environmental impact statement (EIS).
 
-Table 4.1
+<table id="table-4-1">
+  <caption>Secretary’s Environmental Assessment Requirements – project development and
+alternatives</caption>
+  <thead>
+    <tr>
+      <th>
+        Secretary’s Environmental Assessment Requirement
+      </th>
+      <th>
+        Where addressed in the EIS
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        [A]n analysis of feasible alternatives to the
+        carrying out of the project and project
+        justification, including:
 
-Secretary’s Environmental Assessment Requirements – project development and
-alternatives
+        <ul><li>an analysis of alternatives/options considered
+        having regard to the project objectives
+        (including an assessment of the environmental
+        costs and benefits of the project relative to
+        alternatives and the consequences of not
+        carrying out the project), and the provision of a
+        clear discussion of the route development and
+        selection process, the suitability of the chosen
+        alignment taking into account environmental
+        impacts, consideration of tunnel construction
+        methods and whether or not the project is in
+        the public interest</li></ul>
+      </td>
+      <td>
+        Chapter 4 (this chapter)<br><br>
 
-Secretary̓s Environmental Assessment
-Requirement
-
-Where addressed in the EIS
-
-[A]n analysis of feasible alternatives to the
-carrying out of the project and project justification,
-including:
-x an analysis of alternatives/options considered
-
-having regard to the project objectives
-(including an assessment of the environmental
-costs and benefits of the project relative to
-alternatives and the consequences of not
-carrying out the project), and the provision of a
-clear discussion of the route development and
-selection process, the suitability of the chosen
-alignment taking into account environmental
-impacts, consideration of tunnel construction
-methods and whether or not the project is in
-the public interest
-
-Chapter 4 (this chapter)
-
-Public interest is addressed in Chapter 30
-(Project justification and conclusion).
+        Public interest is addressed in Chapter 30
+        (Project justification and conclusion).
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 4.1 History of the M4 East and WestConnex
 
