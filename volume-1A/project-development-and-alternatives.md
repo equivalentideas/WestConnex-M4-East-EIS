@@ -737,89 +737,114 @@ design that was publicly displayed between 2013 and February 2014
 
 The advantages and disadvantages of these options are outlined in Table 4.2.
 
-Table 4.2
 
-Advantages and disadvantages of tunnel corridor options
-
-Option
-
-Advantages
-
-Disadvantages
-
-Following
-Parramatta Road
-
-x Construction impacts of tunnelling
-
-would occur beneath commercial
-and industrial properties
-
-x Ground conditions are expected to
-
-be suitable for tunnel ing.
-
-x Tunnels below Parramatta Road
-
-would restrict the depths to which
-buildings could be constructed, in
-particular basements or footings for
-taller buildings
-
-x This would restrict opportunities for
-
-urban revitalisation and improved
-liveability along and around
-Parramatta Road.
-
-North of
-Parramatta Road
-
-x Tunnels would be shorter, which
-
-would reduce construction cost
-
-x Tunnels would not cross beneath
-
-Parramatta Road, preserving the
-corridor for future urban renewal.
-
-x Ground conditions are expected to
-
-be unsuitable for tunnelling, because
-of:
- Less stable rock
- Higher groundwater inflows
-
- Landfil ing that has historically
-
-occurred in a number of areas
-including near Concord Oval.
-
-Generally south of
-Parramatta Road
-
-x Tunnels would be shorter, which
-
-would reduce construction cost
-
-x Tunnels would only cross beneath
-
-Parramatta Road for a short
-distance, preserving the majority of
-the corridor for future urban renewal
-
-x Ground conditions are expected to
-
-be favourable for tunnel ing, which
-would al ow for quicker construction
-and lower risks associated with
-tunnelling activities.
-
-x Construction impacts of tunnelling
-
-would occur beneath residential
-properties.
+<table id="table-4-2">
+  <caption>Table 4.2 Advantages and disadvantages of tunnel corridor options</caption>
+  <thead>
+    <tr>
+      <th>Option</th>
+      <th>Advantages</th>
+      <th>Disadvantages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Following Parramatta Road</td>
+      <td>
+        <ul>
+          <li>
+            Construction impacts of tunnelling would occur beneath commercial
+            and industrial properties
+          </li>
+          <li>Ground conditions are expected to be suitable for tunneling.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Tunnels below Parramatta Road
+            would restrict the depths to which
+            buildings could be constructed, in
+            particular basements or footings for
+            taller buildings
+          </li>
+          <li>
+            This would restrict opportunities for
+            urban revitalisation and improved
+            liveability along and around
+            Parramatta Road.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        North of Parramatta Road
+      </td>
+      <td>
+        <ul>
+          <li>
+            Tunnels would be shorter, which would reduce construction cost
+          </li>
+          <li>
+            Tunnels would not cross beneath
+            Parramatta Road, preserving the
+            corridor for future urban renewal.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Ground conditions are expected to
+            be unsuitable for tunnelling, because
+            of:
+          </li>
+          <ul>
+            <li>Less stable rock</li>
+            <li>Higher groundwater inflows</li>
+            <li>Landfil ing that has historically occurred in a number of areas including near Concord Oval.</li>
+          </ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Generally south of
+        Parramatta Road
+      </td>
+      <td>
+        <ul>
+          <li>
+            Tunnels would be shorter, which would reduce construction cost
+          </li>
+          <li>
+            Tunnels would only cross beneath
+            Parramatta Road for a short
+            distance, preserving the majority of
+            the corridor for future urban renewal
+          </li>
+          <li>
+            Ground conditions are expected to
+            be favourable for tunnel ing, which
+            would al ow for quicker construction
+            and lower risks associated with
+            tunnelling activities.
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Construction impacts of tunnelling
+            would occur beneath residential
+            properties.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Positioning the tunnels generally to the south of Parramatta Road was preferred as ground conditions
 are general y considered to be better, which would allow for quicker construction and lower risks
