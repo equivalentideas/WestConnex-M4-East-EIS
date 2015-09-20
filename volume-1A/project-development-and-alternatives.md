@@ -80,107 +80,12 @@ between Pitt Street at Parramatta and Homebush Bay Drive at Homebush. As discuss
 4.1.4, planning approval for the M4 Widening was granted in December 2014 and work began in
 March 2015.
 
-background image
-
-4-2
-
-Project development process
-
-Early schemes
-
-F4 Western Motorway (now M4 Motorway) between Concord and Blue Mountains
-opened in stages
-
-1971-1992
-
-M5 East opened
-
-2001
-
-3UHIHUUHGRSWLRQIRUH[WHQVLRQRIWKH0WR&LW\:HVW/LQNDW$VK¿HOGUHIHUUHGWR
-as M4 East) developed and placed on public display
-
-2003-2004
-
-Marrickville Tunnel scheme considered but never placed on public display
-
-2004
-
-
-
-M5 East duplication project placed on public display
-
-2009
-
-
-
-:HVW&RQQH[LGHQWL¿HGLQWKH6WDWH,QIUDVWUXFWXUH6WUDWHJ\
-
-M4 East comprised an extension to Taverners Hill at Petersham
-
-2012
-
-6HSWHPEHU:HVW&RQQH[%XVLQHVV&DVHGHYHORSHGLQODWH0(DVW
-FRPSULVHGDQH[WHQVLRQWR&LW\:HVW/LQN:DWWOH6WUHHWDW+DEHU¿HOG
-
-1RYHPEHU3UHOLPLQDU\FRQFHSWGHVLJQIRU0(DVWSODFHGRQSXEOLFGLVSOD\
-
-1RYHPEHU6WDWH6LJQL¿FDQW,QIUDVWUXFWXUHDSSOLFDWLRQIRU0(DVWORGJHGZLWKWKH
-WKHQ'HSDUWPHQWRI3ODQQLQJDQG,QIUDVWUXFWXUH
-
-2013
-
-)HEUXDU\3UHOLPLQDU\FRQFHSWGHVLJQIRU0(DVWSXEOLFGLVSOD\HQGV
-
-0D\&RPSHWLWLYHWHQGHUSURFHVVWRGHVLJQDQGFRQVWUXFWWKH0(DVW
-commenced
-
-0D\6WDWH6LJQL¿FDQW,QIUDVWXFWXUHDSSOLFDWLRQORGJHGIRU.LQJ*HRUJHV5RDG
-,QWHUFKDQJHXSJUDGHSURMHFW
-
--XQH&RPPHQFHPHQWRIIXUWKHUGHYHORSPHQWRI:HVW&RQQH[WRLQFOXGHQRUWKHUQ
-and southern extensions
-
-$XJXVW6KRUWOLVWRIWKUHHFRQVRUWLDIRUFRQVWUXFWLRQRIWKH0(DVWDQQRXQFHG
-
-1RYHPEHU6WDWH6LJQL¿FDQW,QIUDVWUXFWXUHDSSOLFDWLRQIRU1HZ0ORGJHG
-
-'HFHPEHU7HQGHUVUHFHLYHGIRUFRQVWUXFWLRQRIWKH0(DVW
-
-'HFHPEHU0:LGHQLQJSURMHFWSODQQLQJDSSURYDOJUDQWHG
-
-'HFHPEHU:HVWHUQ+DUERXU7XQQHOLGHQWL¿HGLQ5HEXLOGLQJ16:6WDWH
-,QIUDVWUXFWXUH6WUDWHJ\DVIXUWKHUH[WHQVLRQRI:HVW&RQQH[
-
-2014
-
-0DUFK0:LGHQLQJSURMHFWZRUNVFRPPHQFHG
-
-0DUFK.LQJ*HRUJHV5RDG,QWHUFKDQJHXSJUDGHSURMHFWSODQQLQJDSSURYDO
-granted
-
--XQH3UHIHUUHGWHQGHUHUIRUWKHGHVLJQDQGFRQVWUXFWLRQRIWKH0(DVW/HLJKWRQ
-6DPVXQJ& 7DQG-RKQ+ROODQG-RLQW9HQWXUHDQQRXQFHG
-Preferred design released
-
--XO\.LQJ*HRUJHV5RDG,QWHUFKDQJHXSJUDGHSURMHFWZRUNVFRPPHQFHG
-
-2015
-
-WestConnex
-
-Figure 4.1 Project development process
-
-background image
-
-
-
-WestConnex M4 East
-
-4-3
-
-WestConnex Delivery Authority
-Environmental Impact Statement
+<figure id="figure-4-1">
+  <img src="images/figure-4-1.png" alt="Diagram of project development process" />
+  <figcaption>
+    Figure 4.1 Project development process
+  </figcaption>
+</figure>
 
 #### 4.1.2 M5 East Motorway
 
