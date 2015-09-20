@@ -1704,8 +1704,8 @@ The following design options for the interchange were considered:
 * W2b – eastbound off-ramp and westbound on-ramp, as well as eastbound on-ramp to and
 westbound off-ramp from the M4–M5 Link, to be constructed as part of the project.
 
-Design refinement W2b was preferred, as it would involve all infrastructure associated with the
-:HVW&RQQH[ VFKHPH ERWK 0 (DVW DQG WKH 0í0 /LQN QHDU :DWWOH 6WUHHW DQG 5DPVD\ 6WUHHW
+Design refinement W2b was preferred, as it would involve  all infrastructure associated with the
+WestConnex scheme (both M4 East and the M4-M5 Link) near Wattle Street and Ramsay Street
 being constructed at the same time, reducing the impacts of construction in this area.
 
 #### 4.4.5 Parramatta Road interchange
