@@ -555,7 +555,7 @@ periods, its effectiveness would be limited by other constraints, such as availa
 modes at the user’s origin and destination, and flexibility of working arrangements to take advantage
 of ‘time of day’ tolling or transport pricing benefits.
 
-Summary
+#### Summary
 
 Demand management measures are seen as complementary initiatives rather than a viable stand-
 alone alternative to the project. To have a major impact on road traffic, demand management would
@@ -564,27 +564,16 @@ also require major changes in social attitudes, travel behaviour and government 
 #### 4.2.5 Alternative 5 – Extension of the M4 as part of the WestConnex scheme
 
 This alternative would involve extending the M4 to the east as part of the broader WestConnex
-scheme. As described in the WestConnex Strategic Environmental Review (Sydney Motorways
+scheme. As described in the *WestConnex Strategic Environmental Review* (Sydney Motorways
 Project Office 2013b), it would link the existing M4 at Homebush Bay Drive, Homebush to Parramatta
 Road and the City West Link at Haberfield. The extension would be a new motorway comprised of
 some surface road sections and two tunnels with three lanes in each direction. The extension would
 be a controlled access road with on and off ramps connecting to various locations on Parramatta
 Road subject to design.
 
-background image
-
-
-
-WestConnex M4 East
-
-4-11
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
 As indicated in Chapter 3 (Strategic context and project need), the WestConnex scheme has been
 developed as a key transport component of the Transport Master Plan integrated with the strategic
-land use outcomes as identified in A Plan for Growing Sydney. The Transport Master Plan identifies
+land use outcomes as identified in *A Plan for Growing Sydney*. The Transport Master Plan identifies
 the WestConnex scheme as a critical link in Sydney’s motorway network and an immediate priority for
 the NSW Government.
 
@@ -639,17 +628,6 @@ Alt Street at Haberfield; provision of interchanges at Concord Road at Concord, 
 West Link) at Haberfield, and Parramatta Road at Ashfield; installation of tunnel ventilation systems
 and other operational ancillary facilities; and associated upgrades and modifications to surface roads.
 
-background image
-
-
-
-WestConnex M4 East
-
-4-12
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
 ### 4.3 Motorway options
 
 #### 4.3.1 Earlier options development
@@ -657,7 +635,7 @@ Environmental Impact Statement
 As outlined in section 4.1, there has been ongoing development of the project since 2003. This
 section discusses the early options considered for the M4 East.
 
-2003 options
+##### 2003 options
 
 Three options were considered during the M4 East options study (RTA 2003):
 
