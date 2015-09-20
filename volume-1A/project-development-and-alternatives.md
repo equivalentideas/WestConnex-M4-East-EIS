@@ -125,14 +125,10 @@ challenges faced by Sydney and NSW.
 The State Infrastructure Strategy identified the component projects of WestConnex to be delivered in
 two stages:
 
-x
-
-Northern Sector, comprising widening of the existing M4 (now M4 Widening) and M4 Extension
+* Northern Sector, comprising widening of the existing M4 (now M4 Widening) and M4 Extension
 to Taverners Hill and St Peters (now M4 East and M4–M5 Link)
 
-x
-
-Southern Sector, comprising the M5 East Expansion (now New M5 and King Georges Road
+* Southern Sector, comprising the M5 East Expansion (now New M5 and King Georges Road
 Interchange Upgrade).
 
 The ‘M4 Extension’ component of WestConnex comprised a connection between the existing M4 at
@@ -150,17 +146,11 @@ In September 2013, the WestConnex Business Case Executive Summary was released (
 Motorways Project Office 2013a). The Business Case Executive Summary identified the component
 projects of WestConnex to be delivered in three stages:
 
-x
+* Stage 1: Parramatta to Haberfield (now M4 Widening and M4 East)
 
-Stage 1: Parramatta to Haberfield (now M4 Widening and M4 East)
+* Stage 2: Beverly Hills to St Peters (now King Georges Road Interchange Upgrade and New M5)
 
-x
-
-Stage 2: Beverly Hills to St Peters (now King Georges Road Interchange Upgrade and New M5)
-
-x
-
-Stage 3: Haberfield to St Peters (now M4–M5 Link).
+* Stage 3: Haberfield to St Peters (now M4–M5 Link).
 
 background image
 
@@ -210,24 +200,16 @@ Distributor and Anzac Bridge.
 
 The status of the other component projects of WestConnex is as follows:
 
-x
-
-A planning application was made for the New M5 in November 2014 and an EIS is currently
+* A planning application was made for the New M5 in November 2014 and an EIS is currently
 being prepared
 
-x
-
-Planning approval for the M4 Widening was granted on 21 December 2014 and work began in
+* Planning approval for the M4 Widening was granted on 21 December 2014 and work began in
 March 2015
 
-x
-
-Planning approval for the King Georges Road Interchange Upgrade was granted on 3 March
+* Planning approval for the King Georges Road Interchange Upgrade was granted on 3 March
 2015 and work began in July 2015
 
-x
-
-A separate planning application will be made for the M4–M5 Link following further concept
+* A separate planning application will be made for the M4–M5 Link following further concept
 development.
 
 ### 4.2 Strategic alternatives
@@ -241,13 +223,9 @@ economic factors.
 
 The following strategic alternatives to the project were considered:
 
-x
+* Alternative 1 – the base case or ‘do nothing/do minimum’ (‘do minimum’)
 
-Alternative 1 – the base case or ‘do nothing/do minimum’ (‘do minimum’)
-
-x
-
-Alternative 2 – improvements to the existing arterial road network
+* Alternative 2 – improvements to the existing arterial road network
 
 background image
 
@@ -260,17 +238,11 @@ WestConnex M4 East
 WestConnex Delivery Authority
 Environmental Impact Statement
 
-x
+* Alternative 3 – investment in public transport and freight rail improvements
 
-Alternative 3 – investment in public transport and freight rail improvements
+* Alternative 4 – demand management
 
-x
-
-Alternative 4 – demand management
-
-x
-
-Alternative 5 – extension of the M4 as part of WestConnex.
+* Alternative 5 – extension of the M4 as part of WestConnex.
 
 These alternatives are described below.
 
@@ -524,30 +496,18 @@ and destination within Greater Sydney.
 The Transport Master Plan identifies a number of current and future freight-related projects that
 complement the existing freight network. These include:
 
-x
+* Completion of the Southern Sydney Freight Line
 
-Completion of the Southern Sydney Freight Line
-
-x
-
-Development of an intermodal terminal at Enfield (commenced limited operation in March 2015
+* Development of an intermodal terminal at Enfield (commenced limited operation in March 2015
 with some construction work ongoing)
 
-x
+* Stage one of the Northern Sydney Freight Corridor Program (under construction)
 
-Stage one of the Northern Sydney Freight Corridor Program (under construction)
+* Development of an intermodal terminal at Moorebank (in planning approval phase)
 
-x
+* A Western Sydney Freight Line (corridor for future preservation under investigation)
 
-Development of an intermodal terminal at Moorebank (in planning approval phase)
-
-x
-
-A Western Sydney Freight Line (corridor for future preservation under investigation)
-
-x
-
-Western Sydney Intermodal Terminal (sites being considered as part of investigation for the
+* Western Sydney Intermodal Terminal (sites being considered as part of investigation for the
 Western Sydney Freight Line).
 
 There are opportunities to shift more freight onto rail, and this remains a priority for the NSW
@@ -608,15 +568,11 @@ moved around Sydney, by providing an alternative entry or exit point for freight
 movement of freight around Sydney is not considered to be significantly altered by the introduction of
 the new airport, for the following reasons:
 
-x
-
-The operation of the Western Sydney Airport would be staged, ramping up over time, with initial
+* The operation of the Western Sydney Airport would be staged, ramping up over time, with initial
 operations only commencing in the mid-2020s (a minimum of five years after the completion of
 the project)
 
-x
-
-Freight arriving at the new airport would still have destinations across wider Sydney
+* Freight arriving at the new airport would still have destinations across wider Sydney
 
 background image
 
@@ -629,9 +585,7 @@ WestConnex M4 East
 WestConnex Delivery Authority
 Environmental Impact Statement
 
-x
-
-Port Botany and Sydney Airport would still be key freight entry and exit points, with the new
+* Port Botany and Sydney Airport would still be key freight entry and exit points, with the new
 airport to complement the existing airport.
 
 In combination with the freight-related projects identified above, the project and the broader
@@ -652,23 +606,15 @@ Demand management can be defined as a policy, planning and operational approach 
 movement of goods or people. Demand management encompasses policies intended to reduce
 individual trips and make various mode options more viable. These policies include:
 
-x
+* Urban consolidation and 'centres’ policies (land use planning) to reduce the need for travel
 
-Urban consolidation and 'centres’ policies (land use planning) to reduce the need for travel
+* Other planning control policies such as restricting parking provisions in new developments
 
-x
-
-Other planning control policies such as restricting parking provisions in new developments
-
-x
-
-Road network management and network connectivity policies, including implementation of
+* Road network management and network connectivity policies, including implementation of
 intelligent transport systems to improve public transport operation, management of clearways
 and transit lanes, and providing greater priority for public transport over general traffic
 
-x
-
-Transport pricing to reduce travel demand; including demand based, tolling or transport pricing to
+* Transport pricing to reduce travel demand; including demand based, tolling or transport pricing to
 discourage discretionary travel by private vehicle for trips that can be served by public transport.
 
 The Transport Master Plan highlights that Western Sydney is currently home to 47 per cent of
@@ -738,47 +684,29 @@ concept developments and evaluations since 2003. Chapter 3 demonstrates the need
 and provides detail on its strategic context. The preferred option best achieves all of the project
 objectives as set out in section 3.3. It  would:
 
-x
-
-Support Sydney’s long-term economic growth through improved motorway access and
+* Support Sydney’s long-term economic growth through improved motorway access and
 connections linking Sydney’s international gateways (Sydney Airport and Port Botany), Western
 Sydney and places of business across the city
 
-x
-
-Relieve road congestion to improve the speed, reliability and safety of travel in the Parramatta
+* Relieve road congestion to improve the speed, reliability and safety of travel in the Parramatta
 Road corridor, including parallel arterial roads
 
-x
+* Cater for the diverse travel demands along this corridor that are best met by road infrastructure
 
-Cater for the diverse travel demands along this corridor that are best met by road infrastructure
-
-x
-
-Create opportunities for urban revitalisation, improved liveability, and public and active transport
+* Create opportunities for urban revitalisation, improved liveability, and public and active transport
 improvements along and around Parramatta Road
 
-x
-
-Enhance the productivity of commercial and freight generating land uses strategically located
+* Enhance the productivity of commercial and freight generating land uses strategically located
 near transport infrastructure
 
-x
+* Enhance the currently restricted movements across the Parramatta Road corridor.
 
-Enhance the currently restricted movements across the Parramatta Road corridor.
-
-x
-
-Fit within the financial capacity of the NSW and Australian Governments, in partnership with the
+* Fit within the financial capacity of the NSW and Australian Governments, in partnership with the
 private sector
 
-x
+* Optimise user pays contributions to support funding in a way that is affordable and equitable
 
-Optimise user pays contributions to support funding in a way that is affordable and equitable
-
-x
-
-Integrate with the preceding and next stages of WestConnex, without creating significant impacts
+* Integrate with the preceding and next stages of WestConnex, without creating significant impacts
 on the surrounding environment or duplicating any potential issues across the construction
 periods.
 
@@ -811,22 +739,16 @@ section discusses the early options considered for the M4 East.
 
 Three options were considered during the M4 East options study (RTA 2003):
 
-x
-
-Short tunnel option – construction of twin 3.6 kilometre tunnels running roughly below the
+* Short tunnel option – construction of twin 3.6 kilometre tunnels running roughly below the
 alignment of Parramatta Road from the existing end of the M4 to City West Link (at Dobroyd
 Parade) and Parramatta Road at Haberfield
 
-x
-
-Long tunnel option – construction of twin 6.5 kilometre tunnels running roughly below Parramatta
+* Long tunnel option – construction of twin 6.5 kilometre tunnels running roughly below Parramatta
 Road until just west of Great North Road, then connecting with the City West Link at Lilyfield. A
 spur tunnel would be constructed where the main tunnels end north of Parramatta Road. This
 spur would include twin 1.3 kilometre tunnels for a connection to Parramatta Road at Haberfield
 
-x
-
-Slot option – a number of surface options were considered; however, the ‘slot’ option was
+* Slot option – a number of surface options were considered; however, the ‘slot’ option was
 considered to be most viable. This option would involve lowering of the motorway into a ‘slot’,
 similar to the Eastern Distributor at Moore Park. The alignment would generally run paral el to
 Parramatta Road and be positioned to the south. This option would run between the end of the
@@ -908,18 +830,12 @@ evaluation as part of the development of the 2013 business case.
 
 Following the industry partner development process, the slot option was not preferred due to:
 
-x
+* The extent of property acquisition required
 
-The extent of property acquisition required
-
-x
-
-Complex traffic management and substantial traffic impacts on Parramatta Road during
+* Complex traffic management and substantial traffic impacts on Parramatta Road during
 construction
 
-x
-
-Difficulties in managing surface water around and over the open slot.
+* Difficulties in managing surface water around and over the open slot.
 
 2013 WestConnex Business Case
 
@@ -944,18 +860,12 @@ Environmental Impact Statement
 
 Three tunnel corridor options were considered and assessed against the project objectives:
 
-x
-
-Generally following the alignment of Parramatta Road. This option was included in the concept
+* Generally following the alignment of Parramatta Road. This option was included in the concept
 design that was publicly displayed between 2013 and February 2014
 
-x
+* North of Parramatta Road for the full length of the project
 
-North of Parramatta Road for the full length of the project
-
-x
-
-Generally south of Parramatta Road, except for a section at the western end.
+* Generally south of Parramatta Road, except for a section at the western end.
 
 The advantages and disadvantages of these options are outlined in Table 4.2.
 
@@ -1057,9 +967,7 @@ along the majority of Parramatta Road to occur without the restriction of a tunn
 Three options were considered for the number of lanes within the tunnels, and assessed against the
 project objectives:
 
-x
-
-Two lanes
+* Two lanes
 
 background image
 
@@ -1072,14 +980,10 @@ WestConnex M4 East
 WestConnex Delivery Authority
 Environmental Impact Statement
 
-x
-
-Three lanes. This option was included in the concept design that was publicly displayed between
+* Three lanes. This option was included in the concept design that was publicly displayed between
 2013 and February 2014
 
-x
-
-Four lanes.
+* Four lanes.
 
 The advantages and disadvantages of these options are outlined in Table 4.3.
 
@@ -1160,20 +1064,14 @@ Options considered
 
 The following options were considered for the western tunnel portals:
 
-x
-
-Option H1 – Concord Road interchange: This would have involved duplicating the existing M4
+* Option H1 – Concord Road interchange: This would have involved duplicating the existing M4
 viaduct between Underwood Road at Homebush and Queen Street at North Strathfield. The
 western tunnel portals would form part of the Concord Road interchange
 
-x
-
-Option H2 – west of Homebush Bay Drive: This option would involve locating the western tunnel
+* Option H2 – west of Homebush Bay Drive: This option would involve locating the western tunnel
 portals on the western side of Homebush Bay Drive
 
-x
-
-Option H3 – east of Homebush Bay Drive: This option would involve locating the western tunnel
+* Option H3 – east of Homebush Bay Drive: This option would involve locating the western tunnel
 portals between Homebush Bay Drive and Powells Creek, but as a separate interchange to the
 Concord Road interchange. This option would al ow all movements to and from both the existing
 M4 and Homebush Bay Drive into the mainline tunnels. This option was included in the concept
@@ -1348,17 +1246,11 @@ Preferred option
 Option H3, locating the western portals east of Homebush Bay Drive, was selected as the preferred
 option, as it would:
 
-x
+* Minimise grade and impacts on residential properties east of Concord Road
 
-Minimise grade and impacts on residential properties east of Concord Road
+* Not limit future development potential of land at Railway Lane and George Street
 
-x
-
-Not limit future development potential of land at Railway Lane and George Street
-
-x
-
-Connect to the key centres of Sydney Olympic Park and Rhodes.
+* Connect to the key centres of Sydney Olympic Park and Rhodes.
 
 Location refinement
 
@@ -1366,9 +1258,7 @@ Once Option H3, between Homebush Bay Drive and Powells Creek, was selected as th
 western portal option, a number of design refinements were considered for the location of the portals,
 including:
 
-x
-
-H3a – near Saleyards Creek
+* H3a – near Saleyards Creek
 
 background image
 
@@ -1381,38 +1271,24 @@ WestConnex M4 East
 WestConnex Delivery Authority
 Environmental Impact Statement
 
-x
+* H3b – near Bill Boyce Reserve at Wentworth Avenue and Pomeroy Street
 
-H3b – near Bill Boyce Reserve at Wentworth Avenue and Pomeroy Street
-
-x
-
-H3c – near Underwood Road.
+* H3c – near Underwood Road.
 
 The general location of these is shown on Figure 4.5. The selected design refinement was H3b,
 which is a location to the east of Saleyards Creek, about near the footbridge over the existing M4.
 This location was selected because it would:
 
-x
+* Avoid areas of flood inundation near Saleyards Creek
 
-Avoid areas of flood inundation near Saleyards Creek
+* Maintain the existing pedestrian bridge across the M4
 
-x
+* Not affect Wentworth Road South or Pomeroy Street on the northern side of the existing M4
 
-Maintain the existing pedestrian bridge across the M4
-
-x
-
-Not affect Wentworth Road South or Pomeroy Street on the northern side of the existing M4
-
-x
-
-Allow the tunnel to be far enough below ground so as to not prevent high density development
+* Allow the tunnel to be far enough below ground so as to not prevent high density development
 within the Bakehouse Quarter due to potential basements or building footings
 
-x
-
-Utilise land within the existing M4 road reserve.
+* Utilise land within the existing M4 road reserve.
 
 #### 4.4.2 M4 westbound access options
 
@@ -1420,30 +1296,22 @@ Options considered
 
 The following options were considered for access to the M4 westbound:
 
-x
-
-Option OR1 – retain the existing arrangement: This option would involve retaining the westbound
+* Option OR1 – retain the existing arrangement: This option would involve retaining the westbound
 on-ramp to the M4 from Concord Road northbound, retaining the left turn from Parramatta Road
 eastbound to the M4 westbound, and not providing a new on-ramp
 
-x
-
-Option OR2 – remove the westbound on-ramp to the M4 from Concord Road northbound and
+* Option OR2 – remove the westbound on-ramp to the M4 from Concord Road northbound and
 the left turn from Parramatta Road eastbound to the M4 westbound, and not provide a new on-
 ramp: Traffic would be required to access the M4 westbound by either approaching the
 Parramatta Road and M4 intersection from the east, or using the Homebush Bay Drive
 interchange
 
-x
-
-Option OR3 – at the intersection of Parramatta Road and Station Street: This option would
+* Option OR3 – at the intersection of Parramatta Road and Station Street: This option would
 involve removing the westbound on-ramp to the M4 from Concord Road northbound and the left
 turn from Parramatta Road eastbound to the M4 westbound, and providing a new westbound on-
 ramp at the intersection of Parramatta Road and Station Street at Homebush
 
-x
-
-Option OR4 – immediately to the west of Powells Creek: This option would involve removing the
+* Option OR4 – immediately to the west of Powells Creek: This option would involve removing the
 westbound on-ramp to the M4 from Concord Road northbound and the left turn from Parramatta
 Road eastbound to the M4 westbound, and providing a new westbound on-ramp to the west of
 Powells Creek.
@@ -1581,19 +1449,13 @@ Preferred option
 Option OR4, involving an on-ramp adjacent to Powells Creek, was considered the preferred option as
 it would:
 
-x
-
-Provide relief to the intersection of Parramatta Road, Concord Road and Leicester Avenue at
+* Provide relief to the intersection of Parramatta Road, Concord Road and Leicester Avenue at
 North Strathfield
 
-x
-
-Provide an alternate access to the M4 westbound within close proximity to the existing accesses,
+* Provide an alternate access to the M4 westbound within close proximity to the existing accesses,
 so as to not significantly increase travel time and affect network performance in other locations
 
-x
-
-Not involve acquisition of privately-owned land.
+* Not involve acquisition of privately-owned land.
 
 Location refinement
 
@@ -1606,14 +1468,10 @@ Options considered
 
 The following options were considered for an interchange at or near Concord:
 
-x
-
-Option C1 – no interchange: This option would involve having no interchange between the
+* Option C1 – no interchange: This option would involve having no interchange between the
 western portals and Wattle Street/Parramatta Road
 
-x
-
-Option C2 – interchange on Parramatta Road near Wentworth Road: This option would involve
+* Option C2 – interchange on Parramatta Road near Wentworth Road: This option would involve
 providing an interchange on Parramatta Road near Wentworth Road at Strathfield and
 Shaftesbury Road at Burwood. This option would have provided an eastbound on-ramp and a
 westbound off-ramp
@@ -1629,15 +1487,11 @@ WestConnex M4 East
 WestConnex Delivery Authority
 Environmental Impact Statement
 
-x
-
-Option C3 – interchange on Parramatta Road near Shaftesbury Road: This option would involve
+* Option C3 – interchange on Parramatta Road near Shaftesbury Road: This option would involve
 providing an interchange on Parramatta Road near Shaftesbury Road at Burwood. This option
 would have provided an eastbound on-ramp and a westbound off-ramp
 
-x
-
-Option C4 – Concord Road: This option would involve providing an interchange at Concord
+* Option C4 – Concord Road: This option would involve providing an interchange at Concord
 Road, with an eastbound on-ramp and a westbound off-ramp. Movements to and from the
 existing M4 would be maintained. This option was included in the concept design that was
 publicly displayed between 2013 and February 2014.
@@ -1726,17 +1580,11 @@ Preferred option
 Option C4, involving an interchange at Concord Road, was considered the preferred option as it
 would:
 
-x
+* Provide access to the key centres of Strathfield and Rhodes
 
-Provide access to the key centres of Strathfield and Rhodes
+* Not involve substantial impacts to commercial and industrial properties on Parramatta Road
 
-x
-
-Not involve substantial impacts to commercial and industrial properties on Parramatta Road
-
-x
-
-Not involve unsafe weave movements within the tunnel.
+* Not involve unsafe weave movements within the tunnel.
 
 Location refinement
 
@@ -1803,9 +1651,7 @@ Environmental Impact Statement
 
 Two main designs for the interchange and locations of the on- and off-ramp portals were considered:
 
-x
-
-C4a – mostly on the western side of Concord Road, including:
+* C4a – mostly on the western side of Concord Road, including:
 
 
 
@@ -1825,9 +1671,7 @@ Widening of Concord Road at the on- and off-ramps
 
 Realignment of the existing M4 between Sydney Street and Parramatta Road
 
-x
-
-C4b – mostly on the eastern side of Concord Road, including:
+* C4b – mostly on the eastern side of Concord Road, including:
 
 
 
@@ -1875,15 +1719,11 @@ Options considered
 
 The following options were considered for an interchange at or near Wattle Street (City West Link):
 
-x
-
-Option W1 – no interchange: This would involve not providing an interchange to Wattle Street
+* Option W1 – no interchange: This would involve not providing an interchange to Wattle Street
 (City West Link), and would mean there would only be an interchange to Parramatta Road at the
 eastern end of the project
 
-x
-
-Option W2 – interchange at Wattle Street (City West Link): This option would involve providing
+* Option W2 – interchange at Wattle Street (City West Link): This option would involve providing
 on- and off-ramps from the mainline tunnels to Wattle Street (City West Link). This option was
 included in the concept design that was publicly displayed between 2013 and February 2014.
 
@@ -1958,13 +1798,9 @@ portals for all design refinements was near Ramsay Street.
 
 The following design options for the interchange were considered:
 
-x
+* W2a – eastbound off-ramp and westbound on-ramp only, to be constructed as part of the project
 
-W2a – eastbound off-ramp and westbound on-ramp only, to be constructed as part of the project
-
-x
-
-W2b – eastbound off-ramp and westbound on-ramp, as well as eastbound on-ramp to and
+* W2b – eastbound off-ramp and westbound on-ramp, as well as eastbound on-ramp to and
 westbound off-ramp from the M4–M5 Link, to be constructed as part of the project.
 
 Design refinement W2b was preferred, as it would involve all infrastructure associated with the
@@ -1977,39 +1813,29 @@ Options considered
 
 The following options were considered for an interchange at Parramatta Road:
 
-x
-
-Option P1 – interchange with M4 East near Ashfield Park: This option would provide an
+* Option P1 – interchange with M4 East near Ashfield Park: This option would provide an
 eastbound off-ramp and westbound on-ramp near Ashfield Park
 
-x
-
-Option P2 – interchange with M4 East and M4–M5 Link near Ashfield Park (the same location as
+* Option P2 – interchange with M4 East and M4–M5 Link near Ashfield Park (the same location as
 Option P1): This option would provide an eastbound off-ramp and westbound on-ramp, as well
 as an eastbound on-ramp to and westbound off-ramp from the M4–M5 Link near Ashfield Park,
 to be constructed as part of the project. This option was included in the concept design that was
 publicly displayed between 2013 and February 2014
 
-x
-
-Option P3 – interchange with M4 East and M4–M5 Link at Taverners Hill: This option would
+* Option P3 – interchange with M4 East and M4–M5 Link at Taverners Hill: This option would
 provide an eastbound off-ramp from and westbound on-ramp to the M4 East near Sloane Street
 at Haberfield/Summer Hill, as well as an eastbound on-ramp to and westbound off-ramp from the
 M4–M5 Link near Flood Street at Leichhardt, to be constructed as part of the project. This option
 would include either a tunnel to Flood Street or a substantial viaduct from Haberfield Road to
 Flood Street, over Hawthorne Canal, connecting the project to the M4–M5 Link
 
-x
-
-Option P4 – interchange with M4 East and M4–M5 Link west of Wattle Street: This option would
+* Option P4 – interchange with M4 East and M4–M5 Link west of Wattle Street: This option would
 provide an eastbound off-ramp and westbound on-ramp, as well as an eastbound on-ramp to
 and westbound off-ramp from the M4–M5 Link on the western side of Wattle Street, to be
 constructed as part of the project. This option was considered in conjunction with Option W1,
 which did not include an interchange at Wattle Street (City West Link)
 
-x
-
-Option P5 – interchange with M4 East near Bland Street: This option would provide an
+* Option P5 – interchange with M4 East near Bland Street: This option would provide an
 eastbound off-ramp and westbound on-ramp near Bland Street. On- and off-ramps to and from
 the M4–M5 Link would not be provided under this option.
 
@@ -2320,9 +2146,7 @@ Parramatta Road: Draft Parramatta Road Urban Renewal Strategy (UrbanGrowth NSW 2
 
 Potential alternative locations for the western ventilation facility were considered as follows:
 
-x
-
-Above the westbound tunnel further to the west – while this would be closer to the tunnel exit
+* Above the westbound tunnel further to the west – while this would be closer to the tunnel exit
 portal, it would conflict with the realigned surface M4 in this location. As described above, it is not
 possible to locate the exhaust point at the end of the tunnel exit portal
 
@@ -2337,15 +2161,11 @@ WestConnex M4 East
 WestConnex Delivery Authority
 Environmental Impact Statement
 
-x
-
-Above the westbound tunnel further to the east – this would increase the distance from the
+* Above the westbound tunnel further to the east – this would increase the distance from the
 tunnel exit portal, and would require additional reverse flow jet fans to draw the air back to the
 ventilation outlet
 
-x
-
-At one of the sites near Underwood Road proposed to be used as a construction ancillary facility
+* At one of the sites near Underwood Road proposed to be used as a construction ancillary facility
 (refer to Chapter 6 (Construction work)) – these sites would be closer to a greater number of
 residential dwel ings, and would increase the distance from the tunnel exit portal, requiring
 additional jet fans.
@@ -2365,17 +2185,11 @@ Number of ventilation outlets
 The design of the eastbound tunnel and ventilation facility has been determined by the requirement
 for:
 
-x
+* Eastbound exit portals to Wattle Street and Parramatta Road
 
-Eastbound exit portals to Wattle Street and Parramatta Road
+* A possible future connection to the M4–M5 Link
 
-x
-
-A possible future connection to the M4–M5 Link
-
-x
-
-A possible future westbound exit onto Wattle Street from the M4–M5 Link.
+* A possible future westbound exit onto Wattle Street from the M4–M5 Link.
 
 This results in the need for five ventilation exhaust points, one for each off-ramp and two at the M4–
 M5 Link interface (one for each direction). The number of outlets is determined by the road geometry
@@ -2425,41 +2239,31 @@ Environmental Impact Statement
 Other locations considered for the eastern ventilation facility, and the reasons they were discarded,
 were:
 
-x
-
-On the south-eastern side of the Parramatta Road and Frederick Street intersection (the
+* On the south-eastern side of the Parramatta Road and Frederick Street intersection (the
 Bunnings site) – this would have involved impacts on a locally listed heritage item. Consideration
 was given to incorporating the ventilation outlet within the clock tower at this building; however, it
 is not sufficiently high or wide to meet operational needs and achieve air quality goals. Bunnings
 is a major local employer and construction of the ventilation facility at this location would have
 required acquisition of the property and relocation or closure of the Bunnings store
 
-x
-
-On the south-western side of the Parramatta Road and Frederick Street intersection – this would
+* On the south-western side of the Parramatta Road and Frederick Street intersection – this would
 increase the distance from the tunnel exit portals, and would require additional reverse flow jet
 fans to draw the air back to the ventilation outlet. It would also involve the acquisition of
 residential properties in Earle Avenue at Ashfield that are located within The Ranch heritage
 conservation area
 
-x
-
-On land identified for use during construction of the project at Northcote Street, west of the
+* On land identified for use during construction of the project at Northcote Street, west of the
 Wattle Street intersection – this option would utilise land to be acquired for construction
 purposes. However this would mean that construction of the ventilation facility could not
 commence until tunnelling works are complete, extending the duration of construction and
 delaying project commissioning
 
-x
-
-On land identified for use during construction of the project along Parramatta Road, further to the
+* On land identified for use during construction of the project along Parramatta Road, further to the
 east – this would have been located a significant distance from the Wattle Street on- and off-
 ramps, resulting in the need to reverse air flow by jet fans through longer sections of tunnel, with
 increased energy use
 
-x
-
-On land identified for use during construction of the project along Wattle Street, further to the
+* On land identified for use during construction of the project along Wattle Street, further to the
 north-east – this would have been located a significant distance from the Parramatta Road off-
 ramp, resulting in the need to reverse air flow by jet fans through longer sections of tunnel with
 increased energy use.
@@ -2707,9 +2511,7 @@ excavated using drill and blast. Ramps would be excavated in two passes with a r
 The combination of using both road header and drill and blast techniques was selected for the
 following reasons:
 
-x
-
-The combination of methods speeds up excavation compared to work being undertaken solely
+* The combination of methods speeds up excavation compared to work being undertaken solely
 with the use of road headers
 
 background image
@@ -2723,18 +2525,12 @@ WestConnex M4 East
 WestConnex Delivery Authority
 Environmental Impact Statement
 
-x
+* It is more economic due to reduced time taken for excavation
 
-It is more economic due to reduced time taken for excavation
-
-x
-
-It reduces the noise and vibration impacts on residential and commercial properties to shorter
+* It reduces the noise and vibration impacts on residential and commercial properties to shorter
 periods due to the short impacts associated with blasting
 
-x
-
-Geological conditions along the alignment are suitable for both methods to be used.
+* Geological conditions along the alignment are suitable for both methods to be used.
 
 #### 4.6.2 Spoil disposal
 
@@ -2742,17 +2538,11 @@ Construction of the project would generate around 2.4 million bank cubic metres 
 described in Chapter 6 (Construction work), spoil reuse and disposal would be prioritised in
 accordance with the following hierarchy:
 
-x
+* Within the project for earthworks fill
 
-Within the project for earthworks fill
+* Environmental works/community works
 
-x
-
-Environmental works/community works
-
-x
-
-Development works/land restoration.
+* Development works/land restoration.
 
 As the project comprises predominantly a road tunnel, there are limited opportunities for use of spoil
 within the project for earthworks fill. On this basis, Chapter 6 identifies the currently proposed
