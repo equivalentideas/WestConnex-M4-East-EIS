@@ -152,17 +152,6 @@ projects of WestConnex to be delivered in three stages:
 
 * Stage 3: Haberfield to St Peters (now M4–M5 Link).
 
-background image
-
-
-
-WestConnex M4 East
-
-4-4
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
 The M4 East component of WestConnex was proposed to continue the M4 from Homebush Bay Drive
 to Parramatta Road and City West Link at Haberfield, by providing a tunnel with three lanes in each
 direction, general y following the alignment of Parramatta Road. The preliminary concept design for
@@ -227,17 +216,6 @@ The following strategic alternatives to the project were considered:
 
 * Alternative 2 – improvements to the existing arterial road network
 
-background image
-
-
-
-WestConnex M4 East
-
-4-5
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
 * Alternative 3 – investment in public transport and freight rail improvements
 
 * Alternative 4 – demand management
@@ -284,12 +262,12 @@ increase by about 17 minutes in the westbound direction and by less than two min
 eastbound direction. In the afternoon peak, travel times in both directions would increase by between
 five and eight minutes.
 
-Summary
+##### Summary
 
 In the context of the transport challenges identified in Chapter 3 (Strategic context and project need),
 a ‘do minimum’ option is considered unrealistic and would not address a number of Australian and
-NSW government commitments, including key goals in NSW 2021: A Plan to Make NSW Number
-One (NSW Department of Premier and Cabinet 2011) (see section 3.1). It would also not meet the
+NSW government commitments, including key goals in *NSW 2021: A Plan to Make NSW Number
+One* (NSW Department of Premier and Cabinet 2011) (see section 3.1). It would also not meet the
 project objectives as outlined in section 3.3.
 
 #### 4.2.2 Alternative 2 – Improvements to the existing arterial road network
@@ -302,18 +280,7 @@ function of the arterial road network as providing high order access routes to t
 network, as distinct from the long distance through route function performed by Sydney’s motorway
 network.
 
-background image
-
-
-
-WestConnex M4 East
-
-4-6
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
-Improvements to Parramatta Road
+##### Improvements to Parramatta Road
 
 Consideration was given to upgrading Parramatta Road to improve traffic flow and reduce congestion.
 These works would likely include multiple improvements to roads and intersections along the
@@ -332,7 +299,7 @@ rapid transit or light rail service. These demands could only be accommodated by
 lanes along the length of Parramatta Road. Construction of additional lanes would likely require
 considerable private property acquisition along the length of Parramatta Road.
 
-Improvements to Patterson Street, Gipps Street, Queens Road and Ramsay Road
+##### Improvements to Patterson Street, Gipps Street, Queens Road and Ramsay Road
 
 Patterson Street, Gipps Street, Queens Road and Ramsay Road provide an alternative road corridor
 between the end of the M4 at Concord and Wattle Street (City West Link) at Haberfield. Existing
@@ -351,7 +318,7 @@ across the Parramatta Road corridor, as the dominant traffic flow would be east�
 This would not meet the project objective to enhance northísouth movements across the Parramatta
 Road corridor.
 
-Improvements to Victoria Road
+##### Improvements to Victoria Road
 
 Victoria Road provides an alternative transport corridor from Parramatta to the Sydney CBD north of
 the Parramatta River. The character of this route differs from the M4 and Parramatta Road corridor
@@ -371,23 +338,11 @@ the future traffic demands expected in these corridors. Construction would also 
 of bus lanes and/or considerable private property acquisition along the length of Victoria Road to
 accommodate additional general traffic lanes.
 
-Summary
+##### Summary
 
 The arterial road improvement alternatives described in the preceding sections are considered
 inadequate responses to the significant transport challenges on the Parramatta Road corridor.
 Localised road corridor improvements would only provide an incremental change to the network,
-
-background image
-
-
-
-WestConnex M4 East
-
-4-7
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
 rather than supporting the additional capacity required for improved bus services and regional traffic
 growth.
 
@@ -397,27 +352,25 @@ major arterial road improvements that will have significant construction impacts
 construction of new infrastructure. Arterial road improvement options would therefore not meet the
 project objectives as outlined in section 3.3 of Chapter 3 (Strategic context and project need).
 
-#### 4.2.3 Alternative 3 – Investment in public transport and rail freight
+#### 4.2.3 Alternative 3 – Investment in public transport and rail freight improvements
 
-improvements
-
-As discussed in Chapter 3, WestConnex is a key component of the NSW Long Term Transport
-Master Plan (Transport for NSW 2012a) (Transport Master Plan), the State Infrastructure Strategy
-2012–2032 (Infrastructure NSW 2012a) (State Infrastructure Strategy) and A Plan for Growing
-Sydney (NSW Government 2014a). As part of a broader integrated transport solution, the project
+As discussed in Chapter 3, WestConnex is a key component of the *NSW Long Term Transport
+Master Plan* (Transport for NSW 2012a) (Transport Master Plan), the *State Infrastructure Strategy
+2012–2032* (Infrastructure NSW 2012a) (State Infrastructure Strategy) and *A Plan for Growing
+Sydney* (NSW Government 2014a). As part of a broader integrated transport solution, the project
 supports a coordinated approach to the management of freight and passenger movements, as well as
 all modes of transport including road, rail, bus, ferries, light rail, cycling and walking. There is,
 however, recognition that Sydney’s freight, commercial and services tasks require distribution of
 goods and services across the Sydney basin, which relies on more diverse and dispersed point-to-
 point transport connections that can only be provided by the road network.
 
-Public transport
+##### Public transport
 
 The Parramatta Road corridor runs paral el to the Main Western Rail Line. Trains provide the trunk
 public transport service in this corridor, connecting Western Sydney and centres in the corridor to the
-Sydney CBD. Sydney’s Rail Future (Transport for NSW 2012b) identified the need for service
+Sydney CBD. *Sydney’s Rail Future* (Transport for NSW 2012b) identified the need for service
 improvements on the Main Western Rail Line, which are being considered separately by the NSW
-Government. Sydney’s Rail Future also outlines the establishment of Sydney Rapid Transit (now
+Government. *Sydney’s Rail Future* also outlines the establishment of Sydney Rapid Transit (now
 Sydney Metro) which, while not directly servicing the Parramatta Road corridor, would assist in
 removing some key bottlenecks on the Sydney Trains network. This would then improve train
 movements along the Main Western Rail Line.
@@ -448,21 +401,10 @@ volumes along Parramatta Road. As described in Chapter 3 (Strategic context and 
 would allow for the establishment of a mass transit corridor along Parramatta Road, and the project
 has been designed to allow for the provision of this mass transit corridor (refer to section 5.5.5
 (Project Description)). Such a corridor would provide suitable facilities for the transport of a high
-number of people along Parramatta Road by bus. In the long term and as outlined in Sydney’s Bus
-Future (Transport for NSW 2013a), if demand permits, this corridor could be upgraded to light rail.
+number of people along Parramatta Road by bus. In the long term and as outlined in *Sydney’s Bus
+Future* (Transport for NSW 2013a), if demand permits, this corridor could be upgraded to light rail.
 
-background image
-
-
-
-WestConnex M4 East
-
-4-8
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
-Combined transport options
+##### Combined transport options
 
 A ‘park and ride’ scenario, supplemented with a light rail line along Parramatta Road or express heavy
 rail services to Central Station, has been identified by a public transport advocacy group known as
@@ -485,11 +427,11 @@ public transport options are seen as complementary services supporting, but not 
 address, the transport demands that would be addressed by the project and the broader WestConnex
 scheme.
 
-Rail freight
+##### Rail freight
 
 Apart from moving passengers, Sydney's rail network plays a significant role in moving freight
-between Sydney's ports and destinations around Sydney, regional NSW and other states. The Trade
-and Logistics Report 2011-12 (Sydney Ports Corporation 2012) indicates that some 98 per cent of
+between Sydney's ports and destinations around Sydney, regional NSW and other states. The *Trade
+and Logistics Report 2011-12* (Sydney Ports Corporation 2012) indicates that some 98 per cent of
 imported containers and over 60 per cent of exported containers through Port Botany have their origin
 and destination within Greater Sydney.
 
@@ -525,29 +467,20 @@ commercial vehicles require a primary network with high quality connections betw
 hubs, whereas light commercial vehicles depend on a multi-layered network with many connections to
 service more diverse and dispersed markets across Sydney.
 
-background image
-
-
-
-WestConnex M4 East
-
-4-9
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
 This arrangement means that there are around four times as many light commercial vehicle trips on
 Sydney’s road network as heavy commercial vehicle trips (Transport for NSW 2013b) (refer to
 Figure 4.2), and this trend is forecast to continue. A key reason for this trend is that heavy freight
 activity precincts are concentrated in a few key locations in the vicinity of the port and across Western
 Sydney, and this land use pattern is also set to continue into the future.
 
-Figure 4.2
+<figure id="figure-4-2">
+  <img src="images/figure-4-2.png" alt="Bar chart comparing types of truck and light commercial activity on NSW roads" />
+  <figcaption>
+    Figure 4.2 Comparison of truck and light commercial activity in NSW with trips on an average weekday (Transport for NSW 2013b)
+  </figcaption>
+</figure>
 
-Comparison of truck and light commercial activity in NSW with trips on an average
-weekday (Transport for NSW 2013b)
-
-The Sydney Airport Master Plan 2033 (Sydney Airport Corporation Limited 2014) notes that Sydney
+The *Sydney Airport Master Plan 2033* (Sydney Airport Corporation Limited 2014) notes that Sydney
 Airport handles about half of Australia’s international air freight. The total amount of freight handled at
 Sydney Airport is 76 per cent more than any other Australian airport. The volume of freight handled by
 Sydney Airport is projected to increase from 615,378 tonnes in 2012 to 1,011,312 tonnes in 2033
@@ -574,17 +507,6 @@ the project)
 
 * Freight arriving at the new airport would still have destinations across wider Sydney
 
-background image
-
-
-
-WestConnex M4 East
-
-4-10
-
-WestConnex Delivery Authority
-Environmental Impact Statement
-
 * Port Botany and Sydney Airport would still be key freight entry and exit points, with the new
 airport to complement the existing airport.
 
@@ -592,7 +514,7 @@ In combination with the freight-related projects identified above, the project a
 WestConnex scheme would provide a robust freight solution and would best address the project
 objectives.
 
-Summary
+##### Summary
 
 There are no feasible strategic public transport or rail freight alternatives that would fully meet the
 diverse range of needs for travel in the Parramatta Road corridor, and address the project objectives
