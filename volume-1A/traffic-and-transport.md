@@ -153,7 +153,7 @@ Parramatta Road has a posted speed limit of 60 kilometres per hour in both direc
 In the vicinity of the project, Parramatta Road is of local and regional importance. It provides the main route for road vehicles travelling to, from, or through the corridor. The main Parramatta Road transport corridor accommodates a mix of travel demand characteristics that range from short local trips to longer through vehicle movements. The diverse types of business along the Parramatta Road transport corridor service both the local and wider community, meaning that a number of medium distance, one way trips are generated along the corridor.
 
 <figure id="figure-8-1">
-  <img src="images/figure-8-1.jpg" alt="Map of Traffic study area" />
+  <img src="https://github.com/equivalentideas/WestConnex-M4-East-EIS/raw/master/volume-1A/images/figure-8-1.jpgimages/figure-8-1.jpg" alt="Map of Traffic study area" />
   <figcaption>
     Figure 8.1 Existing road network within the study area
   </figcaption>
@@ -382,7 +382,7 @@ The following volumes are shown in Table 8.2 for the seven survey sites:
 </table>
 
 <figure id="figure-8-2">
-  <img src="images/figure-8-2.jpg" alt="Map showing traffic survey locations" />
+  <img src="https://github.com/equivalentideas/WestConnex-M4-East-EIS/raw/master/volume-1A/images/figure-8-2.jpg" alt="Map showing traffic survey locations" />
   <figcaption>
     Figure 8.2 Traffic survey locations
   </figcaption>
@@ -803,7 +803,7 @@ Table 8.3 provides a summary of the level of service (average intersection delay
 </table>
 
 <figure id="figure-8-3">
-  <img src="images/figure-8-3.jpg" alt="Map showing locations of traffic modelling clusters" />
+  <img src="https://github.com/equivalentideas/WestConnex-M4-East-EIS/raw/master/volume-1A/images/figure-8-3.jpg" alt="Map showing locations of traffic modelling clusters" />
   <figcaption>
     Figure 8.3 Traffic modelling clusters
   </figcaption>
@@ -2946,7 +2946,7 @@ In summary, the results of the intersection analysis show significant reductions
 Indicative AM peak travel time savings on strategic routes (taken from the WRTM) are illustrated in Figure 8.4. The travel time savings discussed below do not include any savings resulting from the M4 Widening project. The analysis suggests that travel time savings of between six and eight minutes are provided by the project in 2021 on most strategic routes assessed. Travel time savings in 2031 take account of the M4–M5 Link and result in more substantial time savings of 10 to 18 minutes.
 
 <figure id="figure-8-4">
-  <img src="images/figure-8-4.jpg" alt="Chart showing claimed AM travel times
+  <img src="https://github.com/equivalentideas/WestConnex-M4-East-EIS/raw/master/volume-1A/images/figure-8-4.jpg" alt="Chart showing claimed AM travel times
 savings gained by building to M4 East and M4-M5 Link" />
   <figcaption>
     Figure 8.4 Travel time savings – AM peak
@@ -2956,7 +2956,7 @@ savings gained by building to M4 East and M4-M5 Link" />
 PM peak travel time savings are illustrated in Figure 8.5 and demonstrate similar time savings in 2021, with an increase in 2031 to savings of 13 to 20 minutes.
 
 <figure id="figure-8-5">
-  <img src="images/figure-8-5.jpg" alt="Chart showing claimed PM travel times
+  <img src="https://github.com/equivalentideas/WestConnex-M4-East-EIS/raw/master/volume-1A/images/figure-8-5.jpg" alt="Chart showing claimed PM travel times
 savings gained by building to M4 East and M4-M5 Link" />
   <figcaption>
     Figure 8.5 Travel time savings – PM peak
