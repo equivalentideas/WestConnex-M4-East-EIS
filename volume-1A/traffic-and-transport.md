@@ -153,7 +153,7 @@ Parramatta Road has a posted speed limit of 60 kilometres per hour in both direc
 In the vicinity of the project, Parramatta Road is of local and regional importance. It provides the main route for road vehicles travelling to, from, or through the corridor. The main Parramatta Road transport corridor accommodates a mix of travel demand characteristics that range from short local trips to longer through vehicle movements. The diverse types of business along the Parramatta Road transport corridor service both the local and wider community, meaning that a number of medium distance, one way trips are generated along the corridor.
 
 <figure id="figure-8-1">
-  <img src="https://github.com/equivalentideas/WestConnex-M4-East-EIS/raw/master/volume-1A/images/figure-8-1.jpgimages/figure-8-1.jpg" alt="Map of Traffic study area" />
+  <img src="https://github.com/equivalentideas/WestConnex-M4-East-EIS/raw/master/volume-1A/images/figure-8-1.jpg" alt="Map of Traffic study area" />
   <figcaption>
     Figure 8.1 Existing road network within the study area
   </figcaption>
