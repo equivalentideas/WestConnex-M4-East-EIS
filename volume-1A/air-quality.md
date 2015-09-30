@@ -467,10 +467,10 @@ The modelling domains for the project are shown in Figure 9.3. The following ter
 
 * The GRAMM domain (also referred to as the ‘study area’) is shown by the red boundary in Figure 9.3. This was used for the modelling of meteorology, and was the largest area included in the assessment. The GRAMM domain covers a substantial part of Sydney, extending 25 kilometres in the east-west (x) alignment and 20 kilometres in the north-south (y) alignment.
 * The WestConnex GRAL domain for dispersion modelling is shown by the black boundary in Figure 9.3. This extended 15 kilometres in the east-west alignment and 14 kilometres in the north-south alignment. Every dispersion model was run undertaken for the WestConnex GRAL domain, which includes all WestConnex projects (a section of the M4 Widening, M4 East, King Georges Road Interchange Upgrade, New M5 and M4􏰁M5 Link). The large size of the WestConnex GRAL domain was defined for a number of reasons:
-* It facilitated a ‘whole of project’ modelling approach, whereby the specific information for each WestConnex project could be extracted and presented in more detail for the separate EISs (in this case, for the M4 East project). This improved both the efficiency and consistency of the air quality assessments for the various WestConnex projects
-* It provided the cumulative impacts of all relevant projects, such as the combined ventilation outlet for the M4 East and M4-M5 Link
-* It maximised the flexibility of the assessment process, and is capable of accommodating any future changes in the requirements of any project
-* It maximised the number of meteorological and air quality monitoring stations that could be included for model evaluation purposes.
+    * It facilitated a ‘whole of project’ modelling approach, whereby the specific information for each WestConnex project could be extracted and presented in more detail for the separate EISs (in this case, for the M4 East project). This improved both the efficiency and consistency of the air quality assessments for the various WestConnex projects
+    * It provided the cumulative impacts of all relevant projects, such as the combined ventilation outlet for the M4 East and M4-M5 Link
+    * It maximised the flexibility of the assessment process, and is capable of accommodating any future changes in the requirements of any project
+    * It maximised the number of meteorological and air quality monitoring stations that could be included for model evaluation purposes.
 * The M4 East GRAL domain is shown by the blue boundary in Figure 9.3. This extended 8.5 kilometres in the east-west alignment and 6.2 kilometres in the north-south alignment. No separate modelling was undertaken for this domain; rather, the model results for this area were extracted from the model results for the WestConnex GRAL domain.
 
 <figure id="figure-9-3">
