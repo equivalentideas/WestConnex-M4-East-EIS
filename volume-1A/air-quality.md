@@ -539,3 +539,193 @@ Although not all particularly sensitive receptors along the project corridor wer
     Figure 9.4 Community and residential, workplace and recreational receptors for air quality modelling
   </figcaption>
 </figure>
+
+### 9.5 Existing environment
+
+This section describes the existing environment and conditions in the study area, including:
+
+* A description of the terrain and land use in the study area
+* The meteorology (weather patterns) in the study area
+* Consideration of historical trends in road traffic emissions
+* The historical and current air quality environment in the study area
+* The meteorological inputs for the operational air quality assessment
+* The background concentrations for the operational air quality assessment.
+
+#### 9.5.1 Terrain and land use
+
+The topography of the land in an area plays an important role in the dispersion of air pollutants. It steers winds, generates turbulence and large scale eddies, and generates drainage flows at night (when air cools and flows downslope) and upslope flows during the day (as a result of surface heating).
+
+Terrain data for Sydney were obtained from the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) website. The terrain within the WestConnex study area is predominantly flat, but increases in elevation to the north of the Five Dock Bay area towards the Hills District and to the south towards the Sutherland Shire and adjoining parkland.
+
+The terrain along the project corridor rises from an elevation of around 15 metres Australian Height Datum (AHD) at the western end to an elevation of around 22 metres AHD at the eastern end. Land use within the M4 East GRAL domain consists primarily of urban areas, with pockets of small recreational reserves and waterbodies around Five Dock Bay and towards the east coast. The uniformity of the terrain, and the lack of major obstacles to wind flow, should support good dispersion and air flow throughout the study area.
+
+#### 9.5.2 Climate
+
+Table 9.12 and Table 9.13 present the 20-year temperature and rainfall data for the two closest Bureau of Meteorology (BoM) sites, located at Sydney Olympic Park (Archery Centre) (site number 066195) and the Canterbury Racecourse (site number 066194). Monthly averages of maximum and minimum temperatures are presented, as well as rainfall data consisting of mean monthly rainfall and the average number of rain days per month.
+
+<table id="table-9-12">
+  <caption>Table 9.12 Climate averages for Sydney Olympic Park</caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<table id="table-9-13">
+  <caption>Table 9.13 Climate averages for Canterbury Racecourse</caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+The annual average maximum and minimum temperatures recorded at the Sydney Olympic Park station are 23.6°C and 13.9°C, respectively. At Canterbury Racecourse these are 23.2°C and 12.3°C, respectively. On average, January is the hottest month, with average maximum temperatures of 28.4°C and 27.6°C at Olympic Park and Canterbury, respectively. July is the coldest month at both stations, with average minimum temperatures of 7.8°C and 5.8°C, respectively.
+
+Rainfall data collected at the Sydney Olympic Park station shows that February is the wettest month, with an average rainfall of 110 millimetres over an average of eight rain days. The average annual rainfall is 884 millimetres over an average of 82 rain days per year. Rainfall data from the Canterbury site shows the wettest month on average occurring in April, with 113 millimetres falling over eight rain days. The average annual rainfall is slightly higher, at 928 millimetres over an average of 85 rain days per year.
+
+#### 9.5.3 Meteorology
+
+Several meteorological stations in the study area were considered, and their locations are shown in Figure 9.5. Data relevant to the dispersion modelling such as wind speed, wind direction, temperature and cloud cover was obtained for the following locations (shown in Figure 9.5):
+
+* NSW Office of Environment and Heritage (OEH) meteorological stations:
+    * Chullora
+    * Earlwood
+    * Rozelle
+* BoM meteorological stations:
+    * Canterbury Racecourse Automatic Weather Station (AWS) (site number 066194)
+    * Fort Denison (site number 066022)
+    * Sydney Airport Allied Meteorological Office (AMO) (site number 066037)
+    * Sydney Olympic Park AWS (site number 066195)
+    * Sydney Olympic Park AWS (Archery Centre) (site number 066212).
+
+An analysis of the data required as input for GRAMM was conducted to examine the availability and validity of the data from these meteorological stations. Data recovery, wind speed, wind direction, temperature and relative humidity information for years 2009 to 2014 was analysed, where available, for each of the sites. A minimum of five years of data was chosen for analysis, in line with the requirements of determining site-representative data outlined in the Approved Methods.
+
+It is noted that the OEH Randwick site is also located within the model domain.  However, as it would be less than 500 metres away from the western edge of the domain, it was not considered for inclusion in the model due to potential model boundary effects, which could skew the wind fields at this location.
+
+Appendix H (Meteorological Data and Evaluation) of the air quality assessment report in Appendix H of this EIS provides a summary of the annual data recovery, average wind speed and percentage of calms (wind speeds less than 0.5 metres per second) for each of the selected meteorological stations from 2009 to 2014. The table shows a generally high percentage of data recovery at each site over the last six years consistent with the data requirements in the Approved Methods.  There was a high level of consistency in the annual average wind speed and annual percentage of calms across the years within each meteorological station database. Wind speed conditions, including episodes of calm conditions, have remained relatively consistent over the period.
+
+Annual and seasonal wind roses for all six years and for all sites were used to analyse the general wind patterns across the modelling domain. These are presented in Appendix H. The wind roses showed very similar wind patterns for all six years at each individual site. The dominant wind patterns are predominantly from the northwest and southeast directions. The seasonal patterns are also very similar between each site.
+
+Based on the analysis of the available meteorological data within the GRAMM modelling domain (Figure 9.5) presented in Appendix H, data from the BoM Canterbury Racecourse AWS meteorological station were chosen as the input to GRAMM for modelling. The site was considered to be representative of the meteorology in the domain.
+
+Analysis of the Canterbury Racecourse data showed that the wind speed and direction patterns for the past six years (2009 to 2014) were consistent from year to year Appendix H (Meteorological Data and Evaluation) of the Air Quality Assessment Report in Appendix H of this EIS. Other sites also showed consistencies, but the Canterbury Racecourse AWS site was the most centrally located with respect to WestConnex. The analysis of six years of data also showed that 2014, the most recent year available, was representative of longer term weather conditions. The selection of the 2014 meteorological data was consistent with the use of 2014 measured ambient air quality data to define background concentrations for the assessment.
+
+Figure 9.6 to Figure 9.9 show annual and diurnal plots of wind speed and temperature from the Canterbury Racecourse site for 2014. The annual plots show a typical distribution of wind speed and temperature over the course of a year.  The diurnal plots also show typical patterns, with higher wind speeds and temperatures during the day, decreasing at night and in the early morning.
+
+Having determined that 2014 was a representative year, these data were then used to run the meteorological model (GRAMM) to determine three-dimensional wind fields across the modelling domain. This process is described further in Appendix H. Wind speed and direction values were extracted at each of the meteorological stations shown in Figure 9.5 and some statistical analysis was carried out to compare these extracted (predicted) data with the observations at each of those sites. This process is discussed further in section Appendix H.
+
+<figure id="figure-9-5">
+  <img src="images/figure-9-5.jpg" alt="Map of meteorological stations in the GRAMM model domain" />
+  <figcaption>
+    Figure 9.5 Meteorological stations in the GRAMM model domain
+  </figcaption>
+</figure>
+
+<figure id="figure-9-6">
+  <img src="images/figure-9-6.jpg" alt="Chart showing hourly average wind speeds at Canterbury Racecourse - 2014" />
+  <figcaption>
+    Figure 9.6 Hourly average wind speeds at Canterbury Racecourse - 2014
+  </figcaption>
+</figure>
+
+<figure id="figure-9-7">
+  <img src="images/figure-9-7.jpg" alt="Chart showing average temperatures at Canterbury Racecourse - 2014" />
+  <figcaption>
+    Figure 9.7 Hourly average temperatures at Canterbury Racecourse - 2014
+  </figcaption>
+</figure>
+
+<figure id="figure-9-8">
+  <img src="images/figure-9-8.jpg" alt="Chart average wind speeds by hour of day at Canterbury Racecourse - 2014" />
+  <figcaption>
+    Figure 9.8 Average wind speeds by hour of day at Canterbury Racecourse - 2014
+  </figcaption>
+</figure>
+
+<figure id="figure-9-9">
+  <img src="images/figure-9-9.jpg" alt="Chart average temperatures by hour of day at Canterbury Racecourse - 2014" />
+  <figcaption>
+    Figure 9.9 Average temperatures by hour of day at Canterbury Racecourse - 2014
+  </figcaption>
+</figure>
+
+#### 9.5.4 Emissions
+
+Calculations have established that exhaust emissions of some pollutants from road transport have decreased as vehicle emissions legislation has tightened, and they are predicted to decrease further in the future (Bureau of Infrastructure, Transport and Regional Economics (BITRE) 2010).
+
+However, over the longer term, it is anticipated that emission levels will start to rise again, as increases in annual vehicle activity (associated with the projected population growth in Sydney) begin to offset the reductions achieved by the current emission standards and vehicle technologies (Department of Infrastructure and Transport (DIT) 2012).
+
+The most detailed and comprehensive source of information on current and future emissions in the Sydney area is the emissions inventory compiled by EPA. An emissions inventory defines the amount, in tonnes per year, of each pollutant that is emitted from each source in a given area. The base year of the latest published EPA inventory is 2008 (NSW EPA 2012), and projections are available for 2011, 2016, 2021, 2026, 2031 and 2036. The importance of road transport as a source of pollution in Sydney can be illustrated by reference to sectoral emissions. The data for anthropogenic (caused by humans) and biogenic (caused by plants and animals) emissions in Sydney, and also for road transport in Sydney, have been extracted from the latest EPA inventory and are presented here.  Emissions were considered for the most recent historical year (2011) and for the future years.
+
+##### Sectoral emissions
+
+Figure 9.10 shows that in 2011 road transport in Sydney was the single largest sectoral contributor to emissions of CO (44 per cent) and NOX (57 per cent). It was also responsible for a significant proportion of emissions of volatile organic compounds (VOCs) (17 per cent), PM10 (10 per cent) and PM2.5 (12 per cent). The main contributors to VOCs were domestic and commercial activity and biogenic sources such as volatile oils from vegetation. The most important sources of PM10 and PM2.5 emissions were the domestic and commercial sector, and industry. The contribution to PM from the domestic sector in Sydney was due largely to wood burning for heating in winter. Emissions from natural sources, such as bushfires, dust storms and marine aerosol, also contributed significantly to PM concentrations. Road transport contributed only two per cent of total SO2 emissions in Sydney, reflecting the reduction in sulphur in road transport fuels in recent years. SO2 emissions in Sydney were dominated by the off-road mobile sector and industry.
+
+<figure id="figure-9-10">
+  <img src="images/figure-9-10.jpg" alt="Chart emissions in Sydney by sector, 2011" />
+  <figcaption>
+    Figure 9.10 Sectoral emissions in Sydney, 2011 (values in tonnes per year and percentage of total)
+  </figcaption>
+</figure>
+
+##### Road transport sector emissions
+
+The breakdown of emissions in 2011 from the road transport sector by process and vehicle type is presented in Figure 9.11. Petrol passenger vehicles (mainly cars) accounted for a large proportion of the vehicle kilometres travelled (VKT) in Sydney. Diesel passenger vehicles have represented only a very small proportion of the total passenger vehicle fleet. However, the improved performance of light- duty diesel vehicles over the last 10 years, together with superior fuel economy, has boosted sales and the market share is increasing (NSW EPA 2012). Exhaust emissions from these vehicles were responsible for 62 per cent of CO from road transport in Sydney in 2011, 45 per cent of NOx and 76 per cent of SO2. They were a minor source of PM10 (4 per cent) and PM2.5 (9 per cent). Non-exhaust processes were the largest source of road transport PM10 (60 per cent) and PM2.5 (46 per cent). This is a larger proportion than in most European countries, as there are relatively few diesel cars in Australia.  Heavy-duty diesel vehicles are disproportionate contributors of NOx and PM emissions due to their inherent combustion characteristics, high operating mass (and hence high fuel usage) and level of emission control technology (NSW EPA 2012).
+
+Projected emissions for sectoral and road transport emissions in Sydney from 2011 to 2036 are shown in Figure 9.12 and Figure 9.13.
+
+The projections of sectoral emissions in Figure 9.12 show that the road transport contribution to CO, VOCs and NOX emissions will decrease substantially between 2011 and 2036, due to improvements in emission control technology. For PM10, PM2.5 and SO2 the road transport contributions will also decrease, but their smaller contributions mean that these reductions will have only a minor impact on total emissions.
+
+The projections of road transport emissions are broken down by process and vehicle group in Figure 9.13. Substantial reductions in emissions of CO, VOCs, and NOX are projected between 2011 and 2036. There will be smaller changes in emissions of PM10 and PM2.5. SO2 emissions are proportional to fuel sulfur content, and this is assumed to remain constant in the inventory.  The inventory also records emissions of specific organic compounds, based on speciation profiles of petrol and diesel fuels.
+
+#### 9.5.5 General characteristics of Sydney air quality
+
+Air quality in the Sydney region has improved over the last few decades. The improvements have been attributed to initiatives to reduce emissions from industry, motor vehicles, businesses and residences.
+
+Historically, elevated levels of CO were generally only encountered near busy roads, but concentrations have fallen as a result of improvements in motor vehicle technology. Since the introduction of unleaded petrol and catalytic converters in 1985, peak CO concentrations in central Sydney have plummeted, and the last exceedance of the air quality standard for CO in NSW was recorded in 1998 (NSW Department of Environment, Climate Change and Water (DECCW) 2009 and 2010).
+
+While levels of NO2, SO2 and CO continue to be below national standards, levels of ozone and particles (PM10 and PM2.5) sometimes exceed the standards.  Ozone and PM levels are affected by:
+
+* The annual variability in the weather
+* Natural events such as bushfires and dust storms, as well as hazard-reduction burns
+* The location and intensity of local emission sources, such as wood heaters, transport and industry (OEH 2015).
+
+<figure id="figure-9-11">
+  <img src="images/figure-9-11.jpg" alt="Chart showing breakdown of road transport emissions – Sydney, 2011" />
+  <figcaption>
+    Figure 9.11 Breakdown of road transport emissions – Sydney, 2011 (values in tonnes per year and percentage of total)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-12">
+  <img src="images/figure-9-12.jpg" alt="Chart showing projections of sectoral emissions – Sydney, 2011-2036" />
+  <figcaption>
+    Figure 9.12 Projections of sectoral emissions – Sydney, 2011-2036
+  </figcaption>
+</figure>
+
+<figure id="figure-9-13">
+  <img src="images/figure-9-13.jpg" alt="Chart showing projections of road transport emissions – Sydney, 2011-2036" />
+  <figcaption>
+    Figure 9.13 Projections of road transport emissions – Sydney, 2011-2036
+  </figcaption>
+</figure>
+
+#### 9.5.6 Data from existing monitoring sites in the study area
