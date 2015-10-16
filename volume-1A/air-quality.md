@@ -792,3 +792,274 @@ A review of the annual and seasonal wind roses (Appendix H) indicates the winds 
 There are unlikely to be any construction projects of this magnitude occurring concurrently with this project in the immediate vicinity, except the M4 Widening project to the west of the M4 East. This may affect a limited area. As such, cumulative impacts due to dust from construction are unlikely.
 
 ### 9.7 Assessment of air quality impacts during operation
+
+#### 9.7.1 In-tunnel air quality
+
+Air quality is monitored continuously in all Sydney’s major road tunnels, with monitors installed along the length of each tunnel. These typically measure CO and visibility, and are specially designed for use in road tunnels where access for routine essential maintenance is restricted by the need to minimise traffic disruption. While these instruments typically only have a coarse resolution, more precise instrumentation has been installed in the ventilation outlets of some tunnels, with measurements including PM10, PM2.5, NOX and NO2. Some of the data from these instruments are available on the web sites of the tunnel operators of the Lane Cove and Cross City Tunnels. Measurements from those tunnels have been used to inform the air quality assessment for this project.
+
+In-tunnel traffic, airflow, pollution levels and temperature for the project and for the future M4–M5 Link were modelled using the IDA Tunnel software (http://www.equa.se/en/tunnel/ida-tunnel/road-tunnels). The data used in the tunnel ventilation simulation, and the results of the simulation, are provided in full in Appendix L of the air quality assessment in Appendix H.
+
+The three pollutants assessed for in-tunnel air quality were NO2, CO and PM2.5 (exhaust only, as visibility). For the operating years of the project, NO2 will be the pollutant that determines the required airflow and drives the design of ventilation for in-tunnel pollution.
+
+##### Design traffic scenarios
+
+The tunnel ventilation system would operate in, and be responsive to, a range of traffic modes which are described in Chapter 5 (Project description) and Appendix L of the air quality assessment in Appendix H. As an example, Figure 9.16 illustrates the modelled air flows at the eastern ventilation outlet that would be required to maintain the in-tunnel air quality below the criteria with varying expected traffic volumes for each hour of the day.
+
+The daily traffic volumes by hour for the project in 2031 are shown in Figure 9.14 and Figure 9.15.
+
+<figure id="figure-9-14">
+  <img src="images/figure-9-14.jpg" alt="Diagram modelled daily traffic demand for M4 East eastbound" />
+  <figcaption>
+    Figure 9.14 Modelled daily traffic demand for M4 East eastbound
+  </figcaption>
+</figure>
+
+<figure id="figure-9-15">
+  <img src="images/figure-9-15.jpg" alt="Diagram modelled daily traffic demand for M4 East westbound" />
+  <figcaption>
+    Figure 9.15 Modelled daily traffic demand for M4 East westbound
+  </figcaption>
+</figure>
+
+The hourly traffic demand in the tunnel was used as input to the modelling of air flow requirements and the resulting pollutant levels in the tunnel, shown in Figure 9.16.
+
+<figure id="figure-9-16">
+  <img src="images/figure-9-16.jpg" alt="Diagram showing relationship between air flow and traffic volumes in 2021" />
+  <figcaption>
+    Figure 9.16 Relationship between air flow and traffic volumes in 2021
+  </figcaption>
+</figure>
+
+###### Free flowing or normal traffic
+
+‘Normal’ traffic conditions refer to the conditions that occur the majority of the time, when the predicted weekday traffic volumes are high and traffic is flowing freely. Normal traffic conditions are assessed but are not considered to represent the worst case or maximum pollutant generation scenario.
+
+Under normal traffic conditions the tunnel ventilation system would use vehicle aerodynamic drag (commonly referred to as the ‘piston effect’) to draw air in through the entrance portals, and to move the air along the tunnel in sufficient volumes to satisfy the fresh air demand of the traffic.
+
+In-tunnel air containing vehicle emissions would be extracted from the tunnels before it reaches the exit portals. Air would be exhausted through a ventilation off-take inside the tunnels and transferred to the ventilation facility via a shaft. The air would then be discharged from the ventilation outlet to the atmosphere to achieve effective dispersion.
+
+For the tunnel off-ramps, air would be drawn back down the ramp for extraction via the ventilation facility. This would require jet fans to maintain the air flow against the direction of traffic flow. A similar approach would be applied to sections of the mainline tunnels close to the exit portals.
+
+Under low traffic, the vehicle generated piston effect would be lessened. In these situations the airflow would need to be assisted by the jet fans located throughout the tunnels. Under low traffic conditions, emission levels would also be low, consistent with the number of vehicles in the tunnel. Additional fresh air supply is unlikely to be required.
+
+##### Predicted criteria pollutant levels for the normal traffic scenario
+
+This model simulation uses the traffic demand shown in Figure 9.14 and Figure 9.15.
+
+The results for 2021-DS, 2031-DS and 2031-DSC are presented in Figure 9.17, Figure 9.20 and Figure 9.19. These plots, which show the diurnal change in the peak in-tunnel value, confirm that the tunnel ventilation system would be designed to maintain in-tunnel air quality well within operational limits.
+
+<figure id="figure-9-17">
+  <img src="images/figure-9-17.jpg" alt="Digrams of peak in-tunnel NO2, CO and extinction coefficient – 2021-DS" />
+  <figcaption>
+    Figure 9.17 Peak in-tunnel NO2, CO and extinction coefficient – 2021-DS
+  </figcaption>
+</figure>
+
+<figure id="figure-9-18">
+  <img src="images/figure-9-18.jpg" alt="Digrams of peak in-tunnel NO2, CO and extinction coefficient – 2031-DS" />
+  <figcaption>
+    Figure 9.18 Peak in-tunnel NO2, CO and extinction coefficient – 2031-DS
+  </figcaption>
+</figure>
+
+<figure id="figure-9-19">
+  <img src="images/figure-9-19.jpg" alt="Digrams of Peak in-tunnel NO2, CO and extinction coefficient – 2031-DSC" />
+  <figcaption>
+    Figure 9.19 Peak in-tunnel NO2, CO and extinction coefficient – 2031-DSC
+  </figcaption>
+</figure>
+
+###### Congested traffic (maximum traffic flow – variable speeds)
+
+Multi-lane tunnels have an advantage in mitigating congestion in that slow vehicles can occupy the left lane, allowing the remaining lanes to accommodate faster moving traffic Ventilation simulation results for 2031 congested traffic are tabulated in Appendix L of the air quality assessment in Appendix H. The traffic flow cases are for steady state traffic demand, with the mainline traffic speeds at nominal limits of 20 kilometres per hour, 40 kilometres per hour, 60 kilometres per hour and 80 kilometres per hour.
+
+Congested cases have been generated by applying speed limits in the model near the end of critical sections. The traffic then backs up behind that forced speed limit as determined by the throughput and the modelled traffic behaviour.  Traffic flows from 1,000 vehicles per hour to 5000 vehicles per hour were modelled, ensuring that traffic saturation (maximum traffic) was reached. With the ramp inflows and outflows held in the same proportions as the normal peak hour traffic, some parts of the tunnel network would become saturated before others.
+
+This approach of applying artificial constraints has been necessary because of the difficulty in generating realistic congested scenarios. The M4 East and M4􏰁M5 Link eastbound tunnels would have several exit ramps from the Concord Road interchange to Rozelle. Tunnel operators would not allow traffic to bank back into the tunnel at speeds below 20 kilometres per hour, but even if external network congestion reduced the speed on all seven exit lanes to 20 kilometres per hour, the exit capacity would remain relatively high, and the three lanes of the mainline from Concord Road would continue to run relatively freely.  Congestion on the external road network is therefore unlikely to cause congestion within the tunnel. In particular, it would not create sufficiently heavy congestion eastbound to generate a cumulative scenario reflecting M4 East and M4􏰁M5 Link.
+
+The most realistic cause of traffic congestion in the mainline tunnels would be the use of the variable speed limit signs to slow traffic near the end of the mainline tunnels, for instance in response to an incident such as oil on the roadway or other hazard. However, such incidents would not occur with the same frequency as external network congestion, and they would be short-lived because of the implementation of incident traffic management procedures.
+
+Predicted criteria pollutant levels for the breakdown traffic scenario In the case of a vehicle breakdown in the tunnel, the tunnel operator may close one lane upstream of the disabled vehicle to clear a path for the incident management vehicle. With one lane closed, the number of vehicles in the tunnel would decrease and the average speed in the other lanes would be reduced. If the breakdown occurred near the tunnel exit, and the operators were to take no action, the traffic would bank up and over time might resemble the congested scenario. However, when the tunnel is appropriately controlled, the foreseeable breakdown scenario is less onerous than the congested case. The congested case results may therefore be applied to the breakdown scenario, with some conservatism. Given the low frequency of these occurrences, the added conservatism in breakdown cases is not significant.
+
+Major incident conditions, including major accident and fire scenarios, require significant traffic control measures to be put in place including tunnel closure. The ventilation system would be operated to provide a safe environment for tunnel occupants, eg smoke may be ventilated from the tunnel portals in the case of a fire (Appendix H).
+
+##### The predicted pollutant levels from the congested traffic scenarios need to be considered in this context.
+
+Predicted criteria pollutant levels for the congested traffic scenario These congested case results are compared with the 80 kilometres per hour (free flowing) case. The important conclusion from these results, as shown in Figure 9.20 and Figure 9.21 is that in-tunnel pollution levels can be maintained at levels below the criteria under all traffic conditions.
+
+<figure id="figure-9-20">
+  <img src="images/figure-9-20.jpg" alt="Diagram showing profiles of NO2 levels in 2031 for maximum traffic flows at various speeds between 20 and 80 kilometres per hour from the western entry of M4 East to M4-M5 Link at Rozelle" />
+  <figcaption>
+    Figure 9.20 Profiles of NO2 levels in 2031 for maximum traffic flows at various speeds between 20 and 80 kilometres per hour from the western entry of M4 East to M4-M5 Link at Rozelle
+  </figcaption>
+  <footer>
+    <p>Notes:</p>
+    <ul>
+      <li>(a) 'Concord on' is the Concord Road on-ramp</li>
+      <li>(b) 'Parra Wattle off' means the Parramatta Road and Wattle Street off-ramps</li>
+      <li>(c) 'Wattle on' is the Wattle Street on-ramp</li>
+      <li>(d) 'CWL off' is the City West Link off-ramp</li>
+      <li>(e) 'Rozelle vent' is a possible future ventilation outlet</li>
+    </ul>
+  </footer>
+</figure>
+
+<figure id="figure-9-21">
+  <img src="images/figure-9-21.jpg" alt="Diagram showing profiles of CO levels in 2031 for maximum traffic flows at various speeds between 20 and 80 kilometres per hour from Rozelle to the western portal of the M4 East" />
+  <figcaption>
+    Figure 9.21 Profiles of CO levels in 2031 for maximum traffic flows at various speeds between 20 and 80 kilometres per hour from Rozelle to the western portal of the M4 East
+  </figcaption>
+  <footer>
+    <p>Notes:</p>
+    <ul>
+      <li>(a) 'Concord on' is the Concord Road on-ramp</li>
+      <li>(b) 'Parra Wattle off' means the Parramatta Road and Wattle Street off-ramps</li>
+      <li>(c) 'Wattle on' is the Wattle Street on-ramp</li>
+      <li>(d) 'CWL off' is the City West Link off-ramp</li>
+      <li>(e) 'Rozelle vent' is a possible future ventilation outlet</li>
+    </ul>
+  </footer>
+</figure>
+
+The tunnel average values for NO2 for the varying traffic speeds are shown in Table 9.15.
+
+<table>
+  <caption>Table 9.15 Relationship between travel speed and average NO2 concentrations</caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+The maximum peak concentrations of pollutants in the tunnel for all traffic scenarios are shown in Table 9.16. The maximum in-tunnel concentrations of CO and NO2, as well as the peak extinction coefficient, were calculated using the methods described in Appendix L of the air quality assessment report (Appendix H). The maximum concentrations for all traffic scenarios, including worst-case conditions, were within the concentrations associated with the regulatory worst case.
+
+<table>
+  <caption>Table 9.16 Capacity traffic Maximum in-tunnel concentrations for all scenarios</caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+#### 9.7.2 Assessment of ambient air quality impacts
+
+##### Surface roads
+
+The changes in the total emissions resulting from the project can be viewed as a air quality impacts. Total emissions were calculated for all surface roads included
+
+WestConnex GRAL domain. The emissions, in tonnes per year, are shown in changes in emissions are shown in Table 9.18. For the pollutants NOX and PM, the net effects of the project on total emissions in 2021 and 2031 were very small (less than 0.2 per cent). In the cumulative case for 2031 there would be an increase in emissions of NOX and PM of around 1.5 to two per cent. The effects of the project on emissions were much smaller than the projected reductions in emissions over time. For example, between 2014 and 2031, NOX emissions (without the project) are projected to decrease by 55 per cent.
+
+The increase in NOx emissions for the assessed road network in 2021 is estimated to be eight tonnes per year. This value equates to a tiny proportion of anthropogenic NOx emissions in the Sydney airshed in 2016 (around 53,700 tonnes). It was therefore concluded that the regional impacts of the project would be negligible, and undetectable in ambient air quality measurements at background locations.
+
+<table>
+  <caption>Table 9.17 Total emissions in the WestConnex model domain</caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <caption>Table 9.18 Changes in total emissions in the WestConnex model domain</caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+##### Tunnel ventilation outlets
+
+The M4 East ventilation outlet heights and locations are shown in Table 9.19 and in Chapter 5 (Project description).The western ventilation outlet for the M4􏰃M5 Link would be adjacent to the M4 East eastern ventilation outlet.
+
+<table>
+  <caption>Table 9.19 Ventilation outlet locations and heights</caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+###### Regulatory worst case scenario
+
+A summary of the results for the regulatory worst case scenario for the 10,154 RWR receptors is presented in Table 9.20.
+
+<table>
+  <caption>Table 9.20 Results of regulatory worst case assessment (RWR receptors)</caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+The regulatory worst case scenario is a theoretical analysis and the actual impacts of the tunnel operation for all traffic scenarios are expected to be much lower. However, Roads and Maritime would monitor ambient air quality after project opening to demonstrate that the ventilation outlets have no detectable impact on local air quality.
+
+###### Expected traffic scenarios
+
+The ventilation outlet airflows, exit velocities and emission rates for NO2, PM2.5 (vehicle exhaust only) and CO under the expected traffic scenarios are provided in Appendix H.
+
+Further details of the modelling procedures are provided in Appendix H.
+
+###### Predicted pollutant levels with and without the project
+
+For each pollutant and metric the following concentrations were determined:
+
+* The total pollutant concentration from all contributions (background, surface roads and ventilation outlets), focusing on the 2021-DS and 2031-DS scenarios
+* The change in the total pollutant concentration was calculated as the difference between the 2021-DS and 2021-DM scenario, and between the 2031-DS and 2031-DM scenario
+* The pollutant contribution from ventilation outlets alone in the 2021-DS and 2031-DS scenarios. The predicted concentrations at the 31 community and 10,154 RWR receptors are presented in three ways:
+    * In bar charts for absolute concentration and changes in concentration for the 31 community receptors
+    * As ranked bar charts for absolute concentration and changes in concentration at the 10,154 RWR receptors
+* Pollutant concentrations across the modelling domain (as contour plots). These have only been provided for the most important pollutants: NO2, PM10 and PM2.5.
+
+The results show that the criteria pollutants are well below the relevant criteria at all receptors for 2021 and 2031; the results for these criteria pollutants are shown in Section 9.7.4.
+
+The longer averaging times for each pollutant are presented here as they are generally more important in the consideration of potential health impacts than the shorter averaging periods. Additional results, including tabulated concentrations and contour plots, are provided in Appendix J of the Air Quality Assessment Report in Appendix H.  
+
+#### 9.7.3 Carbon monoxide (maximum rolling eight-hour mean)
