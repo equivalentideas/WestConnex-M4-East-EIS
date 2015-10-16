@@ -729,3 +729,66 @@ While levels of NO2, SO2 and CO continue to be below national standards, levels 
 </figure>
 
 #### 9.5.6 Data from existing monitoring sites in the study area
+
+
+A detailed analysis of historical trends (2004-14) and the current state of Sydney’s air quality is provided in Appendix F of the Air Quality Assessment Report in Appendix H. The analysis was based upon data from multiple long-term monitoring stations operated by OEH and NSW Roads and Maritime Services (Roads and Maritime), as well as from monitoring stations established more recently and specifically for the project. The data from the monitoring sites were also used to define appropriate background concentrations of pollutants for the project assessment.
+
+The data for specific air quality metrics during the period 2004-14 can be summarised as follows:
+
+* Maximum one-hour and rolling eight-hour mean CO concentrations
+    * All maximum values were well below the air quality criteria of 30 mg/m3 (one-hour) and 10 mg/m3 (eight-hour)
+    * There was a general downward trend in concentration, but it was not statistically significant at any site
+* Annual mean NO2 concentrations
+    * Concentrations at all sites were well below the NSW air quality criterion of 62 µg/m3. Values at the OEH sites exhibited a systematic, and generally significant, downward trend.  However, in recent years the concentrations at some sites appear to have stabilised. At the Roads and Maritime background sites there was no significant downward trend
+    * The average NO2 concentrations at the roadside sites were 34-37 µg/m3, and therefore around 10-15 µg/m3 higher than those at the background sites. Even so, the NO2 concentrations at roadside were also well below the assessment criterion
+* Maximum one-hour NO2 concentrations
+    * Although variable, maximum NO2 concentrations have remained largely stable over time, and the values at all sites continue to be below the NSW air quality criterion of 246 µg/m3
+    * The maximum one-hour mean NO2 concentrations at the Roads and Maritime roadside sites in 2014 were 115 and 122 µg/m3 respectively. These values are on a par with the higher maximum values for the background sites.
+* Annual mean PM10 concentrations
+    * Concentrations at the OEH sites showed a downward trend between 2004 and 2014, but this was only statistically significant at two sites. In recent years the annual mean concentration at the OEH sites has been between 17 μg/m3 and 20 μg/m3, except at Lindfield, where the concentration is substantially lower (around 14 μg/m3). The concentration at the Roads and Maritime background sites appears to have stabilised at around 15 μg/m3. These values can be compared with air quality criterion of 30 μg/m3
+* Maximum 24-hour PM10 concentrations
+    * Maximum 24-hour PM10 concentrations exhibited a slight downward trend, but there was a large amount of variation from year to year. In 2014 the concentrations at the various sites were clustered around 40 µg/m3, but the historical patters suggest that this would be unlikely to continue into the future
+* Annual mean PM2.5 concentrations
+    * PM2.5 is only measured at three OEH sites in the study area. Concentrations at the two OEH sites closest to the project – Chullora and Earlwood - showed a broadly similar pattern, with a systematic reduction between 2004 and 2012 being followed by a substantial increase between 2012 and 2014. The main reason for the increase was a change in the measurement method, which indicated that background PM2.5 concentrations in the study area during 2014 were already very close to, or above, the advisory reporting standard in the AAQ NEPM of eight µg/m3
+* Maximum 24-hour PM2.5 concentrations
+    * There has been no systematic trend in the maximum 24-hour PM2.5 concentration.  As with the annual mean PM2.5 concentration, the maximum one-hour concentrations are very close to, or above, the advisory reporting standard in the PMAAQ NEPM of 25 µg/m3.
+
+#### 9.5.7 Project-specific monitoring
+
+The WestConnex Delivery Authority (WDA) has established five monitoring stations in the M4 East GRAL domain to support the development and assessment of the project. The WDA monitoring stations were designed to supplement the existing OEH and Roads and Maritime stations, to establish the representativeness of the data from these sites, and to provide long-term air quality data in the vicinity of the project. The locations of the monitoring stations were determined with consideration being given to a number of criteria; one station is located at an urban background site and four stations are located near busy roads to characterise population exposure in these areas.
+
+All monitoring stations are listed in Table 9.14; further details are provided in Appendix F of the air quality assessment in Appendix H.
+
+<table id="table-9-14">
+  <caption>Table 9.14 Air quality monitoring stations</caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+### 9.6 Assessment of air quality impacts during construction
+
+An assessment of construction impacts on air quality was undertaken in accordance with the procedure described in Figure 9.1. A detailed assessment is provided in the air quality assessment report in Appendix H. The following sections discuss the potential impacts on air quality during construction that were identified through this assessment.
+
+### 9.6.1 Significance of risks
+
+For almost all construction activity, the aim should be to prevent significant effects on receptors through the use of effective mitigation. Experience shows that this is normally possible. Hence the residual impacts will normally be ‘not significant’ (IAQM 2014).
+
+However, even with a rigorous Construction Air Quality Management Plan in place, it is not possible to guarantee that the dust mitigation measures will be effective all the time. There is the risk that nearby residences, commercial buildings, hotel, cafés and schools in the immediate vicinity of the construction zone, might experience some occasional dust soiling impacts. This does not imply that impacts are likely, or that if they did occur, that they would be frequent or persistent. Overall construction dust is unlikely to represent a serious ongoing problem. Any effects would be temporary and relatively short-lived, and would only arise during dry weather with the wind blowing towards a receptor, at a time when dust is being generated and mitigation measures are not being fully effective. The likely scale of this would not normally be considered sufficient to change the conclusion that with mitigation the effects will be ‘not significant’.
+
+In the western and central areas of the project, the nearest sensitive receptors are located along Parramatta Road north and south of the designated construction area. At the eastern end of the project as Parramatta Road turns towards the southeast, receptors are towards the east and west of Parramatta Road and along Wattle Street to the northeast.
+
+A review of the annual and seasonal wind roses (Appendix H) indicates the winds that could be capable of transporting emissions towards receptors. Given the transitional nature of the prevailing winds with respect to the receptors, this could occur at any time of year.
+
+There are unlikely to be any construction projects of this magnitude occurring concurrently with this project in the immediate vicinity, except the M4 Widening project to the west of the M4 East. This may affect a limited area. As such, cumulative impacts due to dust from construction are unlikely.
+
+### 9.7 Assessment of air quality impacts during operation
