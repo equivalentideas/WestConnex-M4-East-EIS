@@ -1063,3 +1063,126 @@ The results show that the criteria pollutants are well below the relevant criter
 The longer averaging times for each pollutant are presented here as they are generally more important in the consideration of potential health impacts than the shorter averaging periods. Additional results, including tabulated concentrations and contour plots, are provided in Appendix J of the Air Quality Assessment Report in Appendix H.  
 
 #### 9.7.3 Carbon monoxide (maximum rolling eight-hour mean)
+
+##### Results for community receptors
+
+
+Figure 9.22 shows the maximum rolling eight-hour mean CO concentrations at the community receptors for the project in 2021 and 2031. Because no model predictions were available for the period with the highest background concentration, the maximum background value was combined with the maximum model prediction at each receptor. The background was therefore taken to be the same at all locations. As with the one-hour mean, at all the receptors the concentration was well below the NSW impact assessment criterion, which in this case is 10 μg/m3. No lower criteria appear to be in force internationally.
+
+<figure id="figure-9-22">
+  <img src="images/figure-9-22.jpg" alt="Diagram showing maximum rolling eight-hour mean CO at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.22 Maximum rolling eight-hour mean CO at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+The main contributor at these receptors in the 2021-DS scenario was the background concentration (Figure 9.23). The surface road contribution ranged from nine per cent to 22 percent, whereas the tunnel ventilation outlet contribution was less than 0.3 per cent.
+
+<figure id="figure-9-23">
+  <img src="images/figure-9-23.jpg" alt="Diagram showing source contributions to maximum rolling eight-hour mean CO at community receptors with the project in 2021 (2021-DS)" />
+  <figcaption>
+    Figure 9.23 Source contributions to maximum rolling eight-hour mean CO at community receptors with the project in 2021 (2021-DS)
+  </figcaption>
+</figure>
+
+Figure 9.24 shows that the change in the maximum rolling 8-hour CO concentration at most of the community receptors was less than 0.3 mg/m3.
+
+<figure id="figure-9-24">
+  <img src="images/figure-9-24.jpg" alt="Diagram showing maximum rolling eight-hour mean CO at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.24 Maximum rolling eight-hour mean CO at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+##### Results for RWR receptors
+
+The rolling eight-hour mean CO concentrations were not extracted from GRAL.  However, these would be broadly similar to those obtained for maximum one-hour concentrations.
+
+#### 9.7.4 Nitrogen dioxide (annual mean)
+##### Results for community receptors
+
+Figure 9.25 shows the annual mean NO2 concentrations at the 31 community receptors with the project in 2021 and 2031. At all these receptor locations the concentration was below 27 μg/m3, and therefore less than 45 per cent of the NSW impact assessment criterion of 62 μg/m3. It should be noted that a lower air quality standard has been adopted elsewhere (eg 40 μg/m3 in the EU). The concentrations at the community receptors were also below this value.
+
+<figure id="figure-9-25">
+  <img src="images/figure-9-25.jpg" alt="Diagram showing annual mean NO2 at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.25 Annual mean NO2 at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+Figure 9.26 presents the source contributions to total annual mean NO2 concentrations in the 2021- DS scenario.
+
+The source contributions were estimated using a ‘cumulative’ approach involving the following steps:
+
+1. A. The background NOX concentration alone was converted to NO2
+2. B. The sum of the background and road NOX concentrations was converted to NO2
+3. C. The sum of the background, road and outlet NOX concentrations was converted to NO2.
+
+The road and outlet contributions were then obtained as the differences in NO2, where road NO2 was determined as NO2 from Step B minus NO2 from Step A, and outlet NO2 was determined from Step C minus Step B. This allowed for the reduced oxidising capacity of the near-road atmosphere at higher total NOX concentrations (Appendix H).
+
+The results indicate that the background at these receptors is likely to be responsible for, on average, around 80 per cent of the predicted annual mean NO2, with most of the remainder being due to surface roads. Surface roads were responsible for between 13 per cent and 25 per cent of the total, depending on the receptor. The contribution of tunnel ventilation outlets was less than 0.4 per cent.
+
+<figure id="figure-9-26">
+  <img src="images/figure-9-26.jpg" alt="Diagram showing source contributions to annual mean NO2 at community receptors with the project in 2021 (2021-DS)" />
+  <figcaption>
+    Figure 9.26 Source contributions to annual mean NO2 at community receptors with the project in 2021 (2021-DS)
+  </figcaption>
+</figure>
+
+Figure 9.32 shows the changes in concentration in the ‘Do Something’ scenarios relative to the ‘Do Minimum’ scenarios for the community receptors. Although there was a small increase in the NO2 concentration at some receptors (less than 0.54 μg/m3), at most locations there was a reduction. The largest reduction for these community receptors – around 3.54 μg/m3 in 2021 – was predicted to occur at receptor SR16 (St Mary's Catholic Primary School), and effectively represented the removal of a large proportion of the surface road contribution at this location.
+
+<figure id="figure-9-27">
+  <img src="images/figure-9-27.jpg" alt="Diagram showing change in annual mean NO2 at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.27 Change in annual mean NO2 at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+##### Results for RWR receptors
+
+The annual mean NO2 criterion for NSW was not exceeded at any of the 10,154 RWR receptors in any scenario. In 2021 and 2031 the highest concentrations associated with the project were predicted to be 34.4 μg/m3 and 31.04 μg/m3, and in both cases these concentrations represented a decrease relative to the corresponding ‘Do Minimum’ scenarios. The higher maximum annual mean NO2 concentration in the cumulative case (2031-DSC) was 31.6 μg/m3.
+
+The annual mean NO2 concentrations at the RWR receptors in the 2021-DS scenario are shown, with a ranking by total concentration, in Figure 9.28. Concentrations at the vast majority of receptors were between around 23 μg/m3 and 30 μg/m3. As noted above, all concentrations were well below the assessment criterion of 62 μg/m3, as well as being below the EU limit value of 40 μg/m3. The maximum contribution of tunnel ventilation outlets at any location in 2021 was 0.1 μg/m3, whereas the surface road contribution ranged between 2.4 μg/m3 and 14.2 μg/m3. The corresponding values for 2031 were 0.13 μg/m3, 1.8 μg/m3 and 10.8 μg/m3.
+
+<figure id="figure-9-28">
+  <img src="images/figure-9-28.jpg" alt="Diagram showing source contributions to annual mean NO2 at RWR receptors with the project in 2021 (2021-DS)" />
+  <figcaption>
+    Figure 9.28 Source contributions to annual mean NO2 at RWR receptors with the project in 2021 (2021-DS)
+  </figcaption>
+</figure>
+
+The change in the annual mean NO2 concentration at the RWR receptors in the 2021-DS scenario (relative to the 2021-DM scenario) are shown, ranked by change in concentration, in Figure 9.29. There was clearly a general downward shift in the predicted annual mean concentration across the M4 East GRAL domain as a result of the project, with substantial reductions at a large number of locations. There was an increase in NO2 at 15 per cent of the receptors, although the increase was greater than1 μg/m3 for only 0.54 per cent of receptors.
+
+The annual mean NO2 concentrations, and the changes in the annual mean, in the 2031-DS scenario are given in Appendix J of the air quality assessment in Appendix H. These closely resemble the results for 2021.
+
+<figure id="figure-9-29">
+  <img src="images/figure-9-29.jpg" alt="Diagram showing changes in annual mean NO2 at RWR receptors with the project in 2021 (2021-DS)" />
+  <figcaption>
+    Figure 9.29 Changes in annual mean NO2 at RWR receptors with the project in 2021 (2021-DS)
+  </figcaption>
+</figure>
+
+##### Contour plots
+
+Contour plots showing the spatial distribution of annual mean NO2 concentrations across the M4 East GRAL domain in 2021 are provided for the Do Minimum case (ie without the project) in Figure 9.30, and for the Do Something case (ie with the project) in Figure 9.31. These plots are based on 527,000 data points, spaced at 10 metre intervals across the domain. Many of the points therefore fall along the axes of roads, and are therefore not necessarily representative of population exposure. The maps also show main surface roads and the locations of the project ventilation facilities.
+
+Annual mean concentrations are clearly the highest along major roads, notably the M4 and Centenary Drive to the south of Sydney Olympic Park, and to a lesser extent Parramatta Road. The concentrations are also influenced slightly by the background NO2 concentration gradient, which increases from east to west (see Appendix F, Figure F-38 of the air quality assessment in Appendix H ).
+
+An equivalent contour plot for the change in the annual mean NO2 concentration with the project in 2021 is given in Figure 9.32. This shows the general reductions in NO2 across the domain, and in particular along Parramatta Road.  Some sections of Parramatta Road have larger reductions in concentration than other sections.
+
+The equivalent plots for 2031 are presented in Appendix J of the air quality assessment in Appendix H. 
+
+<figure id="figure-9-30">
+  <img src="images/figure-9-30.jpg" alt="Map with contour plot showing annual mean NO2 without the project in 2021 (2021-DM)" />
+  <figcaption>
+    Figure 9.30 Contour plot showing annual mean NO2 without the project in 2021 (2021-DM)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-31">
+  <img src="images/figure-9-31.jpg" alt="Map with contour plot showing annual mean NO2 with the project in 2021 (2021-DS)" />
+  <figcaption>
+    Figure 9.31 Contour plot showing annual mean NO2 with the project in 2021 (2021-DS)
+  </figcaption>
+</figure>
+
