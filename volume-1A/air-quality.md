@@ -1186,3 +1186,92 @@ The equivalent plots for 2031 are presented in Appendix J of the air quality ass
   </figcaption>
 </figure>
 
+<figure id="figure-9-32">
+  <img src="images/figure-9-32.jpg" alt="Map with contour plot showing change in annual mean NO2 with the project in 2021 (2021-DS)" />
+  <figcaption>
+    Figure 9.32 Contour plot showing change in annual mean NO2 with the project in 2021 (2021-DS)
+  </figcaption>
+</figure>
+
+#### 9.7.5 PM10 (annual mean)
+
+##### Results for community receptors
+
+The annual mean PM10 concentrations at the 31 community receptors with the project in 2021 and 2031 are shown in Figure 9.33. As with NO2, there was little variation in concentration between the receptors. At all the community receptors the concentration would be below 20 μg/m3, and therefore well below the NSW impact assessment criterion of 30 μg/m3. PM10 concentrations at these receptors – which are close to busy roads in Sydney – were only slightly higher than the lowest PM10 standard in the literature (18 μg/m3 in Scotland) (Appendix H).
+
+<figure id="figure-9-33">
+  <img src="images/figure-9-33.jpg" alt="Chart showing annual mean PM10 at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.33 Annual mean PM10 at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+The concentrations in the 2021-DS scenario were again dominated by the background (Figure 9.34), with a small contribution from roads (0.7-1.7 μg/m3) and a negligible contribution from ventilation outlets.
+
+<figure id="figure-9-34">
+  <img src="images/figure-9-34.jpg" alt="Chart showing source contributions to annual mean PM10 at community receptors with the project in 2021 (2021-DS)" />
+  <figcaption>
+    Figure 9.34 Source contributions to annual mean PM10 at community receptors with the project in 2021 (2021-DS)
+  </figcaption>
+</figure>
+
+Figure 9.35 shows the changes in concentration in the Do Something scenarios relative to the Do Minimum scenarios for the community receptors. Small increases in concentration were predicted for some receptors, but decreases were predicted for most.
+
+<figure id="figure-9-35">
+  <img src="images/figure-9-35.jpg" alt="Chart showing change in annual mean PM10 at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.35 Change in annual mean PM10 at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+##### Results for RWR receptors
+
+
+The ranked annual mean PM10 concentrations at the RWR receptors in the 2021-DS scenario are shown in Figure 9.36. The concentration at the majority of receptors was below 20 μg/m3, and concentrations at all receptors were well below the NSW assessment criterion of 30 μg/m3. The highest predicted concentration at any receptor in this scenario was 22.3 μg/m3, but as with other pollutants and metrics the highest values were only predicted for a small proportion of receptors. The surface road contribution was between 0.6 μg/m3 and 4.2 μg/m3. The largest contribution from tunnel ventilation outlets was just 0.06 μg/m3 in 2021-DS (0.07 μg/m3 in 2031-DS).
+
+<figure id="figure-9-36">
+  <img src="images/figure-9-36.jpg" alt="Chart showing source contributions to annual mean PM10 at RWR receptors with the project in 2021 (2021-DS)" />
+  <figcaption>
+    Figure 9.36 Source contributions to annual mean PM10 at RWR receptors with the project in 2021 (2021-DS)
+  </figcaption>
+</figure>
+
+The change in the annual mean PM10 concentration at the RWR receptors in the 2021-Do Something scenario (relative to the 2021-Do Minimum scenario) is shown, ranked by change in concentration, in Figure 9.37. Once again, there was a marked downward shift in the predicted annual mean concentration along the project corridor as a result of the project, with substantial reductions at a large number of locations. There was an increase in PM10 at 16 per cent of the receptors, although the increase was greater than 0.5 μg/m3 for only five per cent of the 10,154 receptors. The largest predicted increase in concentration at any receptor as a result of the project in 2021 was 0.7 μg/m3, and the largest predicted decrease was 2.8 μg/m3.
+
+<figure id="figure-9-37">
+  <img src="images/figure-9-37.jpg" alt="Chart showing changes in annual mean PM10 at RWR receptors with the project in 2021 (2021-DS)" />
+  <figcaption>
+    Figure 9.37 Changes in annual mean PM10 at RWR receptors with the project in 2021 (2021-DS)
+  </figcaption>
+</figure>
+
+The corresponding plots for the 2031-DS scenario are given in Appendix J of the air quality assessment in Appendix H.
+
+##### Contour plots
+
+The contour plots for annual mean PM10 in 2021 are given in Figure 9.39 and Figure 9.40. These show a fairly even distribution across the domain, reflecting the homogenous nature of background concentrations (see Appendix F of the air quality assessment in Appendix H) and the relatively small contribution from road traffic. Slightly elevated concentrations are evident along the major road corridors. The contour plot for the change in concentration with the project in 2021 (Figure 9.40) shows small reductions in annual mean PM10 along Parramatta Road.
+
+The equivalent plots for 2031 are presented in Appendix J of the air quality assessment in Appendix H.
+
+<figure id="figure-9-38">
+  <img src="images/figure-9-38.jpg" alt="Map with contour plot showing annual mean PM10 in 2021 without the project (2021-DM)" />
+  <figcaption>
+    Figure 9.38 Contour plot showing annual mean PM10 in 2021 without the project (2021-DM)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-39">
+  <img src="images/figure-9-39.jpg" alt="Map with contour plot showing annual mean PM10 in 2021 with the project (2021-DS)" />
+  <figcaption>
+    Figure 9.39 Contour plot showing annual mean PM10 in 2021 with the project (2021-DS)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-40">
+  <img src="images/figure-9-40.jpg" alt="Map with contour plot showing change in annual mean PM10 with the project in 2021 (2021-DS)" />
+  <figcaption>
+    Figure 9.40 Contour plot showing change in annual mean PM10 with the project in 2021 (2021-DS)
+  </figcaption>
+</figure>
+
+#### 9.7.6 PM10 (maximum 24-hour mean)
