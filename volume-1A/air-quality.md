@@ -1533,3 +1533,25 @@ The results for the 2031-DSC scenario at the RWR receptors were also broadly sim
 ### 9.9 Management of impacts
 
 #### 9.9.1 Construction impacts
+
+Step 3 of the construction assessment involved determining mitigation measures for each of the four potential activities in Step 2. This was based on the risk of dust impacts identified in Step 2C. For each activity, the highest risk category was used. These measures are provided in Table 9.21. Most of the recommended measures are routinely employed as ‘good practice’ on construction ancillary facilities.
+
+A Construction Air Quality Management Plan would be produced to cover all construction phases of the project. This Plan should contain details of the site-specific mitigation measures to be applied. Additional guidance on the control of dust at construction ancillary facilities in NSW is provided as part of the NSW EPA Local Government Air Quality Toolkit.
+
+<table id="table-9-2-1>
+  <caption>Table 9.21 Environmental management measures – air quality</caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+#### 9.9.2 Operational impacts
