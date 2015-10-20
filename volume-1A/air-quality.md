@@ -1275,3 +1275,261 @@ The equivalent plots for 2031 are presented in Appendix J of the air quality ass
 </figure>
 
 #### 9.7.6 PM10 (maximum 24-hour mean)
+
+##### Results for community receptors
+
+The maximum 24-hour mean PM10 concentrations at the 31 community receptors with the project in 2021 and 2031 are shown in Figure 9.41. At all receptor locations the maximum concentration was below – but close to – the NSW impact assessment criterion of 50 μg/m3, which is the most stringent standard in force internationally. At all receptors, the maximum total 24-hour concentration occurred on one of only two days of the year (10 February or 31 October), and coincided with the two highest 24-hour background concentrations in the synthetic PM10 profile (44.5 and 45.2 μg/m3). This provided support for the use of a maximum or high percentile value as the background for the RWR receptors across the M4 East GRAL domain (see Appendix H).
+
+The surface road contributions to the maximum 24-hour PM10 concentration at each receptor was small (generally <2 μg/m3), as shown in Figure 9.42. The tunnel ventilation outlet contributions alone were negligible (<0.2 μg/m3).
+
+<figure id="figure-9-41">
+  <img src="images/figure-9-41.jpg" alt="Chart showing maximum 24-hour PM10 at community receptors in 2021 and 2031with the project (2021- DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.41 Maximum 24-hour PM10 at community receptors in 2021 and 2031with the project (2021- DS and 2031-DS)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-42">
+  <img src="images/figure-9-42.jpg" alt="Chart showing source contributions to maximum 24-hour PM10 at community receptors in 2021 with the project (2021-DS)" />
+  <figcaption>
+    Figure 9.42 Source contributions to maximum 24-hour PM10 at community receptors in 2021 with the project (2021-DS)
+  </figcaption>
+</figure>
+
+Figure 9.43 shows the changes in concentration in the Do Something scenarios relative to the Do Minimum scenarios for the community receptors. The changes were generally small (<1 μg/m3). Small increases in concentration were predicted with the project for some receptors in 2021 and 2031.
+
+<figure id="figure-9-43">
+  <img src="images/figure-9-43.jpg" alt="Chart showing source change in maximum 24-hour PM10 at community receptors in 2021 with the project (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.43 Change in maximum 24-hour PM10 at community receptors in 2021 with the project (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+##### Results for RWR receptors
+
+The ranked maximum 24-hour mean PM10 concentrations at the RWR receptors in the 2021-DS scenario are shown in Figure 9.44. Results for RWR receptors were highly dependent on assumptions for the background. The concentration at the majority of receptors was below the NSW impact assessment criterion of 50 μg/m3. The proportion of receptors with a concentration above the criterion decreased from 0.9 per cent in the 2021 Do Minimum scenario to 0.1 per cent with the project.  The contributions of surface roads and ventilation outlets were not additive.  The maximum contribution of tunnel outlets at any receptor was only 0.37 μg/m3 in 2021 (0.42 μg/m3 in 2031).
+
+<figure id="figure-9-44">
+  <img src="images/figure-9-44.jpg" alt="Chart showing source contributions to maximum 24-hour PM10 at RWR receptors (2021-DS)" />
+  <figcaption>
+    Figure 9.44 Source contributions to maximum 24-hour PM10 at RWR receptors (2021-DS)
+  </figcaption>
+</figure>
+
+The changes in the maximum 24-hour mean PM10 concentration with the project in 2021 are ranked, by change in concentration, in Figure 9.45. The same downward shift in predicted concentrations along the corridor is apparent. There was an increase in the maximum 24-hour PM10 at 21 per cent of the receptors, although the increase was greater than 2 μg/m3 for only 0.3 per cent of receptors. The largest predicted increase in concentration at any receptor as a result of the project was 4.84 μg/m3, and the largest predicted decrease was 10.6 μg/m3.
+
+<figure id="figure-9-45">
+  <img src="images/figure-9-45.jpg" alt="Chart showing changes in maximum 24-hour PM10 at RWR receptors (2021-DS)" />
+  <figcaption>
+    Figure 9.45 Changes in maximum 24-hour PM10 at RWR receptors (2021-DS)
+  </figcaption>
+</figure>
+
+##### Contour plots
+
+The contour plots for maximum 24-hour average PM10 in 2021 are given in Figure 9.46, Figure 9.47 and Figure 9.48. These show a fairly even distribution across the domain, reflecting the homogenous nature of background concentrations (see Figure F-4 in Appendix F of the air quality assessment report in Appendix H) and the relatively small contribution from road traffic. Slightly elevated concentrations are evident along the major road corridors.
+
+Figure 9.48 shows the contour plot for the change in maximum 24-hour PM10 concentration with the project in 2021. There were reductions of up to 20 per cent of the NSW criterion along some sections of Parramatta Road.
+
+The equivalent plots for 2031 are presented in Appendix J of the air quality assessment in Appendix H.
+
+<figure id="figure-9-46">
+  <img src="images/figure-9-46.jpg" alt="Map with contour plot showing maximum 24-hour average PM10 without the project in 2021(2021-DM)" />
+  <figcaption>
+    Figure 9.46 Contour plot showing maximum 24-hour average PM10 without the project in 2021(2021-DM)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-47">
+  <img src="images/figure-9-47.jpg" alt="Map with contour plot showing maximum 24-hour average PM10 with the project (2021-DS)" />
+  <figcaption>
+    Figure 9.47 Contour plot showing maximum 24-hour average PM10 with the project (2021-DS)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-48">
+  <img src="images/figure-9-48.jpg" alt="Map with contour plot showing change in maximum 24-hour PM10 with the project (2021-DS)" />
+  <figcaption>
+    Figure 9.48 Contour plot showing change in maximum 24-hour PM10 with the project (2021-DS)
+  </figcaption>
+</figure>
+
+#### 9.7.7 PM2.5 (annual mean)
+
+##### Results for community receptors
+
+The annual mean PM2.5 concentrations at the 31 community receptors with the project in 2021 and 2031 are presented in Figure 9.49. The results are based on an assumed background concentration of eight μg/m3 (the AAQ NEPM advisory reporting standard), and therefore the figure shows exceedances at all receptors. Clearly there would also be exceedances of the proposed NSW target of seven μg/m3. Internationally, there are no standards lower than eight μg/m3 for annual mean PM2.5. The next lowest is 12 μg/m3 (California, Scotland).
+
+<figure id="figure-9-49">
+  <img src="images/figure-9-49.jpg" alt="Chart showing annual mean PM2.5 at community receptors (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.49 Annual mean PM2.5 at community receptors (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+Figure 9.54 shows that concentrations were again dominated by the background.  The surface road contribution was between 0.5 μg/m3 and 1.1 μg/m3. The largest contribution from tunnel ventilation outlets was just 0.03 μg/m3.
+
+<figure id="figure-9-50">
+  <img src="images/figure-9-50.jpg" alt="Chart showing source contributions to annual mean PM2.5 at community receptors (2021-DS) " />
+  <figcaption>
+    Figure 9.50 Source contributions to annual mean PM2.5 at community receptors (2021-DS)
+  </figcaption>
+</figure>
+
+Figure 9.55 shows the changes in concentration in the Do Something scenarios relative to the Do Minimum scenarios for the community receptors. Some notable reductions in PM2.5 concentrations were predicted at some receptors (up to around 0.9 μg/m3). Small increases in concentration with the project were predicted for some receptors.
+
+<figure id="figure-9-51">
+  <img src="images/figure-9-51.jpg" alt="Chart showing change in annual mean PM2.5 at community receptors (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.51 Change in annual mean PM2.5 at community receptors (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+##### Results for RWR receptors
+
+The ranked annual mean PM2.5 concentrations at the RWR receptors in the 2021-DS scenario are shown in Figure 9.56, including the contributions of surface roads and ventilation outlets. As the background concentration was taken to be the same as the NSW criterion of eight μg/m3, the concentration at all receptors was above this value. The highest concentration at any receptor in this scenario was 10.8 μg/m3, but as with other pollutants and metrics the highest values were only predicted for a small proportion of receptors. The surface road contribution was between 0.4 μg/m3 and 2.8 μg/m3. The largest contribution from tunnel ventilation outlets in 2021 was 0.04 μg/m3 (0.05 μg/m3 in 2031).
+
+<figure id="figure-9-52">
+  <img src="images/figure-9-52.jpg" alt="Chart showing source contributions to annual mean PM2.5 at RWR receptors (2021-DS)" />
+  <figcaption>
+    Figure 9.52 Source contributions to annual mean PM2.5 at RWR receptors (2021-DS)
+  </figcaption>
+</figure>
+
+The change in the annual mean PM2.5 concentration at the RWR receptors in the 2021-DS scenario are ranked in Figure 9.57. The pattern here was very similar to that for PM10, with substantial reductions in concentration at a large number of locations. There was an increase in PM2.5 at 15 per cent of the receptors, although the increase was greater than 0.2 μg/m3 for only 0.4 per cent of receptors. The largest predicted increase in concentration at any receptor as a result of the project in 2021 was 0.5 μg/m3, and the largest predicted decrease was 1.9 μg/m3.
+
+<figure id="figure-9-53">
+  <img src="images/figure-9-53.jpg" alt="Chart showing change in annual mean PM2.5 at RWR receptors (2021-DS)" />
+  <figcaption>
+    Figure 9.53 Change in annual mean PM2.5 at RWR receptors (2021-DS)
+  </figcaption>
+</figure>
+
+The equivalent plots for 2031 are presented in Appendix K of the air quality assessment in Appendix H.
+
+#### 9.7.8 Air toxics
+
+Four air toxics - benzene, polycyclic aromatic hydrocarbons (PAHs) (as benzo(a)pyrene), formaldehyde and 1,3-butadiene - were considered in the assessment. These compounds were taken to be representative of the much wider range of air toxics associated with motor vehicles, and they have commonly been assessed for road projects.
+
+The changes in the maximum one-hour benzene concentration at the community receptors as a result in the project in 2021 and 2031 are show in Figure 9.54, where they are compared with the NSW impact assessment criterion from the Approved Methods. These changes took into account emissions from both surface roads and tunnel ventilation outlets, although the contribution of the latter was, at most, around 25 per cent and generally less than 10 per cent. It can be seen from Figure 9.54 that there was a decrease in the predicted benzene concentration at most of these receptors. Where there was an increase in the concentration, this was well below the assessment criterion. The changes in the maximum one-hour benzo(a)pyrene, formaldehyde and 1,3-butadiene concentration are presented in Figure 9.55, Figure 9.56,and Figure 9.57 respectively. For each compound, where there was an increase in the concentration, this was well below the NSW impact assessment criterion. The largest increases for the community receptors were also representative of the largest increases for the RWR receptors.
+
+<figure id="figure-9-54">
+  <img src="images/figure-9-54.jpg" alt="Chart showing change in maximum one-hour mean benzene at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.54 Change in maximum one-hour mean benzene at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-55">
+  <img src="images/figure-9-55.jpg" alt="Chart showing change in maximum one-hour mean benzo(a)pyrene at community receptors with the project (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.55 Change in maximum one-hour mean benzo(a)pyrene at community receptors with the project (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-56">
+  <img src="images/figure-9-56.jpg" alt="Chart showing change in maximum one-hour mean formaldehyde at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.56 Change in maximum one-hour mean formaldehyde at community receptors with the project in 2021 and 2031 (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-57">
+  <img src="images/figure-9-57.jpg" alt="Chart showing change in maximum one-hour mean 1,3-butadiene at community receptors (2021-DS and 2031-DS)" />
+  <figcaption>
+    Figure 9.57 Change in maximum one-hour mean 1,3-butadiene at community receptors (2021-DS and 2031-DS)
+  </figcaption>
+</figure>
+
+### 9.8 Assessment of cumulative impacts
+
+This assessment considers the potential cumulative impacts of the project with the possible future stages of WestConnex. All results are shown in Appendix J of the air quality assessment report in Appendix H and are illustrated in Figure 9.58 to Figure 9.66.
+
+#### 9.8.1 Results for expected traffic scenarios
+
+The results for the expected traffic scenarios and all pollutants are presented in Appendix K of the air quality assessment in Appendix H.
+
+In the majority of cases the results for the community receptors in the 2031-DSC scenario were very similar to those in the 2031-DS scenario, and an example of this is provided (for annual mean NO2) in Figure 9.27. The results are therefore not discussed further here. The one exception to this was 24- hour mean PM2.5, for which an exceedance of the criterion was predicted at one receptor (SR07) in the 2031-DSC scenario (Figure 9.62).
+
+As shown in Figure 9.58, there is minimal change in the maximum rolling eight-hour mean CO at community receptors when the M4􏰂M5 Link is in operation.
+
+##### Carbon monoxide (maximum rolling eight-hour mean)
+
+<figure id="figure-9-58">
+  <img src="images/figure-9-58.jpg" alt="Chart showing maximum rolling eight-hour mean CO at community receptors (2021-DS and 2031-DSC)" />
+  <figcaption>
+    Figure 9.58 Maximum rolling eight-hour mean CO at community receptors (2021-DS and 2031-DSC)
+  </figcaption>
+</figure>
+
+##### Nitrogen dioxide (annual mean)
+
+<figure id="figure-9-59">
+  <img src="images/figure-9-59.jpg" alt="Chart showing annual mean NO2 at community receptors with the project and the M4-M5 Link (2021-DS and 2031-DSC)" />
+  <figcaption>
+    Figure 9.59 Annual mean NO2 at community receptors with the project and the M4-M5 Link (2021-DS and 2031-DSC)
+  </figcaption>
+</figure>
+
+##### PM10 (annual mean)
+
+<figure id="figure-9-60">
+  <img src="images/figure-9-60.jpg" alt="Chart showing maximum 24-hour mean PM10 at community receptors with the project in 2021 and with the M4-M5 Link in 2031 (2021-DS and 2031-DSC)" />
+  <figcaption>
+    Figure 9.60 Maximum 24-hour mean PM10 at community receptors with the project in 2021 and with the M4-M5 Link in 2031 (2021-DS and 2031-DSC)
+  </figcaption>
+</figure>
+
+##### PM2.5 (annual mean)
+
+<figure id="figure-9-61">
+  <img src="images/figure-9-61.jpg" alt="Chart showing changes in annual mean PM2.5 at RWR receptors with the project and the M4-M5 Link in 2031 (2031-DSC)" />
+  <figcaption>
+    Figure 9.61 Changes in annual mean PM2.5 at RWR receptors with the project and the M4-M5 Link in 2031 (2031-DSC)
+  </figcaption>
+</figure>
+
+##### PM2.5 (maximum 24-hour mean)
+
+<figure id="figure-9-62">
+  <img src="images/figure-9-62.jpg" alt="Chart showing maximum 24-hour mean PM2.5 at community receptors with the project in 2021 and with the M4-M5 Link (2021-DS and 2031-DSC)" />
+  <figcaption>
+    Figure 9.62 Maximum 24-hour mean PM2.5 at community receptors with the project in 2021 and with the M4-M5 Link (2021-DS and 2031-DSC)
+  </figcaption>
+</figure>
+
+The results for the 2031-DSC scenario at the RWR receptors were also broadly similar to those for the 2031-DS scenario. However, there are predicted to be some increases in concentration for a very small number of receptors, as shown in Appendix K of the air quality assessment in Appendix H. These include, for example, an increase in annual mean PM2.5 of 3.7 ug/m3.
+
+##### Air toxics
+
+<figure id="figure-9-63">
+  <img src="images/figure-9-63.jpg" alt="Chart showing change in maximum one hour mean benzene at community receptors with the project in 2021 and with the M4-M5 Link in 2031 (2021-DS and 2031-DSC)" />
+  <figcaption>
+    Figure 9.63 Change in maximum one hour mean benzene at community receptors with the project in 2021 and with the M4-M5 Link in 2031 (2021-DS and 2031-DSC)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-64">
+  <img src="images/figure-9-64.jpg" alt="Chart showing change in maximum one hour mean benzene at community receptors with the project in 2021 and with the M4-M5 Link in 2031 (2021-DS and 2031-DSC)" />
+  <figcaption>
+    Figure 9.64 Change in maximum one hour mean benzene at community receptors with the project in 2021 and with the M4-M5 Link in 2031 (2021-DS and 2031-DSC)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-65">
+  <img src="images/figure-9-65.jpg" alt="Chart showing change in maximum 24 hours mean formaldehyde at community receptors with the project in 2021 and with the M4-M5 Link in 2031 (2021-DS and 2031-DSC)" />
+  <figcaption>
+    Figure 9.65 Change in maximum 24 hours mean formaldehyde at community receptors with the project in 2021 and with the M4-M5 Link in 2031 (2021-DS and 2031-DSC)
+  </figcaption>
+</figure>
+
+<figure id="figure-9-66">
+  <img src="images/figure-9-66.jpg" alt="Chart showing change in maximum one hour mean 1.3-butadiene at community receptors with the project in 2021 and with the M4-M5 Link in 2031 (2021-DS and 2031-DSC)" />
+  <figcaption>
+    Figure 9.66 Change in maximum one hour mean 1.3-butadiene at community receptors with the project in 2021 and with the M4-M5 Link in 2031 (2021-DS and 2031-DSC)
+  </figcaption>
+</figure>
+
+### 9.9 Management of impacts
+
+#### 9.9.1 Construction impacts
