@@ -923,7 +923,7 @@ Predicted criteria pollutant levels for the congested traffic scenario These con
 
 The tunnel average values for NO2 for the varying traffic speeds are shown in Table 9.15.
 
-<table>
+<table id="table-9-15">
   <caption>Table 9.15 Relationship between travel speed and average NO2 concentrations</caption>
   <thead>
     <tr>
@@ -941,7 +941,7 @@ The tunnel average values for NO2 for the varying traffic speeds are shown in Ta
 
 The maximum peak concentrations of pollutants in the tunnel for all traffic scenarios are shown in Table 9.16. The maximum in-tunnel concentrations of CO and NO2, as well as the peak extinction coefficient, were calculated using the methods described in Appendix L of the air quality assessment report (Appendix H). The maximum concentrations for all traffic scenarios, including worst-case conditions, were within the concentrations associated with the regulatory worst case.
 
-<table>
+<table id="table-9-16">
   <caption>Table 9.16 Capacity traffic Maximum in-tunnel concentrations for all scenarios</caption>
   <thead>
     <tr>
@@ -967,7 +967,7 @@ WestConnex GRAL domain. The emissions, in tonnes per year, are shown in changes 
 
 The increase in NOx emissions for the assessed road network in 2021 is estimated to be eight tonnes per year. This value equates to a tiny proportion of anthropogenic NOx emissions in the Sydney airshed in 2016 (around 53,700 tonnes). It was therefore concluded that the regional impacts of the project would be negligible, and undetectable in ambient air quality measurements at background locations.
 
-<table>
+<table id="table-9-17">
   <caption>Table 9.17 Total emissions in the WestConnex model domain</caption>
   <thead>
     <tr>
@@ -983,7 +983,7 @@ The increase in NOx emissions for the assessed road network in 2021 is estimated
   </tbody>
 </table>
 
-<table>
+<table id="table-9-18">
   <caption>Table 9.18 Changes in total emissions in the WestConnex model domain</caption>
   <thead>
     <tr>
@@ -1003,7 +1003,7 @@ The increase in NOx emissions for the assessed road network in 2021 is estimated
 
 The M4 East ventilation outlet heights and locations are shown in Table 9.19 and in Chapter 5 (Project description).The western ventilation outlet for the M4􏰃M5 Link would be adjacent to the M4 East eastern ventilation outlet.
 
-<table>
+<table id="table-9-19">
   <caption>Table 9.19 Ventilation outlet locations and heights</caption>
   <thead>
     <tr>
@@ -1023,7 +1023,7 @@ The M4 East ventilation outlet heights and locations are shown in Table 9.19 and
 
 A summary of the results for the regulatory worst case scenario for the 10,154 RWR receptors is presented in Table 9.20.
 
-<table>
+<table id="table-9-20">
   <caption>Table 9.20 Results of regulatory worst case assessment (RWR receptors)</caption>
   <thead>
     <tr>
